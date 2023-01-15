@@ -6,9 +6,11 @@
 		<script src="vendor/js/jquery-3.6.3.min.js"></script>
 		<link href="vendor/css/bootstrap.min.css" rel="stylesheet">
 		<link href="css/style.css" rel="stylesheet">
+		<script src="js/script.js"></script>
+    	<script>getData();</script>
 	</head>
 
-	<body onload="setup()">
+	<body onload="setup(1)">
 		<div class="container h-100">
 			<div class="row h-100 justify-content-center align-items-center d-flex flex-column">
 				<div class="box text-center">
@@ -20,18 +22,15 @@
 
 				<div class="box text-center mt-5">
 					<h1 id="quest_n2">Domanda 2</h1>
-					<p id="quest2">Test</p>
+					<p id="quest2"></p>
 					<button id="true2" type="button" class="btn btn-lg btn-outline-success mr-3" onclick="answerTrue2()">Vero</button>
 					<button id="false2" type="button" class="btn btn-lg btn-outline-danger" onclick="answerFalse2()">Falso</button>
 				</div>
+				<div class="mt-5">
+					<button id="prev" type="button" class="btn btn-lg btn-primary mt-5 mr-3" onclick="prevQuestion()">Precedente</button>
+					<button id="next" type="button" class="btn btn-lg btn-primary mt-5" onclick="nextQuestion()">Successiva</button>
+				</div>
 			</div>
-
-			<div class="row justify-content-center align-items-center">
-				<button id="next" type="button" class="btn btn-lg btn-primary mt-5">Next</button>
-				<button id="next" type="button" class="btn btn-lg btn-primary mt-5">Next</button>
-			</div>
-
 		</div>
-		<script src="js/script.js"></script>
 	</body>
 </html>
