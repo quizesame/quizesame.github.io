@@ -66,7 +66,7 @@ CountDownTimer.parse = function (seconds) {
 
 function start() {
     var display = document.querySelector("#timer"),
-        timer = new CountDownTimer(30);
+        timer = new CountDownTimer(600);
 
     timer.onTick(format(display)).start();
 

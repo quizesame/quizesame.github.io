@@ -258,7 +258,12 @@ function setPoints() {
         }
     }
 
-    document.getElementById("timer").innerHTML = correct + " / 70";
+    if (correct == 70) {
+        document.getElementById("timer").innerHTML = correct + " / 70, complimenti amore mio!";
+    }
+    else {
+        document.getElementById("timer").innerHTML = correct + " / 70";
+    }
     setup(quest_curr);
 }
 
