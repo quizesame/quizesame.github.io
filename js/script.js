@@ -262,7 +262,7 @@ function setPoints() {
     }
 
     if (correct == 70) {
-        document.getElementById("timer").innerHTML = correct + " / 70, complimenti!";
+        document.getElementById("timer").innerHTML = correct + " / 70, complimenti amore mio!";
     }
     else {
         document.getElementById("timer").innerHTML = correct + " / 70";
@@ -312,7 +312,6 @@ function checkResults() {
         }
         
     }
-
 
     if (map.get(quest_next.toString()) == correctAns2) {
 
