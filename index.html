@@ -8,11 +8,11 @@
 		<link href="css/style.css" rel="stylesheet">
 	</head>
 
-	<body onload="setup(1)">
+	<body onload="getJSON(); shuffle(); setup(1); start()">
 		<div class="container-fluid">
 			<div class="row justify-content-center align-items-center text-center">
 				<div class="col-md-auto mt-5">
-					<h1>24 : 57</h1>
+					<h1 id="timer"></h1>
 				</div>
 			</div>
 			<div class="row justify-content-center mt-5">
@@ -38,51 +38,52 @@
 					</div>
 
 					<div class="btn-group btn-matrix" role="group" aria-label="Three Column Button Matrix">
-						<button id="btn1" type="button" class="btn btn-outline-primary">1 - 2</button>
-						<button id="btn3" type="button" class="btn btn-outline-primary">3 - 4</button>
-						<button id="btn5" type="button" class="btn btn-outline-primary">5 - 6</button>
-						<button id="btn7" type="button" class="btn btn-outline-primary">7 - 8</button>
-						<button id="btn9" type="button" class="btn btn-outline-primary">9 - 10</button>
+						<button id="btn01" onclick="selectQuestion(this.id)" type="button" class="btn btn-outline-primary">1 - 2</button>
+						<button id="btn03" onclick="selectQuestion(this.id)" type="button" class="btn btn-outline-primary">3 - 4</button>
+						<button id="btn05" onclick="selectQuestion(this.id)" type="button" class="btn btn-outline-primary">5 - 6</button>
+						<button id="btn07" onclick="selectQuestion(this.id)" type="button" class="btn btn-outline-primary">7 - 8</button>
+						<button id="btn09" onclick="selectQuestion(this.id)" type="button" class="btn btn-outline-primary">9 - 10</button>
 
-						<button id="btn11" type="button" class="btn btn-outline-primary">11 - 12</button>
-						<button id="btn13" type="button" class="btn btn-outline-primary">13 - 14</button>
-						<button id="btn15" type="button" class="btn btn-outline-primary">15 - 16</button>
-						<button id="btn17" type="button" class="btn btn-outline-primary">17 - 18</button>
-						<button id="btn19" type="button" class="btn btn-outline-primary">19 - 20</button>
+						<button id="btn11" onclick="selectQuestion(this.id)" type="button" class="btn btn-outline-primary">11 - 12</button>
+						<button id="btn13" onclick="selectQuestion(this.id)" type="button" class="btn btn-outline-primary">13 - 14</button>
+						<button id="btn15" onclick="selectQuestion(this.id)" type="button" class="btn btn-outline-primary">15 - 16</button>
+						<button id="btn17" onclick="selectQuestion(this.id)" type="button" class="btn btn-outline-primary">17 - 18</button>
+						<button id="btn19" onclick="selectQuestion(this.id)" type="button" class="btn btn-outline-primary">19 - 20</button>
 						
-						<button id="btn21" type="button" class="btn btn-outline-primary">21 - 22</button>
-						<button id="btn23" type="button" class="btn btn-outline-primary">23 - 24</button>
-						<button id="btn25" type="button" class="btn btn-outline-primary">25 - 26</button>
-						<button id="btn27" type="button" class="btn btn-outline-primary">27 - 28</button>
-						<button id="btn29" type="button" class="btn btn-outline-primary">29 - 30</button>
+						<button id="btn21" onclick="selectQuestion(this.id)" type="button" class="btn btn-outline-primary">21 - 22</button>
+						<button id="btn23" onclick="selectQuestion(this.id)" type="button" class="btn btn-outline-primary">23 - 24</button>
+						<button id="btn25" onclick="selectQuestion(this.id)" type="button" class="btn btn-outline-primary">25 - 26</button>
+						<button id="btn27" onclick="selectQuestion(this.id)" type="button" class="btn btn-outline-primary">27 - 28</button>
+						<button id="btn29" onclick="selectQuestion(this.id)" type="button" class="btn btn-outline-primary">29 - 30</button>
 
-						<button id="btn31" type="button" class="btn btn-outline-primary">31 - 32</button>
-						<button id="btn33" type="button" class="btn btn-outline-primary">33 - 34</button>
-						<button id="btn35" type="button" class="btn btn-outline-primary">35 - 36</button>
-						<button id="btn37" type="button" class="btn btn-outline-primary">37 - 38</button>
-						<button id="btn39" type="button" class="btn btn-outline-primary">39 - 40</button>
+						<button id="btn31" onclick="selectQuestion(this.id)" type="button" class="btn btn-outline-primary">31 - 32</button>
+						<button id="btn33" onclick="selectQuestion(this.id)" type="button" class="btn btn-outline-primary">33 - 34</button>
+						<button id="btn35" onclick="selectQuestion(this.id)" type="button" class="btn btn-outline-primary">35 - 36</button>
+						<button id="btn37" onclick="selectQuestion(this.id)" type="button" class="btn btn-outline-primary">37 - 38</button>
+						<button id="btn39" onclick="selectQuestion(this.id)" type="button" class="btn btn-outline-primary">39 - 40</button>
 
-						<button id="btn41" type="button" class="btn btn-outline-primary">41 - 42</button>
-						<button id="btn43" type="button" class="btn btn-outline-primary">43 - 44</button>
-						<button id="btn45" type="button" class="btn btn-outline-primary">45 - 46</button>
-						<button id="btn47" type="button" class="btn btn-outline-primary">47 - 48</button>
-						<button id="btn49" type="button" class="btn btn-outline-primary">49 - 50</button>
+						<button id="btn41" onclick="selectQuestion(this.id)" type="button" class="btn btn-outline-primary">41 - 42</button>
+						<button id="btn43" onclick="selectQuestion(this.id)" type="button" class="btn btn-outline-primary">43 - 44</button>
+						<button id="btn45" onclick="selectQuestion(this.id)" type="button" class="btn btn-outline-primary">45 - 46</button>
+						<button id="btn47" onclick="selectQuestion(this.id)" type="button" class="btn btn-outline-primary">47 - 48</button>
+						<button id="btn49" onclick="selectQuestion(this.id)" type="button" class="btn btn-outline-primary">49 - 50</button>
 
-						<button id="btn51" type="button" class="btn btn-outline-primary">51 - 52</button>
-						<button id="btn53" type="button" class="btn btn-outline-primary">53 - 54</button>
-						<button id="btn55" type="button" class="btn btn-outline-primary">55 - 56</button>
-						<button id="btn57" type="button" class="btn btn-outline-primary">57 - 58</button>
-						<button id="btn59" type="button" class="btn btn-outline-primary">59 - 60</button>
+						<button id="btn51" onclick="selectQuestion(this.id)" type="button" class="btn btn-outline-primary">51 - 52</button>
+						<button id="btn53" onclick="selectQuestion(this.id)" type="button" class="btn btn-outline-primary">53 - 54</button>
+						<button id="btn55" onclick="selectQuestion(this.id)" type="button" class="btn btn-outline-primary">55 - 56</button>
+						<button id="btn57" onclick="selectQuestion(this.id)" type="button" class="btn btn-outline-primary">57 - 58</button>
+						<button id="btn59" onclick="selectQuestion(this.id)" type="button" class="btn btn-outline-primary">59 - 60</button>
 
-						<button id="btn61" type="button" class="btn btn-outline-primary">61 - 62</button>
-						<button id="btn63" type="button" class="btn btn-outline-primary">63 - 64</button>
-						<button id="btn65" type="button" class="btn btn-outline-primary">65 - 66</button>
-						<button id="btn67" type="button" class="btn btn-outline-primary">67 - 68</button>
-						<button id="btn69" type="button" class="btn btn-outline-primary">69 - 70</button>
+						<button id="btn61" onclick="selectQuestion(this.id)" type="button" class="btn btn-outline-primary">61 - 62</button>
+						<button id="btn63" onclick="selectQuestion(this.id)" type="button" class="btn btn-outline-primary">63 - 64</button>
+						<button id="btn65" onclick="selectQuestion(this.id)" type="button" class="btn btn-outline-primary">65 - 66</button>
+						<button id="btn67" onclick="selectQuestion(this.id)" type="button" class="btn btn-outline-primary">67 - 68</button>
+						<button id="btn69" onclick="selectQuestion(this.id)" type="button" class="btn btn-outline-primary">69 - 70</button>
 					</div>
 				</div>
 			</div>
 		</div>
+		<script src="js/timer.js"></script>
 		<script src="js/script.js"></script>
 	</body>
 
