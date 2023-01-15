@@ -4,6 +4,11 @@ var data;
 var map = new Object();
 
 function setup(val) {
+    document.getElementById("true").classList.remove("active");
+    document.getElementById("false").classList.remove("active");
+    document.getElementById("true2").classList.remove("active");
+    document.getElementById("false2").classList.remove("active");
+
     quest_curr = val;
     quest_next = quest_curr + 1;
 
@@ -61,17 +66,9 @@ function answerFalse2() {
 }
 
 function nextQuestion() {
-    document.getElementById("true").classList.remove("active");
-    document.getElementById("false").classList.remove("active");
-    document.getElementById("true2").classList.remove("active");
-    document.getElementById("false2").classList.remove("active");
     setup(quest_curr+2);
 }
 
 function prevQuestion() {
-    document.getElementById("true").classList.remove("active");
-    document.getElementById("false").classList.remove("active");
-    document.getElementById("true2").classList.remove("active");
-    document.getElementById("false2").classList.remove("active");
     setup(quest_curr-2);
 }

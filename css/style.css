@@ -16,10 +16,51 @@ p {
 }
 
 .box {
+    box-sizing: content-box !important;
     padding: 40px;
     width: 500px;
     border-radius: 10px;
     -webkit-box-shadow: -1px 8px 15px 0px rgba(0, 0, 0, 0.5);
     -moz-box-shadow: -1px 8px 15px 0px rgba(0, 0, 0, 0.5);
     box-shadow: -1px 8px 15px 0px rgba(0, 0, 0, 0.5);
+}
+
+button {
+}
+
+/* MATRIX OF BUTTONS */
+@import "https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.0.2/css/bootstrap.min.css";
+
+/* Arrange buttons */
+.btn-matrix {
+   flex-wrap: wrap; /* allow buttons to jump to another row */
+}
+.btn-matrix > .btn {
+   width: 33%; /* force buttons to have the same width regardless of content */
+}
+.btn-matrix > .btn:nth-child(3n + 4) {
+   margin-left: 0; /* because .btn-group adds `margin-left: -1px;` to all buttons */
+}
+.btn-matrix > .btn:nth-child(n + 4) {
+   margin-top: -1px; /* superimpose borders of the buttons from adjacent rows */
+}
+
+/* Fix border radius */
+.btn-matrix > .btn:first-child {
+   border-bottom-left-radius: 0;
+}
+.btn-matrix > .btn:nth-child(3) {
+   border-top-right-radius: 4px !important;
+}
+.btn-matrix > .btn:nth-last-child(3) {
+   border-bottom-left-radius: 4px !important;
+}
+.btn-matrix > .btn:last-child {
+   border-top-right-radius: 0;
+}
+
+/* Decorations */
+.btn-matrix {
+   margin: 20px;
+   max-width: 500px;
 }
