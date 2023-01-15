@@ -262,7 +262,7 @@ function setPoints() {
     }
 
     if (correct == 70) {
-        document.getElementById("timer").innerHTML = correct + " / 70, complimenti amore mio!";
+        document.getElementById("timer").innerHTML = correct + " / 70, complimenti!";
     }
     else {
         document.getElementById("timer").innerHTML = correct + " / 70";
@@ -306,6 +306,7 @@ function checkResults() {
             btn.classList.add("btn-warning");
             btn.classList.remove("active");
             btn.classList.remove("btn-outline-danger");
+            btn.classList.remove("btn-danger");
 
             document.getElementById("true").classList.remove("active");
         }
@@ -343,6 +344,7 @@ function checkResults() {
             btn.classList.add("btn-warning");
             btn.classList.remove("active");
             btn.classList.remove("btn-outline-danger");
+            btn.classList.remove("btn-danger");
 
             document.getElementById("true2").classList.remove("active");
         }
