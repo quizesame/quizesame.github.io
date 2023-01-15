@@ -49,6 +49,16 @@ async function setup(val) {
     document.getElementById("true2").classList.remove("active");
     document.getElementById("false2").classList.remove("active");
 
+
+    document.getElementById("true").classList.add("btn-outline-success");
+    document.getElementById("true").classList.remove("btn-warning");
+    document.getElementById("false").classList.add("btn-outline-danger");
+    document.getElementById("false").classList.remove("btn-warning");
+    document.getElementById("true2").classList.add("btn-outline-success");
+    document.getElementById("true2").classList.remove("btn-warning");
+    document.getElementById("false2").classList.add("btn-outline-danger");
+    document.getElementById("false2").classList.remove("btn-warning");
+
     ansFirst = false;
     ansSecond = false;
 
@@ -209,16 +219,6 @@ function prevQuestion() {
 }
 
 function selectQuestion(id) {
-    if (expired) {
-        document.getElementById("true").classList.remove("btn-warning");
-        document.getElementById("true").classList.add("btn-outline-success");
-        document.getElementById("false").classList.remove("btn-warning");
-        document.getElementById("false").classList.add("btn-outline-danger");
-        document.getElementById("true2").classList.remove("btn-warning");
-        document.getElementById("true2").classList.add("btn-outline-success");
-        document.getElementById("false2").classList.remove("btn-warning");
-        document.getElementById("false2").classList.add("btn-outline-danger");
-    }
     setup(Number(id.slice(-2)));
 }
 
@@ -243,7 +243,7 @@ function setPoints() {
             console.log("La domanda " + quesN + " e' corretta.");
             if (!hasClass(btn, "btn-success")) {
                 if (hasClass(btn, "btn-danger")) {
-                    btn.classList.remove("btn-danger");
+                    continue;
                 }
                 else {
                     btn.classList.remove("btn-outline-primary");
@@ -252,15 +252,9 @@ function setPoints() {
             }
         }
         else {
-            if (!hasClass(btn, "btn-danger")) {
-                if (!hasClass(btn, "btn-success")) {
-                    btn.classList.remove("btn-outline-primary");
-                }
-                else {
-                    btn.classList.remove("btn-success");
-                }
+                btn.classList.remove("btn-outline-primary");
+                btn.classList.remove("btn-success");
                 btn.classList.add("btn-danger");
-            }
         }
     }
 
