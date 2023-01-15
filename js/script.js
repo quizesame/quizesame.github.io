@@ -7,6 +7,8 @@ var questions = new Map();
 var ansFirst = false;
 var ansSecond = false;
 
+var expired = 0;
+
 async function getJSON() {
     return fetch("https://raw.githubusercontent.com/quizanatomia/quizanatomia.github.io/main/domande.json")
         .then((response)=>response.json())
@@ -16,7 +18,6 @@ async function getJSON() {
 async function shuffle() {
     var json = await this.getJSON();
     var data = new Map();
-
 
     let keys, randKey;
     var genKeys = new Array();
@@ -42,7 +43,6 @@ async function setup(val) {
     if (!randData) {
         questions = await this.shuffle();
     }
-    console.log(questions)
 
     document.getElementById("true").classList.remove("active");
     document.getElementById("false").classList.remove("active");
@@ -68,19 +68,25 @@ async function setup(val) {
     }
 
     // check if the answer has already been given 
-    if (map[quest_curr.toString()] == "T" || map[quest_curr.toString()] == "F") {
-        document.getElementById(map[quest_curr.toString()] == "T" ? "true" : "false").classList.add("active");
+    if (map.get(quest_curr.toString()) == "V" || map.get(quest_curr.toString()) == "F") {
+        document.getElementById(map.get(quest_curr.toString()) == "V" ? "true" : "false").classList.add("active");
         ansFirst = true;
     }
-    if (map[quest_next.toString()] == "T" || map[quest_next.toString()] == "F") {
-        document.getElementById(map[quest_next.toString()] == "T" ? "true2" : "false2").classList.add("active");
+    if (map.get(quest_next.toString()) == "V" || map.get(quest_next.toString()) == "F") {
+        document.getElementById(map.get(quest_next.toString()) == "V" ? "true2" : "false2").classList.add("active");
         ansSecond = true;
     }
+
 
     document.getElementById("quest_n").innerHTML = "Domanda " + quest_curr;
     document.getElementById("quest").innerHTML = questions.get(quest_curr.toString())["question"]
 
     document.getElementById("quest_n2").innerHTML = "Domanda " + (quest_next);
+
+    // final check after the quiz has finished
+    if (expired) {
+        checkResults();
+    }
     document.getElementById("quest2").innerHTML = questions.get((quest_curr+1).toString())["question"]
 /*
     $.getJSON("https://raw.githubusercontent.com/quizanatomia/quizanatomia.github.io/main/domande.json", function(data) {
@@ -123,8 +129,8 @@ function answerTrue() {
     else {
         fbtn.classList.remove("active");
         tbtn.classList.add("active");
-        map.set(quest_curr.toString(), "T");
-        // map[quest_curr.toString()] = "T";
+        map.set(quest_curr.toString(), "V");
+        // map[quest_curr.toString()] = "V";
         ansFirst = true;
     }
 
@@ -165,8 +171,8 @@ function answerTrue2() {
     else {
         fbtn.classList.remove("active");
         tbtn.classList.add("active");
-        map.set(quest_next.toString(), "T");
-        // map[quest_next.toString()] = "T";
+        map.set(quest_next.toString(), "V");
+        // map[quest_next.toString()] = "V";
         ansSecond = true;
     }
 
@@ -203,13 +209,146 @@ function prevQuestion() {
 }
 
 function selectQuestion(id) {
+    if (expired) {
+        document.getElementById("true").classList.remove("btn-warning");
+        document.getElementById("true").classList.add("btn-outline-success");
+        document.getElementById("false").classList.remove("btn-warning");
+        document.getElementById("false").classList.add("btn-outline-danger");
+        document.getElementById("true2").classList.remove("btn-warning");
+        document.getElementById("true2").classList.add("btn-outline-success");
+        document.getElementById("false2").classList.remove("btn-warning");
+        document.getElementById("false2").classList.add("btn-outline-danger");
+    }
     setup(Number(id.slice(-2)));
 }
 
 // set the correct answers
-function checkResults() {
-    document.getElementById("timer").innerHTML = "Risultato";
-    for (const [key, value] of map.entries()) {
-        console.log(key, value);
+function setPoints() {
+    document.getElementById("timer").innerHTML = "Sto calcolando il risultato...";
+
+    var btn, correct = 0;
+    var quesN = 0;
+    for (let i = 0; i < 70; i++) {
+        quesN = i+1;
+
+        if (quesN % 2 != 0) {
+            btn = document.getElementById("btn" + (quesN >= 10 ? quesN : "0" + quesN));
+        }
+        else {
+            btn = document.getElementById("btn" + ((quesN-1) >= 10 ? (quesN-1) : "0" + (quesN-1)));
+        }
+        
+        if (map.get(quesN.toString()) == questions.get(quesN.toString())["answer"]) {
+            correct += 1;
+            console.log("La domanda " + quesN + " e' corretta.");
+            if (!hasClass(btn, "btn-success")) {
+                if (hasClass(btn, "btn-danger")) {
+                    btn.classList.remove("btn-danger");
+                }
+                else {
+                    btn.classList.remove("btn-outline-primary");
+                }
+                btn.classList.add("btn-success");
+            }
+        }
+        else {
+            if (!hasClass(btn, "btn-danger")) {
+                if (!hasClass(btn, "btn-success")) {
+                    btn.classList.remove("btn-outline-primary");
+                }
+                else {
+                    btn.classList.remove("btn-success");
+                }
+                btn.classList.add("btn-danger");
+            }
+        }
     }
+
+    document.getElementById("timer").innerHTML = correct + " / 70";
+    setup(quest_curr);
+}
+
+function checkResults() {
+    var btn;
+    var correctAns1 = questions.get(quest_curr.toString())["answer"];
+    var correctAns2 = questions.get(quest_next.toString())["answer"];
+
+    if (map.get(quest_curr.toString()) == correctAns1) {
+
+        btn = document.getElementById("true");
+        if (hasClass(btn, "active")) {
+            btn.classList.add("btn-success");
+            btn.classList.remove("active");
+            btn.classList.remove("btn-outline-success");
+        }
+        else {
+            btn = document.getElementById("false");
+            btn.classList.add("btn-danger");
+            btn.classList.remove("active");
+            btn.classList.remove("btn-outline-danger");
+        }
+
+    }
+    else {
+
+        if (correctAns1 == "V") {
+            btn = document.getElementById("true");
+            btn.classList.add("btn-warning");
+            btn.classList.remove("active");
+            btn.classList.remove("btn-outline-success");
+
+            document.getElementById("false").classList.remove("active");
+        }
+        else {
+            btn = document.getElementById("false");
+            btn.classList.add("btn-warning");
+            btn.classList.remove("active");
+            btn.classList.remove("btn-outline-danger");
+
+            document.getElementById("true").classList.remove("active");
+        }
+        
+    }
+
+
+    if (map.get(quest_next.toString()) == correctAns2) {
+
+        btn = document.getElementById("true2");
+        if (hasClass(btn, "active")) {
+            btn.classList.add("btn-success");
+            btn.classList.remove("active");
+            btn.classList.remove("btn-outline-success");
+        }
+        else {
+            btn = document.getElementById("false2");
+            btn.classList.add("btn-danger");
+            btn.classList.remove("active");
+            btn.classList.remove("btn-outline-danger");
+        }
+    }
+    else {
+
+        if (correctAns2 == "V") {
+            btn = document.getElementById("true2");
+            btn.classList.add("btn-warning");
+            btn.classList.remove("active");
+            btn.classList.remove("btn-outline-success");
+
+            document.getElementById("false2").classList.remove("active");
+        }
+        else {
+            btn = document.getElementById("false2");
+            btn.classList.add("btn-warning");
+            btn.classList.remove("active");
+            btn.classList.remove("btn-outline-danger");
+
+            document.getElementById("true2").classList.remove("active");
+        }
+        
+    }
+
+    document.getElementById("true").setAttribute("disabled", "");
+    document.getElementById("false").setAttribute("disabled", "");
+    document.getElementById("true2").setAttribute("disabled", "");
+    document.getElementById("false2").setAttribute("disabled", "");
 }

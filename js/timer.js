@@ -2,7 +2,8 @@ var targetObj = {};
 var targetProxy = new Proxy(targetObj, {
   set: function (target, key, value) {
 	  if (value == -1) {
-		checkResults();
+		expired = 1;
+		setPoints();
 	  }
       target[key] = value;
       return true;
@@ -65,7 +66,7 @@ CountDownTimer.parse = function (seconds) {
 
 function start() {
     var display = document.querySelector("#timer"),
-        timer = new CountDownTimer(5);
+        timer = new CountDownTimer(30);
 
     timer.onTick(format(display)).start();
 
