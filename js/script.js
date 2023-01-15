@@ -285,9 +285,9 @@ function checkResults() {
         }
         else {
             btn = document.getElementById("false");
-            btn.classList.add("btn-danger");
+            btn.classList.add("btn-success");
             btn.classList.remove("active");
-            btn.classList.remove("btn-outline-danger");
+            // btn.classList.remove("btn-outline-danger");
         }
 
     }
@@ -324,9 +324,9 @@ function checkResults() {
         }
         else {
             btn = document.getElementById("false2");
-            btn.classList.add("btn-danger");
+            btn.classList.add("btn-success");
             btn.classList.remove("active");
-            btn.classList.remove("btn-outline-danger");
+            // btn.classList.remove("btn-outline-danger");
         }
     }
     else {

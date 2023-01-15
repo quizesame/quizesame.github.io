@@ -35,7 +35,7 @@ CountDownTimer.prototype.start = function () {
 			targetProxy.diff = -1;
 		}
 
-		console.log(targetProxy.diff)
+		// console.log(targetProxy.diff)
 		if (targetProxy.diff >= 0) {
 			setTimeout(timer, that.granularity);
 		} else {
