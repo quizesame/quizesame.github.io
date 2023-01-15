@@ -2,6 +2,7 @@ var targetObj = {};
 var targetProxy = new Proxy(targetObj, {
   set: function (target, key, value) {
 	  if (value == -1) {
+		this.running = false;
 		expired = 1;
 		setPoints();
 	  }
@@ -29,8 +30,12 @@ CountDownTimer.prototype.start = function () {
 
 	(function timer() {
 		targetProxy.diff = that.duration - (((Date.now() - start) / 1000) | 0);
-		// console.log(targetProxy.diff)
 
+		if (expired) {
+			targetProxy.diff = -1;
+		}
+
+		console.log(targetProxy.diff)
 		if (targetProxy.diff >= 0) {
 			setTimeout(timer, that.granularity);
 		} else {
@@ -66,7 +71,7 @@ CountDownTimer.parse = function (seconds) {
 
 function start() {
     var display = document.querySelector("#timer"),
-        timer = new CountDownTimer(600);
+        timer = new CountDownTimer(1500);
 
     timer.onTick(format(display)).start();
 
@@ -77,5 +82,4 @@ function start() {
             display.textContent = minutes + ' : ' + seconds;
         };
     }
-
 };

@@ -50,14 +50,6 @@ async function setup(val) {
     document.getElementById("false2").classList.remove("active");
 
 
-    document.getElementById("true").classList.add("btn-outline-success");
-    document.getElementById("true").classList.remove("btn-warning");
-    document.getElementById("false").classList.add("btn-outline-danger");
-    document.getElementById("false").classList.remove("btn-warning");
-    document.getElementById("true2").classList.add("btn-outline-success");
-    document.getElementById("true2").classList.remove("btn-warning");
-    document.getElementById("false2").classList.add("btn-outline-danger");
-    document.getElementById("false2").classList.remove("btn-warning");
 
     ansFirst = false;
     ansSecond = false;
@@ -92,12 +84,19 @@ async function setup(val) {
     document.getElementById("quest").innerHTML = questions.get(quest_curr.toString())["question"]
 
     document.getElementById("quest_n2").innerHTML = "Domanda " + (quest_next);
-
+    document.getElementById("quest2").innerHTML = questions.get((quest_curr+1).toString())["question"]
     // final check after the quiz has finished
     if (expired) {
+        document.getElementById("true").classList.add("btn-outline-success");
+        document.getElementById("true").classList.remove("btn-warning");
+        document.getElementById("false").classList.add("btn-outline-danger");
+        document.getElementById("false").classList.remove("btn-warning");
+        document.getElementById("true2").classList.add("btn-outline-success");
+        document.getElementById("true2").classList.remove("btn-warning");
+        document.getElementById("false2").classList.add("btn-outline-danger");
+        document.getElementById("false2").classList.remove("btn-warning");
         checkResults();
     }
-    document.getElementById("quest2").innerHTML = questions.get((quest_curr+1).toString())["question"]
 /*
     $.getJSON("https://raw.githubusercontent.com/quizanatomia/quizanatomia.github.io/main/domande.json", function(data) {
         document.getElementById("quest_n").innerHTML = "Domanda " + quest_curr;
@@ -220,6 +219,10 @@ function prevQuestion() {
 
 function selectQuestion(id) {
     setup(Number(id.slice(-2)));
+}
+
+function endQuiz() {
+    targetProxy.diff = -1;
 }
 
 // set the correct answers
