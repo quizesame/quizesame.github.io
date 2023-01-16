@@ -97,15 +97,6 @@ async function setup(val) {
         document.getElementById("false2").classList.remove("btn-warning");
         checkResults();
     }
-/*
-    $.getJSON("https://raw.githubusercontent.com/quizanatomia/quizanatomia.github.io/main/domande.json", function(data) {
-        document.getElementById("quest_n").innerHTML = "Domanda " + quest_curr;
-        document.getElementById("quest").innerHTML = data[quest_curr-1]["question"];
-
-        document.getElementById("quest_n2").innerHTML = "Domanda " + (quest_next);
-        document.getElementById("quest2").innerHTML = data[quest_curr]["question"];
-    });
-*/
 }
 
 function hasClass(element, className) {
@@ -230,35 +221,33 @@ function setPoints() {
     document.getElementById("timer").innerHTML = "Sto calcolando il risultato...";
 
     var btn, correct = 0;
-    var quesN = 0;
-    for (let i = 0; i < 70; i++) {
+    var quesN = 0, quesNnext = 0, c = 0;
+    for (let i = 0; i < 70; i += 2) {
         quesN = i+1;
+        quesNnext = quesN + 1;
+        btn = document.getElementById("btn" + (quesN >= 10 ? quesN : "0" + quesN));
 
-        if (quesN % 2 != 0) {
-            btn = document.getElementById("btn" + (quesN >= 10 ? quesN : "0" + quesN));
-        }
-        else {
-            btn = document.getElementById("btn" + ((quesN-1) >= 10 ? (quesN-1) : "0" + (quesN-1)));
-        }
-        
         if (map.get(quesN.toString()) == questions.get(quesN.toString())["answer"]) {
             correct += 1;
             console.log("La domanda " + quesN + " e' corretta.");
-            if (!hasClass(btn, "btn-success")) {
-                if (hasClass(btn, "btn-danger")) {
-                    continue;
-                }
-                else {
-                    btn.classList.remove("btn-outline-primary");
-                }
-                btn.classList.add("btn-success");
-            }
+            c += 1;
+        }
+        if (map.get(quesNnext.toString()) == questions.get(quesNnext.toString())["answer"]) {
+            correct += 1;
+            console.log("La domanda " + quesNnext + " e' corretta.");
+            c += 1;
+        }
+
+        if (c == 2) {
+            btn.classList.remove("btn-outline-primary");
+            btn.classList.add("btn-success");
         }
         else {
-                btn.classList.remove("btn-outline-primary");
-                btn.classList.remove("btn-success");
-                btn.classList.add("btn-danger");
+            btn.classList.remove("btn-outline-primary");
+            btn.classList.remove("btn-success");
+            btn.classList.add("btn-danger");
         }
+        c = 0;
     }
 
     if (correct == 70) {
