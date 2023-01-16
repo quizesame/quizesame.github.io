@@ -39,17 +39,24 @@ async function shuffle() {
     return data;
 }
 
+function resetButtons() {
+    document.getElementById("true").className = "btn btn-lg btn-outline-success mr-3";
+    document.getElementById("false").className = "btn btn-lg btn-outline-danger";
+    document.getElementById("true2").className = "btn btn-lg btn-outline-success mr-3";
+    document.getElementById("false2").className = "btn btn-lg btn-outline-danger";
+}
+
 async function setup(val) {
     if (!randData) {
         questions = await this.shuffle();
     }
 
+    resetButtons();
+
     document.getElementById("true").classList.remove("active");
     document.getElementById("false").classList.remove("active");
     document.getElementById("true2").classList.remove("active");
     document.getElementById("false2").classList.remove("active");
-
-
 
     ansFirst = false;
     ansSecond = false;
@@ -266,75 +273,50 @@ function checkResults() {
 
     if (map.get(quest_curr.toString()) == correctAns1) {
 
-        btn = document.getElementById("true");
-        if (hasClass(btn, "active")) {
-            btn.classList.add("btn-success");
-            btn.classList.remove("active");
-            btn.classList.remove("btn-outline-success");
+        if (correctAns1 == "V") {
+            document.getElementById("true").className = "btn btn-lg btn-success mr-3";
+            document.getElementById("false").className = "btn btn-lg btn-outline-danger";
         }
         else {
-            btn = document.getElementById("false");
-            btn.classList.add("btn-success");
-            btn.classList.remove("active");
-            // btn.classList.remove("btn-outline-danger");
+            document.getElementById("false").className = "btn btn-lg btn-success";
+            document.getElementById("true").className = "btn btn-lg btn-outline-success mr-3";
         }
 
     }
     else {
 
         if (correctAns1 == "V") {
-            btn = document.getElementById("true");
-            btn.classList.add("btn-warning");
-            btn.classList.remove("active");
-            btn.classList.remove("btn-outline-success");
-
-            document.getElementById("false").classList.remove("active");
+            document.getElementById("true").className = "btn btn-lg btn-warning mr-3";
+            document.getElementById("false").className = "btn btn-lg btn-outline-danger";
         }
         else {
-            btn = document.getElementById("false");
-            btn.classList.add("btn-warning");
-            btn.classList.remove("active");
-            btn.classList.remove("btn-outline-danger");
-            btn.classList.remove("btn-danger");
-
-            document.getElementById("true").classList.remove("active");
+            document.getElementById("false").className = "btn btn-lg btn-warning";
+            document.getElementById("true").className = "btn btn-lg btn-outline-success mr-3";
         }
         
     }
 
     if (map.get(quest_next.toString()) == correctAns2) {
 
-        btn = document.getElementById("true2");
-        if (hasClass(btn, "active")) {
-            btn.classList.add("btn-success");
-            btn.classList.remove("active");
-            btn.classList.remove("btn-outline-success");
+        if (correctAns2 == "V") {
+            document.getElementById("true2").className = "btn btn-lg btn-success mr-3";
+            document.getElementById("false2").className = "btn btn-lg btn-outline-danger";
         }
         else {
-            btn = document.getElementById("false2");
-            btn.classList.add("btn-success");
-            btn.classList.remove("active");
-            // btn.classList.remove("btn-outline-danger");
+            document.getElementById("false2").className = "btn btn-lg btn-success";
+            document.getElementById("true2").className = "btn btn-lg btn-outline-success mr-3";
         }
+
     }
     else {
 
         if (correctAns2 == "V") {
-            btn = document.getElementById("true2");
-            btn.classList.add("btn-warning");
-            btn.classList.remove("active");
-            btn.classList.remove("btn-outline-success");
-
-            document.getElementById("false2").classList.remove("active");
+            document.getElementById("true2").className = "btn btn-lg btn-warning mr-3";
+            document.getElementById("false2").className = "btn btn-lg btn-outline-danger";
         }
         else {
-            btn = document.getElementById("false2");
-            btn.classList.add("btn-warning");
-            btn.classList.remove("active");
-            btn.classList.remove("btn-outline-danger");
-            btn.classList.remove("btn-danger");
-
-            document.getElementById("true2").classList.remove("active");
+            document.getElementById("false2").className = "btn btn-lg btn-warning";
+            document.getElementById("true2").className = "btn btn-lg btn-outline-success mr-3";
         }
         
     }
