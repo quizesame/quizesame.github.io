@@ -220,6 +220,7 @@ function selectQuestion(id) {
 }
 
 function endQuiz() {
+    document.getElementById("end").setAttribute("disabled", "");
     targetProxy.diff = -1;
 }
 
