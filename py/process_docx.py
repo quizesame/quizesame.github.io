@@ -9,12 +9,16 @@ def get_questions(filename):
     doc = docx.Document(filename)
     questions = []
     q_class = ""
+    end_dot = ""
     for line in doc.paragraphs:
         if line.text[0] == ".":
             q_class = line.text[1:]
             continue
         ans = line.text[-1]
-        questions.append([line.text[:-1].rstrip(), ans, q_class])
+        if line.text[-3] != ".":
+            end_dot = "."
+        questions.append([line.text[:-1].rstrip()+end_dot, ans, q_class])
+        end_dot = ""
     return questions
 
 def export_to_json(data):
