@@ -299,6 +299,588 @@
         "I gruppi di lavoro hanno compiti di consulenza alle singole scuole, di collaborazione con gli enti locali per la conclusione e la verifica dell’esecuzione degli accordi di programma"
       ],
       "correctAnswer": "1"
+    },
+    {
+  "questions": [
+    {
+      "question": "Nella Direttiva Ministeriale vengono identificate macro-categorie di alunni. Quali sono?",
+      "options": [
+        "Alunni con disabilità; Alunni con DSA (che sono un caso particolare di Disturbi Evolutivi Specifici) e Alunni con DES (disturbi evolutivi specifici); Alunni con svantaggio socio-economico, linguistico e culturale",
+        "Alunni con disabilità; Alunni con DSA (che sono un caso particolare di Disturbi Evolutivi Specifici) e Alunni con DES (disturbi evolutivi specifici)",
+        "Alunni con disabilità; Alunni con svantaggio socio-economico, linguistico e culturale",
+        "Alunni con DSA (che sono un caso particolare di Disturbi Evolutivi Specifici) e Alunni con DES (disturbi evolutivi specifici); Alunni con svantaggio socio-economico, linguistico e culturale"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "I DSA comprendono:",
+      "options": [
+        "Dislessia, Discalculia, Disortografia, Disgrafia",
+        "Dislessia, Distortografia, Disgrafia, Disturbi del linguaggio e disturbi delle abilità motorie",
+        "Dislessia, Discalculia, Disortografia, Forme lievi di autismo",
+        "Disgrafia, disortografia, Discalculia, Disturbi ipercinetici"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "Quali studenti comprende l’area dello svantaggio socio-economico, linguistico e culturale?",
+      "options": [
+        "tutti quegli studenti che presentano DSA",
+        "tutti quegli studenti con disabilità certificata, secondo la nuova classificazione ICF: identifica le difficoltà di funzionamento della persona sia a livello personale che nella partecipazione sociale, secondo il modello bio–psico–sociale",
+        "tutti quegli studenti che presentano situazioni di deprivazione culturale, oppure gli studenti stranieri con difficoltà linguistiche ed appartenenti ad una cultura diversa",
+        "tutti quegli studenti con particolari Disturbi Evolutivi Specifici (DES), nella cui ampia categoria riscontriamo: disturbi del linguaggio e disturbi delle abilità motorie; disturbi ipercinetici, forme lievi di autismo e il funzionamento intellettivo limite"
+      ],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "La Direttiva BES del 2012, oltre a classificare gli studenti con svantaggio:",
+      "options": [
+        "identifica specifiche patologie a livello clinico - diagnostico",
+        "identifica precisi strumenti che mette a disposizione del Dirigente",
+        "identifica solamente la classificazione degli studenti con svantaggio",
+        "identifica precisi strumenti che orientano l’azione pedagogico – didattica dei docenti"
+      ],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "Quali sono gli strumenti operativi nel caso di alunni con disabilità?",
+      "options": [
+        "Diagnosi funzionale, PDP, PEI",
+        "Diagnosi funzionale, PDF, PEI",
+        "Diagnosi funzionale, PEI",
+        "Diagnosi funzionale"
+      ],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "Da chi è redatto il PEI?",
+      "options": [
+        "È redatto dal Consiglio di classe all’inizio di ogni anno, in collaborazione con i servizi socio– sanitari di riferimento e con la famiglia dello studente",
+        "È elaborato da insegnanti, tecnici ASL e genitori",
+        "È redatto dall’unità multidisciplinare per l’integrazione scolastica (servizio dell’ASL)",
+        "È redatto dal Dirigente scolastico"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "Cosa sono le “misure dispensative”?",
+      "options": [
+        "Consentono di «compensare» le carenze funzionali determinate dal disturbo",
+        "Sono misure riabilitative per studenti con disabilità",
+        "Evitano allo studente di cimentarsi in forme di attività destinate al sicuro fallimento",
+        "Sono misure che non rilevano nel contesto scolastico, ma solo nel quadro clinico dello studente con disabilità"
+      ],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Quali tra questi costituiscono esempi di “strumenti compensativi”?",
+      "options": [
+        "Tempi più lunghi per svolgere le prove scritte; organizzazione di verifiche programmate",
+        "Attività che prevedono l’intervento dei genitori, supporti riabilitativi e sociali",
+        "Supporto di libri di testo, ipertesti, enciclopedie",
+        "Supporto di strumenti informatici, PC, calcolatrice, correttore ortografico, sintesi vocale, supporto di mappe concettuali, tabelle, schemi"
+      ],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "Quali sono le più importanti innovazioni in materia di inclusione apportate dal D.Lgs. 66/2017?",
+      "options": [
+        "la Valutazione della qualità dell’inclusione, la Riforma dei Gruppi di Lavoro, l’Accertamento della disabilità",
+        "la Valutazione della qualità dell’inclusione e la Valutazione delle metodologie impiegate dalla scuola",
+        "I Gruppi di lavoro",
+        "La redistribuzione delle competenze in ottica federalista"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "Il nuovo Decreto 66/2017 intanto sostituisce la denominazione dei gruppi, istituendo i \"Gruppi per l'inclusione scolastica\". Questi vengono ora individuati su 3 livelli:",
+      "options": [
+        "presso l'Ufficio Scolastico Regionale è allocato il GLIR; presso ciascuno degli ambiti territoriali è istituito il GIT",
+        "presso ciascuno degli ambiti territoriali è istituito il GIT; presso ciascuna istituzione scolastica è confermato il GLI",
+        "presso l'Ufficio Scolastico Regionale è allocato il GLIR; presso ciascuno degli ambiti territoriali è istituito il GIT; presso ciascuna istituzione scolastica e' confermato il GLI",
+        "presso l'Ufficio Scolastico Regionale è allocato il GLI; presso ciascuno degli ambiti territoriali è istituito il GLIR; presso ciascuna istituzione scolastica è confermato il GIT"
+      ],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Qual è l’oggetto della Valutazione, in un sistema inclusivo?",
+      "options": [
+        "L’oggetto della valutazione si sostanzia, nel caso di un sistema inclusivo, nelle procedure di insegnamento/apprendimento",
+        "L’oggetto della valutazione si sostanzia, nel caso di un sistema inclusivo, negli esiti di apprendimento",
+        "L’oggetto della valutazione si sostanzia, nel caso di un sistema inclusivo, negli atteggiamenti, comportamenti, metodologie, strategie e pratiche messe in atto da insegnanti e studenti all’interno del gruppo classe, ove consistente è la presenza di alunni con disabilità o con bisogni educativi speciali",
+        "L’oggetto della valutazione si sostanzia, nel caso di un sistema inclusivo, negli atteggiamenti, comportamenti, metodologie, strategie e pratiche messe in atto da alunni con disabilità o con bisogni educativi speciali"
+      ],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Il Piano per l’inclusione è",
+      "options": [
+        "il nuovo documento che ciascuna istituzione scolastica è chiamato ad adottare a partire dal 1° settembre 2017. Esso può considerarsi parte integrante del Piano triennale dell’Offerta Formativa, pertanto viene predisposto nell’ambito della definizione del PTOF",
+        "il nuovo “Statuto della scuola” che ciascuna istituzione scolastica è chiamato ad adottare a partire dal 1° settembre 2017. Esso può considerarsi parte integrante del Piano triennale dell’Offerta Formativa, pertanto viene predisposto nell’ambito della definizione del PTOF",
+        "il Piano definito quale “carta di identità culturale della scuola che ciascuna istituzione scolastica è chiamato ad adottare a partire dal 1 settembre 2017. Esso può considerarsi parte integrante del Piano triennale dell’Offerta Formativa, pertanto viene predisposto nell’ambito della definizione del PTOF",
+        "il Piano Triennale dell’Offerta formativa che ciascuna istituzione scolastica è chiamato ad adottare a partire dal 1° settembre 2017"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "La domanda per l’accertamento della condizione di disabilità, ai fini dell’inclusione scolastica, deve essere corredata di:",
+      "options": [
+        "PDF",
+        "certificato medico diagnostico-funzionale",
+        "PDP",
+        "PEI"
+      ],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "La prima normativa, che dà inizio all’affermarsi di un processo autonomistico, volto a modernizzare e rendere più efficiente il mondo scolastico, è:",
+      "options": [
+        "L. n. 3 del 2001",
+        "D.P.R. 275 del 1999",
+        "L. n. 107 del 2015",
+        "L. n. 59 del 1997 (Legge Bassanini)"
+      ],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "Cosa afferma la L59 del 1997?",
+      "options": [
+        "una nuova “filosofia di governance, basata su un diverso rapporto tra controllo centrale e decentramento”, il cui scopo è snellire le amministrazioni",
+        "una nuova “filosofia di governance, basata su un diverso controllo centrale”, il cui scopo è l’accentramento delle funzioni",
+        "una nuova “filosofia di governance, basata su una assoluta autonomia delle scuole, il cui scopo è snellire le amministrazioni",
+        "una nuova “filosofia di governance, basata su un potere assoluto dello Stato, il cui scopo è snellire le amministrazioni"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "Con la Legge n. 59 del 1997, viene introdotto un sistema organizzativo",
+      "options": [
+        "di tipo orizzontale e non più piramidale, in cui la scuola diventa soggetto protagonista e centro di erogazione di servizi",
+        "di tipo verticale, in cui la scuola diventa soggetto protagonista e centro di erogazione di servizi",
+        "di tipo piramidale, in cui la scuola diventa soggetto protagonista e centro di erogazione di servizi",
+        "piramidale e non di tipo orizzontale, in cui la scuola diventa soggetto protagonista e centro di erogazione di servizi"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "L’art. 22 della L. 59 del 1997 cosa riconosce alle scuole?",
+      "options": [
+        "indipendenza",
+        "subordinazione agli altri livelli dell’amministrazione",
+        "personalità giuridica",
+        "legame con il territorio"
+      ],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "A partire dall’anno scolastico 2016/2017, il Piano dell’Offerta formativa, a seguito dell’entrata in vigore della Legge 107/2015 identifica una programmazione:",
+      "options": [
+        "annuale",
+        "triennale",
+        "biennale",
+        "quinquennale"
+      ],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "A quale documento corrisponde la definizione “il documento programmatico e informativo fondamentale in ogni istituto”, che ne estrinseca le strategie, le finalità educative sulla base delle risorse (umane, finanziarie, professionali, territoriali) disponibili”?",
+      "options": [
+        "il PTOF",
+        "IL PEI",
+        "il PDP",
+        "IL Piano di inclusione"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "La L. 3 del 2001, di riforma del Titolo V della Costituzione è una legge di riforma costituzionale molto nota in quanto ridisegna un quadro di poteri, nell’ambito dell’ordinamento giuridico, in prospettiva",
+      "options": [
+        "federalista e di sussidiarietà",
+        "di accentramento",
+        "regionale",
+        "statale"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "La recente L. 107 del 2015 disciplina e rafforza il principio autonomistico prevedendo sicuramente maggiori poteri in capo",
+      "options": [
+        "al MIUR",
+        "ai docenti",
+        "all’USR",
+        "al Dirigente, nella cui discrezionalità rientra anche la possibilità di chiamata diretta dei docenti"
+      ],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "L’insegnamento dell’Educazione Civica cosa configura?",
+      "options": [
+        "un «processo formativo volto a promuovere la consapevolezza dei valori fondanti e dei principi ispiratori della Costituzione»",
+        "un «processo formativo volto a favorire una consapevole partecipazione dei giovani alla vita civile e democratica, nonché a promuovere la consapevolezza dei valori fondanti e dei principi ispiratori della Costituzione»",
+        "un «processo formativo volto a favorire una consapevole partecipazione dei giovani alla vita civile e democratica, a promuovere lo sviluppo di una coscienza civica ispirata ai principi di cittadinanza attiva e solidale, nonché a promuovere la consapevolezza dei valori fondanti e dei principi ispiratori della Costituzione»",
+        "un «processo formativo volto a favorire una consapevole partecipazione dei giovani alla vita civile e democratica»"
+      ],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Quale definizione corrisponde all’autonomia didattica (e organizzativa)?",
+      "options": [
+        "espressione di libertà progettuale, che si sostanzia nella diversificazione delle modalità di impiego dei docenti nelle varie classi; nella gestione del calendario didattico; nella possibilità di potenziamento del tempo scolastico",
+        "le singole scuole regolano i tempi di insegnamento e di svolgimento delle attività didattiche, con metodologie e strumenti funzionali alla tipologia di studi e ai ritmi degli allievi",
+        "è la facoltà di stipulare convenzioni e contratti, con esclusione di quelli aleatori",
+        "si riconoscono alle istituzioni scolastiche determinate competenze in merito a: carriera scolastica e rapporto con gli alunni; stato economico e giuridico del personale; amministrazione del patrimonio e delle risorse finanziarie"
+      ],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "In base al principio di sussidiarietà, le funzioni devono essere assegnate al livello di governo",
+      "options": [
+        "territorialmente e funzionalmente meno vicino agli interessi del cittadino",
+        "territorialmente e funzionalmente più lontano agli interessi del cittadino",
+        "territorialmente più vicino agli interessi del cittadino",
+        "territorialmente e funzionalmente più vicino agli interessi del cittadino"
+      ],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "Le istituzioni scolastiche devono esercitare la propria autonomia didattica, nel rispetto",
+      "options": [
+        "della libertà d’insegnamento; della libertà di scelta educativa delle famiglie; del diritto ad apprendere degli alunni",
+        "della libertà di scelta educativa delle famiglie",
+        "del diritto ad apprendere degli alunni",
+        "della libertà di insegnamento"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "La flessibilità organizzativa e didattica, diventa la caratteristica “essenziale” della scuola dell’autonomia. Di conseguenza si pone quale:",
+      "options": [
+        "principale strumento per vincolare la scuola da qualunque controllo",
+        "principale strumento a supporto dei docenti",
+        "principale strumento a supporto del processo di inclusione degli alunni con disabilità o, più in generale, con svantaggio",
+        "principale strumento a supporto dei genitori"
+      ],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "La “presa in carico” dell’alunno è un aspetto chiave e un punto di partenza, da cui muovere per:",
+      "options": [
+        "elaborare azioni formative mirate, spesso non fondate sulla collaborazione",
+        "elaborare azioni formative mirate, spesso fondate sulla collaborazione, che tengano conto degli svariati livelli di partenza",
+        "elaborare azioni formative che non tengano conto degli svariati livelli di partenza",
+        "elaborare azioni formative generiche"
+      ],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "Cos’è il protocollo di accoglienza?",
+      "options": [
+        "Il protocollo è un documento sulla situazione clinico – diagnostica dello studente con disabilità",
+        "Il protocollo di accoglienza è uno strumento di inclusione adottato all’interno di ogni istituzione scolastica",
+        "Il protocollo di accoglienza è uno strumento di inclusione, ma non ha funzioni importanti nel favorire il successo scolastico",
+        "Il protocollo di accoglienza non è uno strumento di inclusione"
+      ],
+      "correctAnswer": "2"
+    },
+        {
+      "question": "L’Organico dell’autonomia è funzionale:",
+      "options": [
+        "alle esigenze didattiche, organizzative e progettuali delle istituzioni scolastiche come emergenti dal PTOF",
+        "alle esigenze didattiche, organizzative e progettuali degli alunni come emergenti dal",
+        "alle esigenze finanziarie delle istituzioni scolastiche come emergenti dal PTOF",
+        "alle esigenze didattiche, organizzative e progettuali delle istituzioni scolastiche come emergenti dal Piano per l’inclusione"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "Il riparto della dotazione organica tra le regioni viene realizzato in base:",
+      "options": [
+        "al numero delle classi",
+        "al numero delle classi, per i posti comuni, e in base al numero degli alunni, per i posti del potenziamento",
+        "al numero delle classi, per i posti comuni, e in base al numero degli alunni, per i posti del potenziamento, senza ulteriori oneri rispetto alla dotazione organica assegnata",
+        "al numero delle classi, per i posti comuni, e in base al numero degli alunni, per i posti del potenziamento, con ulteriori oneri rispetto alla dotazione organica assegnata"
+      ],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "L’insegnante di sostegno è:",
+      "options": [
+        "un docente specializzato che opera con maggiore vicinanza rispetto all’alunno che può presentare situazioni di svantaggio",
+        "un docente specializzato che opera con maggiore vicinanza rispetto a tutti gli alunni",
+        "un docente non specializzato che opera con maggiore vicinanza rispetto all’alunno che può presentare situazioni di svantaggio",
+        "un assistente educativo"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "Con il nuovo D.Lgs. 96/2019, che va a modificare il precedente Decreto 66/2017, ci si focalizza sui concetti di «corresponsabilità» e di «autodeterminazione».",
+      "options": [
+        "la partecipazione attiva di più soggetti: genitori e famiglie; insegnanti contitolari; personale ATA e di tutte le figure professionali specialistiche che entrano a far parte, a vario titolo, del progetto educativo inclusivo",
+        "la partecipazione attiva di più soggetti: genitori e famiglie",
+        "la partecipazione attiva di più soggetti: genitori e famiglie; di tutte le figure professionali specialistiche che entrano a far parte, a vario titolo, del progetto educativo inclusivo",
+        "la partecipazione attiva dei docenti che entrano a far parte, a vario titolo, del progetto educativo inclusivo"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "Se il docente pone in essere misure negative:",
+      "options": [
+        "può favorire e agevolare il processo di inclusione e di tutela della diversità",
+        "altrettanto negativo sarà l’impatto sullo studente, tale da inibire l’inclusione e determinare esperienze discriminanti",
+        "contribuisce alla crescita e allo sviluppo del soggetto che presenta svantaggi",
+        "contribuisce al coordinamento, all’azione, alla progettualità (a livello didattico)"
+      ],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "La stessa Legge 107/2015 dispone l’obbligo di formazione iniziale e in servizio per:",
+      "options": [
+        "i docenti sugli aspetti pedagogico–didattici dell’integrazione scolastica",
+        "gli studenti",
+        "i docenti sugli aspetti organizzativi dell’integrazione scolastica",
+        "i docenti sugli aspetti pedagogico–didattici e organizzativi dell’integrazione scolastica"
+      ],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "La definizione che meglio descrive il Dirigente è quella di",
+      "options": [
+        "leader manageriale, che promuove il successo di tutti gli studenti",
+        "leader amministrativo, che promuove il successo di tutti gli studenti",
+        "leader educativo, che promuove il successo di tutti gli studenti",
+        "leader provveditore, che promuove il successo di tutti gli studenti"
+      ],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Come detto, il Dirigente ha la responsabilità di dirigere un’organizzazione complessa, quale quella scolastica.",
+      "options": [
+        "ne assicura la gestione",
+        "ne assicura la gestione unitaria e la rappresenta legalmente",
+        "la rappresenta legalmente",
+        "non ne assicura la gestione unitaria, ma la rappresenta legalmente"
+      ],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "In una scuola inclusiva, ai collaboratori scolastici è affidata",
+      "options": [
+        "la cosiddetta \"assistenza di base\" degli alunni con disabilità",
+        "la risoluzione di problemi di autonomia e di comunicazione",
+        "la funzione di incoraggiare e valorizzare le potenzialità e attitudini del soggetto",
+        "non è una figura essenziale"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "La funzione principale dell’Assistente Educativo e Culturale è:",
+      "options": [
+        "la cosiddetta \"assistenza di base\" degli alunni con disabilità",
+        "assicurare la gestione unitaria dell’istituzione scolastica",
+        "la sua funzione principale è quella di affiancare l’alunno disabile o con svantaggio, nei diversi ordini di scuola, per un sostegno allo sviluppo dell’autonomia personale, delle abilità di comunicazione e per facilitare l’inclusione all’interno del gruppo classe e dell’intero contesto scolastico, considerando la globalità della persona e il percorso di crescita del soggetto",
+        "assicurare la gestione unitaria e la rappresentanza legale"
+      ],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Già con la Legge Bassanini (L. 59/97):",
+      "options": [
+        "il modello piramidale/gerarchico va a prendere il posto di quello orizzontale e i vari livelli di amministrazione si coordinano verso un fine comune",
+        "il modello orizzontale va a prendere il posto di quello piramidale/gerarchico e si realizza un accentramento dei poteri verso un fine comune",
+        "il modello piramidale/gerarchico va a prendere il posto di quello orizzontale e si realizza un accentramento dei poteri verso un fine comune",
+        "il modello orizzontale va a prendere il posto di quello piramidale/gerarchico e i vari livelli di amministrazione si coordinano verso un fine comune"
+      ],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "La vera Riforma che abbraccia gli Enti Locali è quella apportata",
+      "options": [
+        "dalla Legge Bassanini (L. 59/97)",
+        "dal D.Lgs. 66/2017",
+        "dal D.Lgs. 112/98",
+        "dalla Convenzione ONU 2006"
+      ],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Con riguardo alle funzioni degli Enti Locali:",
+      "options": [
+        "sono intanto contemplate all’art. 138 del D.Lgs. 112/98: le funzioni delle Province ruotano principalmente intorno all’istruzione secondaria, mentre le funzioni dei comuni ruotano principalmente attorno a gradi inferiori di scuola",
+        "sono intanto contemplate all’art. 139 del D.Lgs. 112/98: le funzioni delle Province ruotano principalmente intorno all’istruzione secondaria, mentre le funzioni dei comuni ruotano principalmente attorno a gradi inferiori di scuola",
+        "sono intanto contemplate all’art. 139 del D.Lgs. 112/98: le funzioni delle Province ruotano principalmente intorno a gradi inferiori di scuola, mentre le funzioni dei comuni ruotano principalmente attorno all’istruzione secondaria",
+        "sono intanto contemplate all’art. 9 del D.Lgs. 112/98: le funzioni delle Province ruotano principalmente intorno all’istruzione secondaria, mentre le funzioni dei comuni ruotano principalmente attorno a gradi inferiori di scuola"
+      ],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "Chi si occupa di assicurare la cosiddetta “Assistenza specialistica”, cioè figure professionali a supporto dell’alunno con disabilità, per consentirgli di accedere alle lezioni in modo adeguato?",
+      "options": [
+        "il Comune",
+        "la Provincia",
+        "la Regione",
+        "il Dirigente Scolastico"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "Perché taluni parlano dell’Assistente Educativo come di un “Assistente ad personam”?",
+      "options": [
+        "perché predisposti specificamente per l’alunno con svantaggio, senza competenze sul resto della classe",
+        "perché predisposti specificamente per ciascun alunno della classe",
+        "perché predisposti specificamente per l’alunno con svantaggio, ma ha anche competenze sul resto della classe",
+        "perché predisposti specificamente per l’alunno con svantaggio, ma è contitolare nella classe ove è assegnato"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "Un ulteriore passo in avanti nel cammino per l’affermazione di una piena inclusione è determinato dal Decreto Legislativo n.96 del 7 agosto 2019. Apporta integrazioni e modifiche correttive al",
+      "options": [
+        "Decreto Legislativo 13 aprile 2017, n. 66",
+        "Decreto Legislativo 13 aprile 2017, n. 67",
+        "L. 107/2015",
+        "L. 59/1997"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "L’idea di fondo del D.Lgs. n.96/2019 era quella di:",
+      "options": [
+        "migliorare ulteriormente l’inclusione scolastica, adeguandola al D.Lgs. 66/2017",
+        "migliorare ulteriormente l’inclusione scolastica, adeguandola alla Convenzione ONU sui diritti delle persone con disabilità del 2019 e, più in generale, al quadro internazionale complessivo",
+        "migliorare ulteriormente l’inclusione scolastica, adeguandola alla Convenzione ONU sui diritti delle persone con disabilità del 2006 e, più in generale, al quadro internazionale complessivo",
+        "migliorare ulteriormente l’inclusione scolastica, adeguandola alla Convenzione ONU sui diritti delle persone con disabilità del 1999 e, più in generale, al quadro internazionale complessivo"
+      ],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "L’“Accomodamento ragionevole”, secondo la Convenzione ONU indica:",
+      "options": [
+        "“Accomodamento ragionevole” indica le modifiche e gli adattamenti necessari ed appropriati che non impongano un carico sproporzionato o eccessivo, ove ve ne sia necessità in casi particolari, per assicurare alle persone con disabilità il godimento e l’esercizio, su base di eguaglianza con gli altri, di tutti i diritti umani e libertà fondamentali",
+        "“Accomodamento ragionevole” indica le modifiche e gli adattamenti necessari ed appropriati che impongano un carico sproporzionato o eccessivo, ove ve ne sia necessità in casi particolari, per assicurare alle persone con disabilità il godimento e l’esercizio, su base di eguaglianza con gli altri, di tutti i diritti umani e libertà fondamentali",
+        "“Accomodamento ragionevole” indica le modifiche e gli adattamenti necessari ed appropriati che non impongano un carico sproporzionato o eccessivo, ove ve ne sia necessità in casi particolari, per assicurare alle persone con disabilità il godimento e l’esercizio, su base di parità, di tutti i diritti umani e libertà fondamentali",
+        "“Accomodamento ragionevole” indica le modifiche e gli adattamenti necessari ed appropriati che non impongano un carico sproporzionato o eccessivo, ove ve ne sia necessità in casi particolari, per assicurare alle persone con disabilità il godimento e l’esercizio, su base di giustizia, di tutti i diritti umani e libertà fondamentali"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "In cosa si traduce in concreto il principio di “accomodamento ragionevole”",
+      "options": [
+        "Si tratta della rimozione e del superamento di qualunque barriera possa inficiare la piena realizzazione dei diritti patrimoniali del soggetto disabile",
+        "Si tratta della rimozione e del superamento di qualunque barriera possa inficiare la piena realizzazione dell’uguaglianza e dei diritti economici del soggetto disabile",
+        "Si tratta della rimozione e del superamento di qualunque barriera possa inficiare la piena realizzazione dell’uguaglianza e dei diritti umani del soggetto disabile",
+        "Si tratta della rimozione e del superamento di qualunque misura che possa agevolare la piena realizzazione dell’uguaglianza e dei diritti umani del soggetto disabile"
+      ],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "La domanda per l’accertamento della disabilità va presentata",
+      "options": [
+        "al GIT",
+        "all’INPS",
+        "al GLIR",
+        "al GLI"
+      ],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "Il principio di autodeterminazione dell’alunno prevede che:",
+      "options": [
+        "Lo studente con disabilità, ove possibile, assume sempre più un ruolo indiretto e di partecipazione attiva nelle scelte e nelle decisioni, con un coinvolgimento sempre maggiore nella costruzione del progetto di vita, per lui pensato",
+        "Lo studente con disabilità, ove possibile, assume sempre più un ruolo indiretto e di partecipazione passiva nelle scelte e nelle decisioni, con un coinvolgimento sempre maggiore nella costruzione del progetto di vita, per lui pensato",
+        "Lo studente con disabilità, ove possibile, assume sempre più un ruolo indiretto e di partecipazione passiva nelle scelte e nelle decisioni, con un coinvolgimento sempre maggiore nella costruzione del progetto di vita, per lui pensato",
+        "Lo studente con disabilità, ove possibile, assume sempre più un ruolo diretto e di partecipazione attiva nelle scelte e nelle decisioni, con un coinvolgimento sempre maggiore nella costruzione del progetto di vita, per lui pensato"
+      ],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "Con il principio di autodeterminazione, pare prendere ormai forma, dando così voce a una didattica realmente inclusiva:",
+      "options": [
+        "L’obiettivo di una scuola che si incentri su un processo di insegnamento/apprendimento “learner-centred”, ossia fondato sull’insegnante",
+        "L’obiettivo di una scuola che si incentri su un processo di insegnamento/apprendimento “learner-centred”, ossia fondato sull’alunno",
+        "L’obiettivo di una scuola che si incentri su un processo di insegnamento/apprendimento “learner-centred”, ossia fondato sull’insegnante di sostegno",
+        "L’obiettivo di una scuola che si incentri su un processo di insegnamento/apprendimento “learner-centred”, ossia fondato sull’Assistente Educativo"
+      ],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "Bronfenbrenner (1986) parla di “interrelazioni tra due o più situazioni ambientali alle quali l’individuo in via di sviluppo partecipa attivamente”. A cosa si riferisce?",
+      "options": [
+        "interrelazione tra famiglia e contesto scolastico, un sistema complesso e articolato che dà luogo a un «intervento di rete»: collaborazione e condivisione degli obiettivi",
+        "interrelazione tra famiglia e alunno disabile, un sistema complesso e articolato che dà luogo a un «intervento di rete»: collaborazione e condivisione degli obiettivi",
+        "interrelazione tra alunno disabile e contesto scolastico, un sistema complesso e articolato che dà luogo a un «intervento di rete»: collaborazione e condivisione degli obiettivi",
+        "interrelazione tra famiglia e Comuni, un sistema complesso e articolato che dà luogo a un «intervento di rete»: collaborazione e condivisione degli obiettivi"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "Con riguardo alla famiglia:",
+      "options": [
+        "è compito della comunità educante dare un valido supporto alla famiglia, consentendo un particolarissimo e originale rapporto di collaborazione",
+        "compito della comunità educante dare un valido supporto alla famiglia, consentendo un particolarissimo e originale rapporto autoritario",
+        "compito della comunità educante dare un valido supporto alla famiglia, consentendo un particolarissimo e originale rapporto di interesse",
+        "compito della comunità educante dare un valido supporto alla famiglia, consentendo un particolarissimo e originale rapporto di coercizione"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "Cos’è il Patto Educativo di Corresponsabilità?",
+      "options": [
+        "il documento che deve essere firmato da Dirigente e docenti al momento dell’iscrizione",
+        "il documento che deve essere firmato da genitori e specialisti al momento dell’iscrizione",
+        "il documento che deve essere firmato da genitori e studenti al momento dell’iscrizione",
+        "il documento che deve essere firmato da genitori e un’unità multidisciplinare al momento dell’iscrizione"
+      ],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Alla famiglia deve intanto riconoscersi il ruolo di",
+      "options": [
+        "accompagnamento del soggetto nei suoi primi anni di vita",
+        "accompagnamento del soggetto lungo l’intero suo percorso di vita e di crescita, che ha inizio dalla iniziale scoperta della problematica",
+        "accompagnamento del soggetto nella scoperta della problematica",
+        "accompagnamento del soggetto durante il percorso scolastico"
+      ],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "Con il Decreto n. 96/19, in definitiva, le famiglie sono chiamate a",
+      "options": [
+        "partecipare e collaborare come soggetti passivi sia alla redazione del Progetto individuale, redatto dal competente Ente locale d’intesa con la competente Azienda sanitaria locale sulla base del Profilo di funzionamento, sia alla redazione del PEI, che entra nel Progetto individuale",
+        "partecipare e collaborare come soggetti attivi sia alla redazione del Progetto individuale, redatto dal competente Ente locale d’intesa con la competente Azienda sanitaria locale sulla base del Profilo di funzionamento, sia alla redazione del PEI, che entra nel Progetto individuale",
+        "partecipare e collaborare come soggetti attivi nella redazione del PEI, che entra nel Progetto individual",
+        "partecipare e collaborare come soggetti attivi sia alla redazione del Progetto individuale, redatto dal competente Ente locale d’intesa con la competente Azienda sanitaria locale sulla base del Profilo di funzionamento, sia alla redazione del PEI, che entra nel Progetto individuale"
+      ],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "La rete rappresenta:",
+      "options": [
+        "uno strumento efficace per consentire un accentramento dei compiti: questi vengono ripartiti in modo chiaro e adeguato tra i vari enti coinvolti, in modo da rispondere meglio alle diverse esigenze",
+        "uno strumento efficace per consentire una decentralizzazione dei compiti: questi vengono attribuiti agli enti che sappiano rispondere meglio alle diverse esigenze",
+        "uno strumento non efficace per consentire una decentralizzazione dei compiti: questi vengono ripartiti in modo chiaro e adeguato tra i vari enti coinvolti, in modo da rispondere meglio alle diverse esigenze",
+        "uno strumento efficace per consentire una decentralizzazione dei compiti: questi vengono ripartiti in modo chiaro e adeguato tra i vari enti coinvolti, in modo da rispondere meglio alle diverse esigenze"
+      ],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "L’accordo di rete si può definire come",
+      "options": [
+        "un accordo che assume natura giuridica di contratto",
+        "accordo che non assume natura giuridica di contratto",
+        "accordo tra alunni con disabilità",
+        "accordo tra famiglie"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "Le reti indicano",
+      "options": [
+        "quegli “accordi che assumono natura giuridica di contratto, precisamente aventi la veste dell’Accordo di collaborazione tra pubbliche amministrazioni”",
+        "quelle “entità monofunzionali, potenzialmente capaci di assolvere i compiti relativi a una quantità indeterminata di bisogni”",
+        "quelle “entità polifunzionali, potenzialmente capaci di assolvere i compiti relativi a una quantità indeterminata di bisogni”",
+        "quelle “entità funzionali, potenzialmente capaci di assolvere i compiti relativi a una quantità indeterminata di bisogni”"
+      ],
+      "correctAnswer": "1"
     }
   ]
 }
