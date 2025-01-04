@@ -301,8 +301,6 @@
       "correctAnswer": "1"
     },
     {
-  "questions": [
-    {
       "question": "Nella Direttiva Ministeriale vengono identificate macro-categorie di alunni. Quali sono?",
       "options": [
         "Alunni con disabilità; Alunni con DSA (che sono un caso particolare di Disturbi Evolutivi Specifici) e Alunni con DES (disturbi evolutivi specifici); Alunni con svantaggio socio-economico, linguistico e culturale",
@@ -881,6 +879,157 @@
         "quelle “entità funzionali, potenzialmente capaci di assolvere i compiti relativi a una quantità indeterminata di bisogni”"
       ],
       "correctAnswer": "1"
+    },
+    {
+      "question": "La progettazione può definirsi come:",
+      "options": [
+        "un complesso processo di pianificazione che prescinde da strumenti e metodologie adeguati per il raggiungimento di determinati obiettivi",
+        "un complesso processo di pianificazione",
+        "un semplice processo di pianificazione che, servendosi appunto di strumenti e metodologie adeguati, si prefigge il raggiungimento di determinati obiettivi",
+        "un complesso processo di pianificazione che, servendosi appunto di strumenti e metodologie adeguati, si prefigge il raggiungimento di determinati obiettivi"
+      ],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "La progettazione è, in termini tecnici, un’attività continua di modulazione, che:",
+      "options": [
+        "presenta una componente relazionale e di interazione, fondata dunque sul rapporto con gli studenti, ma anche con colleghi, famiglie e altri attori scolastici",
+        "presenta una componente relazionale",
+        "presenta una componente relazionale e di interazione, fondata dunque sul rapporto con gli studenti",
+        "presenta una componente relazionale e di interazione, fondata dunque sul rapporto con colleghi, famiglie e altri attori scolastici"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "La scuola dell’autonomia, disegnata dal D.P.R. 275/1999, diventa “scuola del progetto”. Cosa significa?",
+      "options": [
+        "Tra i nuovi traguardi da raggiungere, cioè, si pongono progetti a livello familiare",
+        "Tra i nuovi traguardi da raggiungere, cioè, si pone la progettazione, intesa quale realizzazione di interventi di educazione, istruzione e formazione mirati allo sviluppo della persona umana e adeguati ai diversi contesti",
+        "Tra i nuovi traguardi da raggiungere, cioè, si pone la progettazione, intesa quale insieme di interazioni",
+        "Tra i nuovi traguardi da raggiungere, cioè, si pone la progettazione, intesa quale realizzazione di interventi sociali"
+      ],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "Il progetto per eccellenza è:",
+      "options": [
+        "il PEI",
+        "il PDP",
+        "il PTOF",
+        "il Protocollo di accoglienza"
+      ],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "La cultura della progettualità si è diffusa a partire",
+      "options": [
+        "dai Decreti Delegati del 1974 per affrontare temi diversificati e attuali, dando voce alla originalità e nuova identità culturale di ogni scuola",
+        "dal D.P.R. 275/1999 per affrontare temi diversificati e attuali, dando voce alla originalità e nuova identità culturale di ogni scuola",
+        "dalla L. 3 del 2001 per affrontare temi diversificati e attuali, dando voce alla originalità e nuova identità culturale di ogni scuola",
+        "dalla Riforma Bassanini per affrontare temi diversificati e attuali, dando voce alla originalità e nuova identità culturale di ogni scuola"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "Cosa implica la progettualità didattica orientata all’inclusione?",
+      "options": [
+        "implica l’adozione di quelle strategie e metodologie più opportune per agevolare un percorso individuale",
+        "implica l’adozione di quelle strategie e metodologie più opportune per agevolare i trasporti",
+        "implica l’adozione di quelle strategie e metodologie più opportune per sconfiggere i nuclei ansiogeni",
+        "implica l’adozione di quelle strategie e metodologie più opportune per agevolare i processi inclusivi"
+      ],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "In definitiva, l’uso delle moderne tecnologie consente",
+      "options": [
+        "“meccanismi di regolazione”, che rendono qualsiasi alunno autonomo, agevolano la sua indipendenza e contestualmente la sua capacità di interazione, rendendolo protagonista della sua educazione",
+        "“meccanismi di autoregolazione”, che rendono qualsiasi alunno autonomo, agevolano la sua indipendenza e contestualmente la sua capacità di interazione, rendendolo protagonista della sua educazione",
+        "“meccanismi di autoregolazione”, che isolano qualsiasi alunno dagli altri",
+        "“meccanismi di eteroregolazione”, che rendono qualsiasi alunno autonomo, agevolano la sua indipendenza e contestualmente la sua capacità di interazione, rendendolo protagonista della sua educazione"
+      ],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "La scuola ha un ruolo primario",
+      "options": [
+        "nello studio, strumento centrale per la crescita, unitamente a buone pratiche didattiche sia individualizzate che di gruppo",
+        "nell’apprendimento mnemonico, strumento centrale per la crescita, unitamente a buone pratiche didattiche sia individualizzate che di gruppo",
+        "nella socializzazione, strumento centrale per la crescita, unitamente a buone pratiche didattiche sia individualizzate che di gruppo",
+        "nelle interrogazioni, strumento centrale per la crescita, unitamente a buone pratiche didattiche sia individualizzate che di gruppo"
+      ],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "La socializzazione si traduce proprio",
+      "options": [
+        "nell’interazione con gli altri, nel lavoro di gruppo, nella cooperazione, sviluppati attraverso certe metodologie specifiche",
+        "nell’interazione con gli altri",
+        "nell’interazione con gli altri, sviluppata attraverso certe metodologie specifiche",
+        "nell’autonomia dagli altri, sviluppata attraverso certe metodologie specifiche"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "Il Progetto di vita rappresenta il primo passo verso una progettazione educativa accurata che assicuri l’effettività",
+      "options": [
+        "del diritto alle cure",
+        "del diritto allo studio",
+        "del diritto alla salute",
+        "del diritto all’eguaglianza"
+      ],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "Il Progetto Individuale secondo l’art. 14 co. 2 della L. n. 328/2000:",
+      "options": [
+        "è predisposto dall’ASL",
+        "è predisposto dal Comune, d’intesa con le scuole",
+        "è predisposto dalle scuole, d’intesa con l’ASL",
+        "è predisposto dal Comune, d’intesa con l’ASL"
+      ],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "La prima finalità del Piano Annuale per l’inclusione è quella di condurre un’analisi di quei fattori che",
+      "options": [
+        "secondo il vecchio modello di disabilità influenzano lo stato di salute dell’alunno con svantaggio, vale a dire fattori personali e fattori ambientali del contesto",
+        "secondo il vecchio modello influenzano lo stato di salute dell’alunno con svantaggio, vale a dire fattori personali e fattori ambientali del contesto",
+        "secondo il nuovo modello bio-psico-sociale, influenzano lo stato di salute dell’alunno con svantaggio, vale a dire fattori personali e fattori ambientali del contesto",
+        "secondo il nuovo modello influenzano lo stato di salute dell’alunno con svantaggio, vale a dire fattori personali e fattori ambientali del contesto"
+      ],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Il principio ispiratore del Piano per l’Inclusione è l’accomodamento ragionevole, contenuto",
+      "options": [
+        "nella Convenzione ONU e trasposto nel Nuovo Decreto Inclusione del 2019",
+        "nel Nuovo Decreto Inclusione del 2019",
+        "nel PTOF",
+        "nel Regolamento sull’autonomia"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "La Diagnosi Funzionale identifica un documento",
+      "options": [
+        "con finalità psicologica, contenente “la descrizione analitica della compromissione funzionale dello stato psico-fisico dell’alunno in situazione di handicap” (D.P.R. 24.2.94)",
+        "con finalità conoscitiva, contenente “la descrizione analitica della compromissione funzionale dello stato psico-fisico dell’alunno in situazione di handicap” (D.P.R. 24.2.94)",
+        "con finalità analitica, contenente “la descrizione analitica della compromissione funzionale dello stato psico-fisico dell’alunno in situazione di handicap” (D.P.R. 24.2.94)",
+        "con finalità funzionale, contenente “la descrizione analitica della compromissione funzionale dello stato psico-fisico dell’alunno in situazione di handicap” (D.P.R. 24.2.94)"
+      ],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "Nella scuola secondaria di secondo grado sono previsti obiettivi specifici di apprendimento prefissati a livello ministeriale. Per questo, il discorso è diverso: si prevede la scelta:",
+      "options": [
+        "tra percorso normale e percorso “semplificato” o “per obiettivi minimi”, a seconda delle capacità e potenzialità dell’alunno con disabilità",
+        "tra percorso normale e percorso “differenziato”, a seconda delle capacità e potenzialità dell’alunno con disabilità",
+        "non si prevede la scelta",
+        "di uno dei tre percorsi didattici: percorso normale, percorso “semplificato” o “per obiettivi minimi”, percorso “differenziato”, a seconda delle capacità e potenzialità dell’alunno con disabilità"
+      ],
+      "correctAnswer": "4"
     }
   ]
 }
+
