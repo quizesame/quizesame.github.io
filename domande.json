@@ -2,7 +2,7 @@
   "questions": [
     {
       "id": 1,
-      "question": "DOMANDA 1: Quando si incominciano a prendere in considerazione l’educazione e la formazione dei disabili?",
+      "question": "Quando si incominciano a prendere in considerazione l’educazione e la formazione dei disabili?",
       "options": [
         "Verso la fine del Seicento",
         "Verso la fine del Settecento",
@@ -13,7 +13,7 @@
     },
     {
       "id": 2,
-      "question": "DOMANDA 2: In che modo ha inizio il processo di riforma della scuola?",
+      "question": "In che modo ha inizio il processo di riforma della scuola?",
       "options": [
         "si registra un graduale abbandono dei programmi scolastici in favore delle programmazioni curricolari, da elaborare secondo le esigenze del contesto socio-culturale e delle situazioni di partenza degli alunni.",
         "si registra un graduale abbandono delle programmazioni curricolari in favore dei programmi scolastici, da elaborare secondo le esigenze del contesto socio-culturale e delle situazioni di partenza degli alunni.",
@@ -24,7 +24,7 @@
     },
     {
       "id": 3,
-      "question": "DOMANDA 3: Chi furono i primi personaggi di rilievo che dedicarono gran parte del loro operato allo studio della formazione ed educazione di persone con disabilità?",
+      "question": "Chi furono i primi personaggi di rilievo che dedicarono gran parte del loro operato allo studio della formazione ed educazione di persone con disabilità?",
       "options": [
         "Maria Montessori e Padre Agostino Gemelli",
         "Don Milani e Piaget",
