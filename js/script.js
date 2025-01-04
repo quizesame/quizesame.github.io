@@ -1,329 +1,226 @@
-var quest_curr;
-var quest_next;
-var randData = 0;
-var map = new Map();
-var questions = new Map();
+// Global
+var questionsData = [];
+var currentQuestionIndex = 0;
+var userAnswers = [];
+var quizFinished = false;
 
-var ansFirst = false;
-var ansSecond = false;
-
-var expired = 0;
-
-async function getJSON() {
-    return fetch("https://raw.githubusercontent.com/quizanatomia/quizanatomia.github.io/main/domande.json")
-        .then((response)=>response.json())
-        .then((responseJson)=>{return responseJson});
+// Shuffle utility
+function shuffleArray(array) {
+  for (let i = array.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [array[i], array[j]] = [array[j], array[i]];
+  }
 }
 
-async function shuffle() {
-    var json = await this.getJSON();
-    var data = new Map();
-
-    let keys, randKey;
-    var genKeys = new Array();
-    keys = Object.keys(json)
-    for (let i = 0; i < 70; i++) {
-        do {
-            randKey = keys[Math.floor(Math.random() * keys.length)];
-        } while (genKeys.includes(randKey));
-        genKeys.push(randKey);
-        data.set((i+1).toString(), {
-            "question": json[randKey]["question"],
-            "answer": json[randKey]["answer"],
-            "class": json[randKey]["class"]
-        })
-        delete json[randKey];
-    }
-
-    randData = 1;
-    return data;
+// Prepare question => shuffle its options
+function prepareQuestionData(question) {
+  const correctIndex = parseInt(question.correctAnswer, 10) - 1;
+  let newOptions = question.options.map((optText, idx) => {
+    return {
+      text: optText,
+      isCorrect: (idx === correctIndex)
+    };
+  });
+  shuffleArray(newOptions);
+  question.options = newOptions;
 }
 
-function resetButtons() {
-    document.getElementById("true").className = "btn btn-lg btn-outline-success mr-3";
-    document.getElementById("false").className = "btn btn-lg btn-outline-danger";
-    document.getElementById("true2").className = "btn btn-lg btn-outline-success mr-3";
-    document.getElementById("false2").className = "btn btn-lg btn-outline-danger";
+// Start quiz
+async function startQuiz() {
+  // Hide welcome, show quiz
+  document.getElementById("welcomeSection").style.display = "none";
+  document.getElementById("quizContainer").style.display = "block";
+
+  // Fetch
+  try {
+    const response = await fetch("https://raw.githubusercontent.com/quizesame/quizesame.github.io/main/domande.json");
+    const data = await response.json();
+    questionsData = data.questions;
+  } catch (err) {
+    console.error("Errore nel caricamento delle domande:", err);
+    return;
+  }
+
+  // Shuffle entire question list
+  shuffleArray(questionsData);
+
+  // Now limit to 15 questions
+  if (questionsData.length > 15) {
+    questionsData = questionsData.slice(0, 15);
+  }
+
+  // For each question, shuffle its options
+  questionsData.forEach(q => prepareQuestionData(q));
+
+  // Show first Q
+  currentQuestionIndex = 0;
+  showQuestion();
+
+  // Start timer
+  startTimer();
 }
 
-async function setup(val) {
-    if (!randData) {
-        questions = await this.shuffle();
+// Render question
+function showQuestion() {
+  if (currentQuestionIndex >= questionsData.length) return;
+
+  const qObj = questionsData[currentQuestionIndex];
+
+  document.getElementById("questionCount").textContent = 
+    "Domanda " + (currentQuestionIndex + 1);
+
+  document.getElementById("questionText").textContent = qObj.question;
+
+  const optionsContainer = document.getElementById("optionsContainer");
+  optionsContainer.innerHTML = "";
+
+  const nextBtn = document.getElementById("nextButton");
+  nextBtn.disabled = true;
+
+  // Build radio list
+  for (let i = 0; i < qObj.options.length; i++) {
+    const opt = qObj.options[i];
+
+    const formCheckDiv = document.createElement("div");
+    formCheckDiv.className = "form-check";
+
+    const radio = document.createElement("input");
+    radio.type = "radio";
+    radio.name = "quizOption";
+    radio.id = "option" + i;
+    radio.value = i;
+    radio.className = "form-check-input";
+
+    // If user previously answered
+    if (userAnswers[currentQuestionIndex] === i) {
+      radio.checked = true;
+      nextBtn.disabled = false;
     }
 
-    resetButtons();
+    // On change => enable Next
+    radio.addEventListener("change", () => {
+      nextBtn.disabled = false;
+    });
 
-    document.getElementById("true").classList.remove("active");
-    document.getElementById("false").classList.remove("active");
-    document.getElementById("true2").classList.remove("active");
-    document.getElementById("false2").classList.remove("active");
+    const label = document.createElement("label");
+    label.className = "form-check-label";
+    label.htmlFor = "option" + i;
+    label.textContent = opt.text;
 
-    ansFirst = false;
-    ansSecond = false;
+    formCheckDiv.appendChild(radio);
+    formCheckDiv.appendChild(label);
+    optionsContainer.appendChild(formCheckDiv);
+  }
 
-    quest_curr = val;
-    quest_next = quest_curr + 1;
-
-    // disable prev or next buttons
-    if (quest_curr == 1) {
-        document.getElementById("prev").setAttribute("disabled", "");
-    }
-    else if (quest_next == 70) {
-        document.getElementById("next").setAttribute("disabled", "");
-    }
-    else {
-        document.getElementById("prev").removeAttribute("disabled", "");
-        document.getElementById("next").removeAttribute("disabled", "");
-    }
-
-    // check if the answer has already been given 
-    if (map.get(quest_curr.toString()) == "V" || map.get(quest_curr.toString()) == "F") {
-        document.getElementById(map.get(quest_curr.toString()) == "V" ? "true" : "false").classList.add("active");
-        ansFirst = true;
-    }
-    if (map.get(quest_next.toString()) == "V" || map.get(quest_next.toString()) == "F") {
-        document.getElementById(map.get(quest_next.toString()) == "V" ? "true2" : "false2").classList.add("active");
-        ansSecond = true;
-    }
-
-
-    document.getElementById("quest_n").innerHTML = "Domanda " + quest_curr;
-    document.getElementById("quest").innerHTML = questions.get(quest_curr.toString())["question"]
-
-    document.getElementById("quest_n2").innerHTML = "Domanda " + (quest_next);
-    document.getElementById("quest2").innerHTML = questions.get((quest_curr+1).toString())["question"]
-    // final check after the quiz has finished
-    if (expired) {
-        document.getElementById("true").classList.add("btn-outline-success");
-        document.getElementById("true").classList.remove("btn-warning");
-        document.getElementById("false").classList.add("btn-outline-danger");
-        document.getElementById("false").classList.remove("btn-warning");
-        document.getElementById("true2").classList.add("btn-outline-success");
-        document.getElementById("true2").classList.remove("btn-warning");
-        document.getElementById("false2").classList.add("btn-outline-danger");
-        document.getElementById("false2").classList.remove("btn-warning");
-        checkResults();
-    }
+  // If last question => show Finish
+  if (currentQuestionIndex === questionsData.length - 1) {
+    nextBtn.style.display = "none";
+    document.getElementById("finishButton").style.display = "inline-block";
+  } else {
+    nextBtn.style.display = "inline-block";
+    document.getElementById("finishButton").style.display = "none";
+  }
 }
 
-function hasClass(element, className) {
-    return (' ' + element.className + ' ').indexOf(' ' + className+ ' ') > -1;
+// Move to next question
+function goToNextQuestion() {
+  saveAnswer();
+  if (currentQuestionIndex < questionsData.length - 1) {
+    currentQuestionIndex++;
+    showQuestion();
+  }
 }
 
-function highlightMatrixButtons() {
-    var btn = document.getElementById("btn" + (quest_curr >= 10 ? quest_curr : "0" + quest_curr));
-    if (ansFirst && ansSecond) {
-        btn.classList.add("active");
-
+// Save chosen answer
+function saveAnswer() {
+  const radios = document.getElementsByName("quizOption");
+  let chosenIdx;
+  for (let i = 0; i < radios.length; i++) {
+    if (radios[i].checked) {
+      chosenIdx = parseInt(radios[i].value);
+      break;
     }
-    else {
-        if (hasClass(btn, "active")) {
-            btn.classList.remove("active");
-        }
-    }
+  }
+  userAnswers[currentQuestionIndex] = chosenIdx;
 }
 
-function answerTrue() {
-    var tbtn = document.getElementById("true");
-    var fbtn = document.getElementById("false");
+// Finish quiz => show results, hide timer, etc.
+function finishQuiz() {
+  if (quizFinished) return;
+  quizFinished = true;
 
-    if (hasClass(tbtn, "active")) {
-        tbtn.classList.remove("active");
-        map.set(quest_curr.toString(), "");
-        // map[quest_curr.toString()] = "";
-        ansFirst = false;
+  clearInterval(countdown); // stop timer
+  document.getElementById("timer").style.display = "none"; // hide timer
+  saveAnswer();
+
+  let correctCount = 0;
+  let wrongDetails = [];
+
+  for (let i = 0; i < questionsData.length; i++) {
+    const q = questionsData[i];
+    const chosen = userAnswers[i];
+    if (chosen === undefined) {
+      // user didn't pick
+      const correctOpt = q.options.find(o => o.isCorrect === true);
+      wrongDetails.push({
+        question: q.question,
+        userChoice: "Nessuna risposta",
+        correctChoice: correctOpt ? correctOpt.text : "(N/A)"
+      });
+    } else {
+      if (q.options[chosen].isCorrect) {
+        correctCount++;
+      } else {
+        // wrong
+        const correctOpt = q.options.find(o => o.isCorrect);
+        wrongDetails.push({
+          question: q.question,
+          userChoice: q.options[chosen].text,
+          correctChoice: correctOpt ? correctOpt.text : "(N/A)"
+        });
+      }
     }
-    else {
-        fbtn.classList.remove("active");
-        tbtn.classList.add("active");
-        map.set(quest_curr.toString(), "V");
-        // map[quest_curr.toString()] = "V";
-        ansFirst = true;
-    }
+  }
 
-    highlightMatrixButtons();
-}
+  document.getElementById("questionCount").textContent = "Quiz Terminato!";
+  document.getElementById("questionText").textContent =
+    "Hai risposto correttamente a " + correctCount + " su " + questionsData.length + " domande.";
 
-function answerFalse() {
-    var tbtn = document.getElementById("true");
-    var fbtn = document.getElementById("false");
+  const optionsContainer = document.getElementById("optionsContainer");
+  optionsContainer.innerHTML = "";
 
-    if (hasClass(fbtn, "active")) {
-        fbtn.classList.remove("active");
-        map.set(quest_curr.toString(), "");
-        // map[quest_curr.toString()] = "";
-        ansFirst = false;
-    }
-    else {
-        tbtn.classList.remove("active");
-        fbtn.classList.add("active");
-        map.set(quest_curr.toString(), "F");
-        // map[quest_curr.toString()] = "F";
-        ansFirst = true;
-    }
+  // Show wrong answers
+  if (wrongDetails.length > 0) {
+    const wrongBox = document.createElement("div");
+    wrongBox.className = "wrong-answer-box";
 
-    highlightMatrixButtons();
-}
+    const title = document.createElement("h4");
+    title.textContent = "Risposte Errate:";
+    wrongBox.appendChild(title);
 
-function answerTrue2() {
-    var tbtn = document.getElementById("true2");
-    var fbtn = document.getElementById("false2");
+    wrongDetails.forEach(item => {
+      const div = document.createElement("div");
+      div.className = "wrong-answer-item";
 
-    if (hasClass(tbtn, "active")) {
-        tbtn.classList.remove("active");
-        map.set(quest_next.toString(), "");
-        // map[quest_next.toString()] = "";
-        ansSecond = false;
-    }
-    else {
-        fbtn.classList.remove("active");
-        tbtn.classList.add("active");
-        map.set(quest_next.toString(), "V");
-        // map[quest_next.toString()] = "V";
-        ansSecond = true;
-    }
+      const qText = document.createElement("p");
+      qText.innerHTML = "<strong>Domanda:</strong> " + item.question;
 
-    highlightMatrixButtons();
-}
+      const uChoice = document.createElement("p");
+      uChoice.innerHTML = "<strong>Tua risposta:</strong> " + item.userChoice;
 
-function answerFalse2() {
-    var tbtn = document.getElementById("true2");
-    var fbtn = document.getElementById("false2");
+      const cChoice = document.createElement("p");
+      cChoice.innerHTML = "<strong>Risposta corretta:</strong> " + item.correctChoice;
 
-    if (hasClass(fbtn, "active")) {
-        fbtn.classList.remove("active");
-        map.set(quest_next.toString(), "");
-        // map[quest_next.toString()] = "";
-        ansSecond = false;
-    }
-    else {
-        tbtn.classList.remove("active");
-        fbtn.classList.add("active");
-        map.set(quest_next.toString(), "F");
-        // map[quest_next.toString()] = "F";
-        ansSecond = true;
-    }
+      div.appendChild(qText);
+      div.appendChild(uChoice);
+      div.appendChild(cChoice);
 
-    highlightMatrixButtons();
-}
+      wrongBox.appendChild(div);
+    });
 
-function nextQuestion() {
-    setup(quest_curr+2);
-}
+    optionsContainer.appendChild(wrongBox);
+  }
 
-function prevQuestion() {
-    setup(quest_curr-2);
-}
-
-function selectQuestion(id) {
-    setup(Number(id.slice(-2)));
-}
-
-function endQuiz() {
-    document.getElementById("end").setAttribute("disabled", "");
-    targetProxy.diff = -1;
-}
-
-// set the correct answers
-function setPoints() {
-    document.getElementById("timer").innerHTML = "Sto calcolando il risultato...";
-
-    var btn, correct = 0;
-    var quesN = 0, quesNnext = 0, c = 0;
-    for (let i = 0; i < 70; i += 2) {
-        quesN = i+1;
-        quesNnext = quesN + 1;
-        btn = document.getElementById("btn" + (quesN >= 10 ? quesN : "0" + quesN));
-
-        if (map.get(quesN.toString()) == questions.get(quesN.toString())["answer"]) {
-            correct += 1;
-            console.log("La domanda " + quesN + " e' corretta.");
-            c += 1;
-        }
-        if (map.get(quesNnext.toString()) == questions.get(quesNnext.toString())["answer"]) {
-            correct += 1;
-            console.log("La domanda " + quesNnext + " e' corretta.");
-            c += 1;
-        }
-
-        if (c == 2) {
-            btn.classList.remove("btn-outline-primary");
-            btn.classList.add("btn-success");
-        }
-        else {
-            btn.classList.remove("btn-outline-primary");
-            btn.classList.remove("btn-success");
-            btn.classList.add("btn-danger");
-        }
-        c = 0;
-    }
-
-    if (correct == 70) {
-        document.getElementById("timer").innerHTML = correct + " / 70, complimenti amore mio!";
-    }
-    else {
-        document.getElementById("timer").innerHTML = correct + " / 70";
-    }
-    setup(quest_curr);
-}
-
-function checkResults() {
-    var btn;
-    var correctAns1 = questions.get(quest_curr.toString())["answer"];
-    var correctAns2 = questions.get(quest_next.toString())["answer"];
-
-    if (map.get(quest_curr.toString()) == correctAns1) {
-
-        if (correctAns1 == "V") {
-            document.getElementById("true").className = "btn btn-lg btn-success mr-3";
-            document.getElementById("false").className = "btn btn-lg btn-outline-danger";
-        }
-        else {
-            document.getElementById("false").className = "btn btn-lg btn-success";
-            document.getElementById("true").className = "btn btn-lg btn-outline-success mr-3";
-        }
-
-    }
-    else {
-
-        if (correctAns1 == "V") {
-            document.getElementById("true").className = "btn btn-lg btn-warning mr-3";
-            document.getElementById("false").className = "btn btn-lg btn-outline-danger";
-        }
-        else {
-            document.getElementById("false").className = "btn btn-lg btn-warning";
-            document.getElementById("true").className = "btn btn-lg btn-outline-success mr-3";
-        }
-        
-    }
-
-    if (map.get(quest_next.toString()) == correctAns2) {
-
-        if (correctAns2 == "V") {
-            document.getElementById("true2").className = "btn btn-lg btn-success mr-3";
-            document.getElementById("false2").className = "btn btn-lg btn-outline-danger";
-        }
-        else {
-            document.getElementById("false2").className = "btn btn-lg btn-success";
-            document.getElementById("true2").className = "btn btn-lg btn-outline-success mr-3";
-        }
-
-    }
-    else {
-
-        if (correctAns2 == "V") {
-            document.getElementById("true2").className = "btn btn-lg btn-warning mr-3";
-            document.getElementById("false2").className = "btn btn-lg btn-outline-danger";
-        }
-        else {
-            document.getElementById("false2").className = "btn btn-lg btn-warning";
-            document.getElementById("true2").className = "btn btn-lg btn-outline-success mr-3";
-        }
-        
-    }
-
-    document.getElementById("true").setAttribute("disabled", "");
-    document.getElementById("false").setAttribute("disabled", "");
-    document.getElementById("true2").setAttribute("disabled", "");
-    document.getElementById("false2").setAttribute("disabled", "");
+  document.getElementById("nextButton").style.display = "none";
+  document.getElementById("finishButton").style.display = "none";
 }
