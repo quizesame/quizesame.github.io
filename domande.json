@@ -1,7 +1,6 @@
 {
   "questions": [
     {
-      "id": 1,
       "question": "Quando si incominciano a prendere in considerazione l’educazione e la formazione dei disabili?",
       "options": [
         "Verso la fine del Seicento",
@@ -12,7 +11,6 @@
       "correctAnswer": "3"
     },
     {
-      "id": 2,
       "question": "In che modo ha inizio il processo di riforma della scuola?",
       "options": [
         "si registra un graduale abbandono dei programmi scolastici in favore delle programmazioni curricolari, da elaborare secondo le esigenze del contesto socio-culturale e delle situazioni di partenza degli alunni.",
@@ -23,13 +21,282 @@
       "correctAnswer": "1"
     },
     {
-      "id": 3,
       "question": "Chi furono i primi personaggi di rilievo che dedicarono gran parte del loro operato allo studio della formazione ed educazione di persone con disabilità?",
       "options": [
         "Maria Montessori e Padre Agostino Gemelli",
         "Don Milani e Piaget",
         "Bruner e Rousseau",
         "Claparede e le Sorelle Agazzi"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "La Commissione Falcucci ha previsto una scuola con il compito di realizzare lo sviluppo personale di:",
+      "options": [
+        "alcuni utenti",
+        "tutti gli utenti",
+        "pochi utenti",
+        "nessuno"
+      ],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "Un ruolo importante, in tal senso, è svolto dalla scuola materna e dalla scuola dell’obbligo, istituzioni che promuovono:",
+      "options": [
+        "socializzazione e prevenzione del bambino",
+        "solo il recupero del bambino",
+        "solo la socializzazione del bambino",
+        "non solo la socializzazione ma anche la prevenzione e il recupero del bambino"
+      ],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "Quali articoli della Costituzione sanciscono il diritto allo studio?",
+      "options": [
+        "2 e 3",
+        "41 e 42",
+        "3 e 4",
+        "33 e 34"
+      ],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "Il diritto allo studio tutelato a livello costituzionale pone nuove esigenze nel mondo scolastico.",
+      "options": [
+        "la ricerca di qualità",
+        "la ricerca di cambiamento",
+        "la ricerca di risorse",
+        "la ricerca di risposte"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "La scuola si trova ad affrontare una sfida:",
+      "options": [
+        "quella di sviluppare processi inclusivi di insegnamento che siano in grado di offrire risposte adeguate ed efficaci a ciascuno studente.",
+        "quella di sviluppare processi inclusivi di apprendimento che siano in grado di offrire risposte adeguate ed efficaci agli studenti con disabilità",
+        "quella di sviluppare processi inclusivi di apprendimento che siano in grado di offrire risposte adeguate ed efficaci a ciascuno studente.",
+        "quella di sviluppare processi inclusivi"
+      ],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "L’inclusione è finalizzata:",
+      "options": [
+        "alla produttiva convivenza delle differenze e delle diversità, frutto di processi di interscambio e di interrelazione con gli altri contesti formativi accoglienti (socio-culturali, relazionali, fisici, etc.), capaci di riconoscere i diritti di cittadinanza e la partecipazione scolastica e sociale di ogni persona",
+        "alla produttiva convivenza delle differenze e delle diversità, frutto di processi di interscambio e di interrelazione con gli altri contesti formativi accoglienti (socio-culturali, relazionali, fisici, etc.)",
+        "alla produttiva convivenza delle differenze e delle diversità",
+        "a riconoscere i diritti di cittadinanza e la partecipazione scolastica e sociale di ogni persona"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "Quali sono i 4 pilastri della didattica inclusiva?",
+      "options": [
+        "cooperazione, efficacia, efficienza, relazioni ed emozioni",
+        "collaborazione, progettazione, efficacia, relazioni ed emozioni",
+        "collaborazione, progettazione, efficacia, economicità",
+        "progettualità, efficienza, relazioni ed emozioni"
+      ],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "Come ha definito l’ICF la disabilità?",
+      "options": [
+        "ostacolo alla auto-realizzazione dell’individuo",
+        "limite di capacità funzionali e di partecipazione sociale",
+        "malattia",
+        "conseguenza o risultato di una complessa relazione tra la condizione di salute di un individuo, fattori personali e fattori ambientali che rappresentano le circostanze in cui egli vive."
+      ],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "La soluzione cui è pervenuta la giurisprudenza europea di recente, al fine di dare applicazione al principio dell’art. 2 Protocollo n. 1, dalla portata alquanto ermetica:",
+      "options": [
+        "ha chiarito che l’istruzione non mira soltanto all’acquisizione di conoscenze, bensì anche all’integrazione degli allievi nella società.",
+        "non ha espresso alcun parere in materia",
+        "ha chiarito che l’istruzione mira all’acquisizione di conoscenze, ma l’integrazione è questione diversa",
+        "ha chiarito che l’istruzione deve essere garantita a tutti gli studenti, inclusi quelli con disabilità"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "Nel dibattito europeo la strada verso una full inclusion è stata:",
+      "options": [
+        "identica al cammino percorso dall’Italia",
+        "più incisiva rispetto al cammino percorso dall’Italia",
+        "più lenta e accidentata rispetto al cammino percorso dall’Italia",
+        "meno lenta e accidentata rispetto al cammino percorso dall’Italia"
+      ],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Da una decina di anni a questa parte, anche a livello internazionale pare essersi rafforzato:",
+      "options": [
+        "un consenso favorevole alla necessità di percorsi inclusivi e interni alle scuole normali degli studenti con disabilità.",
+        "un consenso favorevole alla necessità di percorsi differenziati e interni alle scuole speciali degli studenti con disabilità",
+        "un consenso che propende verso la logica della separazione",
+        "un consenso che propende verso la logica dell’esclusione"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "La definizione di \"scuola inclusiva\":",
+      "options": [
+        "è il contesto collettivo, collaborativo e attivo che sa utilizzare metodologie e strategie tali da promuovere le potenzialità e il successo formativo di ogni alunno.",
+        "è l’insieme delle metodologie e delle strategie che promuovono il successo formativo",
+        "è l’insieme delle metodologie e delle strategie che promuovono le potenzialità",
+        "è un contesto collettivo e collaborativo"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "Se si parla di integrazione:",
+      "options": [
+        "si sostanzia nella mera coesistenza di più soggetti nello stesso luogo fisico, senza interesse verso la qualità degli scambi relazionali tra gli stessi",
+        "si tende a sottolineare la relazione tra il soggetto integrato e il docente",
+        "si tende a sottolineare la relazione tra il soggetto integrato e il gruppo integrante, focalizzando l’attenzione sullo scambio",
+        "si sostanzia nella mera coesistenza di più soggetti nello stesso luogo fisico, con interesse verso la qualità degli scambi relazionali tra gli stessi"
+      ],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "L’inserimento e l’integrazione scolastica sono emblema:",
+      "options": [
+        "di schemi e modelli passati",
+        "del contesto storico di riferimento",
+        "della parallela evoluzione di schemi concettuali e di modelli culturali",
+        "del grado di emancipazione sociale e culturale della società e dal contesto storico di riferimento"
+      ],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "A quale anno risale la Riforma Gentile?",
+      "options": [
+        "1923",
+        "1977",
+        "2009",
+        "1971"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "Per la prima volta, con il Regio Decreto del 31 dicembre 1923 n.3126,",
+      "options": [
+        "vengono istituite per la prima volta le «classi differenziali» nella scuola elementare, per alunni con anormalità di sviluppo",
+        "si estende l’obbligo scolastico a ciechi e sordomuti in scuole speciali statali",
+        "si introduce il concetto di inclusione",
+        "si escludono ciechi e sordomuti, confinandoli in scuole speciali"
+      ],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "Con la Circolare Ministeriale n. 1771/12 dell’11 marzo 1953 si delinea ancora un sistema segregativo, però emerge già una distinzione.",
+      "options": [
+        "Da una parte le classi speciali per minorati, dall’altra le scuole di differenziazione",
+        "Da una parte le classi speciali per minorati, dall’altra le classi differenziali",
+        "Da una parte le classi speciali per minorati e scuole di differenziazione, dall’altra le classi differenziali",
+        "Da una parte le classi differenziali per minorati, dall’altra scuole speciali"
+      ],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Dalla disamina delle disposizioni normative degli anni ’60, si nota che:",
+      "options": [
+        "l’inserimento scolastico della persona disabile è ancora caratterizzata da un approccio prevalentemente medico",
+        "si incomincia a porre attenzione alla personalità globale del bambino",
+        "si incomincia a utilizzare il termine “inclusione”",
+        "l’inserimento scolastico della persona disabile è ora caratterizzata da un approccio prevalentemente relazionale"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "Quale anno è considerato «l’anno della scoperta della diversità», dato che realizza un’evoluzione della concezione di handicap?",
+      "options": [
+        "1959",
+        "1970",
+        "1948",
+        "1968"
+      ],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "Quale legge prevede l’abolizione delle classi differenziali?",
+      "options": [
+        "Legge 118 del 1971",
+        "Legge n. 517 del 4 agosto 1977",
+        "Legge n.1859 del 31 dicembre 1962",
+        "Legge n.144 del 18 marzo 1968"
+      ],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "Il Regolamento dell’autonomia (d.p.r. 275/1999) può essere definito:",
+      "options": [
+        "la “carta di identità culturale” della scuola",
+        "una sorta di “Statuto” che l’istituzione scolastica può non adeguatamente sfruttare",
+        "una sorta di nuovo “Statuto” della scuola italiana, che ogni istituzione scolastica deve adeguatamente sfruttare",
+        "una sorta di linea guida per le scuole"
+      ],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Con l’autonomia scolastica si è inteso perseguire l’obiettivo di:",
+      "options": [
+        "favorire la trasversalità delle prassi di inclusione nei diversi ambiti degli insegnamenti curricolari",
+        "favorire la trasversalità delle prassi di inclusione nei diversi ambiti degli insegnamenti extracurricolari",
+        "favorire la trasversalità delle prassi di inclusione nei diversi ambiti degli insegnamenti curricolari ed extracurricolari",
+        "non favorire la trasversalità delle prassi di inclusione nei diversi ambiti degli insegnamenti curricolari ed extracurricolari"
+      ],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "In quante parti si suddivide il testo delle Linee Guida sull’integrazione scolastica degli alunni con disabilità del 2009?",
+      "options": [
+        "tre",
+        "quattro",
+        "cinque",
+        "sei"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "La seconda Parte delle Linee Guida sull’integrazione scolastica degli alunni con disabilità del 2009, intitolata “L’organizzazione”:",
+      "options": [
+        "sintetizza in breve lo sviluppo della normativa italiana in materia di inclusione scolastica",
+        "ricolloca l’integrazione nel nuovo quadro del decentramento del Ministero agli Uffici Scolastici regionali (USR), insistendo molto sull’opportunità della costituzione di Gruppi di coordinamento a livello regionale, ferma restando la presenza degli attuali GLIP, come raccordi provinciali degli orientamenti regionali",
+        "scende nel dettaglio, analizzando i compiti organizzativi prevalenti del Dirigente scolastico, quelli didattici di tutti i docenti del consiglio di classe, quelli operativi dei collaboratori e delle collaboratrici scolastiche e quello partecipativo della famiglia",
+        "le Linee Guida prevedono solo una parte"
+      ],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "Il quadro normativo attuale prevede, oltre le Linee guida sull’integrazione scolastica degli alunni con disabilità del 2009, anche un altro testo normativo. Di cosa si tratta?",
+      "options": [
+        "la CM n° 8 del 6/3/2013 firmata dal Capodipartimento del MIUR.",
+        "Le Linee guida del 2009 rappresentano l’unico riferimento in materia",
+        "una normativa non ben definita",
+        "La direttiva del Ministero dell’Istruzione del 27 dicembre 2012, relativa ai Bisogni educativi speciali (BES)"
+      ],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "Quale Circolare ministeriale definisce ed esplica i contenuti della Direttiva BES?",
+      "options": [
+        "la CM n° 8 del 6/3/2013 firmata dal Capodipartimento del MIUR",
+        "la CM dell’8 novembre, n.11305",
+        "la CM n.2/DF del 31 marzo 2020",
+        "la Circolare protocollo 5939 del 23/10/2020"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "Tra le novità della Legge quadro 104/92, cosa si prevede in merito ai Gruppi GLIP e GLH?",
+      "options": [
+        "I gruppi di lavoro hanno compiti di consulenza e proposta al Provveditore agli Studi, di consulenza alle singole scuole, di collaborazione con gli enti locali per la conclusione e la verifica dell’esecuzione degli accordi di programma",
+        "I gruppi di lavoro hanno compiti prevalentemente decisori in materia di disabilità",
+        "I gruppi di lavoro hanno compiti di consulenza e proposta al Provveditore agli Studi e di collaborazione con gli enti locali per la conclusione",
+        "I gruppi di lavoro hanno compiti di consulenza alle singole scuole, di collaborazione con gli enti locali per la conclusione e la verifica dell’esecuzione degli accordi di programma"
       ],
       "correctAnswer": "1"
     }
