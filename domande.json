@@ -1029,7 +1029,156 @@
         "di uno dei tre percorsi didattici: percorso normale, percorso “semplificato” o “per obiettivi minimi”, percorso “differenziato”, a seconda delle capacità e potenzialità dell’alunno con disabilità"
       ],
       "correctAnswer": "4"
+    },
+    {
+      "question": "Le Regole Standard per l’uguaglianza di opportunità delle persone con disabilità, nel quadro internazionale:",
+      "options": [
+        "non rappresentano uno strumento giuridicamente vincolante, pertanto sono inefficaci ai fini di una tutela effettiva contro le violazioni dei diritti",
+        "rappresentano uno strumento giuridicamente vincolante, pertanto sono efficaci ai fini di una tutela effettiva contro le violazioni dei diritti",
+        "costituiscono il punto di riferimento normativo internazionale più importante",
+        "non sono rilevanti nel quadro internazionale"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "Il punto di riferimento normativo più importante a livello internazionale:",
+      "options": [
+        "è la Convenzione ONU sui diritti delle persone con disabilità del 2006",
+        "sono le Regole Standard per l’uguaglianza di opportunità delle persone con disabilità",
+        "è il Programma di azione mondiale relativo alle persone con disabilità (1983-1992)",
+        "è l’istituzione della Giornata mondiale dei disabili (il 3 dicembre)"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "La politica comunitaria alla fine degli anni ’70",
+      "options": [
+        "come l’Italia, ha assestato la piena affermazione del concetto di inclusione",
+        "a differenza dell’Italia, ha assestato la piena affermazione del concetto di inclusione",
+        "come l’Italia, ha assestato la piena affermazione del concetto di inclusione",
+        "a differenza dell’Italia, ha iniziato a intervenire sulla disabilità attraverso interventi sporadici e frammentari"
+      ],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "I Programmi Europei (come Horizon, Helios I, Helios II, ecc.):",
+      "options": [
+        "rappresentano interventi sporadici e frammentari",
+        "costituiscono una normativa specifica e puntuale",
+        "danno conferma della evoluzione della mentalità europea verso una accettazione piena del concetto di inclusione. E sono stati quasi “il predecessore” di una normativa specifica e puntuale, nonché di altrettanto definite politiche comunitarie sul tema",
+        "rappresentano definite politiche comunitarie sul tema"
+      ],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Con riguardo alla Carta dei diritti fondamentali dei cittadini europei (o Carta di Nizza) del 2000:",
+      "options": [
+        "l’esigenza di cui si fece portavoce fu quella di dare applicazione ai trattati",
+        "l’esigenza di cui si fece portavoce fu quella di assestare la tutela di certi diritti e libertà fondamentali imprescindibili della persona, in maniera che fossero garantiti a tutti i cittadini europei",
+        "l’esigenza di cui si fece portavoce fu quella di assestare la tutela di certi diritti e libertà fondamentali degli alunni",
+        "l’esigenza di cui si fece portavoce fu quella di assestare la tutela di certi diritti"
+      ],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "Cosa afferma la Carta con riguardo al tema della disabilità?",
+      "options": [
+        "La Carta dei diritti fondamentali non prende in considerazione il tema della disabilità, perché è ancora troppo presto per l’accettazione del principio",
+        "La Carta dei diritti fondamentali definisce un quadro problematico delle persone con disabilità",
+        "La Carta dei diritti fondamentali definisce un quadro normativo, volto a migliorare la situazione sociale ed economica delle persone con disabilità",
+        "La Carta dei diritti fondamentali definisce un quadro normativo, volto a migliorare la situazione sociale ed economica delle persone con disabilità, mediante il riconoscimento del loro inserimento a pieno titolo in ogni contesto di vita"
+      ],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "Quali sono le norme più importanti della Carta dei diritti fondamentali?",
+      "options": [
+        "22 e 23",
+        "21 e 22",
+        "21 e 26",
+        "26 e 27"
+      ],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "In conseguenza della ratifica, l’UE definisce tra il 2010 e il 2020 la Strategia Europea sulla disabilità che concentra i suoi impegni e i suoi programmi verso le persone con disabilità in 8 aree tematiche. Cosa significa “Accessibilità”?",
+      "options": [
+        "Accessibilità significa “possibilità di accesso” per le persone disabili, sempre su base di uguaglianza con gli altri, a beni e servizi",
+        "Questo principio è sinonimo di non discriminazione e di parità di trattamento",
+        "Con questo principio si vuole garantire alle persone disabili autonomia anche in senso economico e tutela contro la povertà",
+        "Questo principio riguarda i servizi sanitari"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "L’approccio del mainstreaming permette di affrontare la problematica della disabilità",
+      "options": [
+        "come problema circoscritto",
+        "all’interno di politiche più generali",
+        "come problema circoscritto e svincolato dagli altri",
+        "all’interno di politiche solo specifiche"
+      ],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "Con il mainstreaming, la comunità si è impegnata all’integrazione delle politiche sull’handicap",
+      "options": [
+        "in maniera generale a tutti gli ambiti in cui essi vanno a innestarsi",
+        "in maniera speciale a tutti gli ambiti in cui essi vanno a innestarsi",
+        "in maniera particolare a tutti gli ambiti in cui essi vanno a innestarsi",
+        "in maniera trasversale a tutti gli ambiti in cui essi vanno a innestarsi"
+      ],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "L’unico dato sul quale sembra ritrovarsi la maggiore percentuale dei Paesi coinvolti nella rilevazione è quello",
+      "options": [
+        "di una forte concentrazione di studenti disabili nel ciclo della scuola primaria, cui fa seguito una sensibile diminuzione in quella secondaria",
+        "di una forte concentrazione di studenti disabili nel ciclo della scuola secondaria",
+        "di una forte concentrazione di studenti disabili in tutti gli ordini e gradi di scuola",
+        "di una forte concentrazione di studenti disabili nel primo ciclo, cui fa seguito una sensibile diminuzione nella scuola secondaria"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "Quali sono le problematiche nella maggior parte dei Paesi Europei?",
+      "options": [
+        "Intanto emerge un alto tasso di abbandono scolastico nella popolazione disabile; un conseguente basso livello di scolarizzazione",
+        "Intanto emerge l’analfabetismo al compimento della scuola primaria, ancor più vero per le femmine che non per i maschi",
+        "Intanto emerge un dato preoccupante: più grave è lo stato dell’handicap, minore la scolarità raggiunta",
+        "Intanto emerge un alto tasso di abbandono scolastico nella popolazione disabile; un conseguente basso livello di scolarizzazione, che va dall’analfabetismo al compimento della scuola primaria, ancor più vero per le femmine che non per i maschi"
+      ],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "La Commissione della Comunità Europea ha lavorato molto sui punti sopra esposti, adottando diversi programmi comunitari, promuovendo iniziative politiche e formulando proposte ufficiali a tutti gli stati ed intervenendo con azioni specifiche. Come anticipato, sono programmi diretti",
+      "options": [
+        "proprio all’inserimento nel contesto lavorativo dei giovani, all’interno dei quali si sono innestate e integrate azioni positive a favore di ragazzi disabili, finanziate attraverso il Fondo Sociale Europeo",
+        "proprio al tempo libero dei giovani, all’interno dei quali si sono innestate e integrate azioni positive a favore di ragazzi disabili, finanziate attraverso il Fondo Sociale Europeo",
+        "proprio all’istruzione e alla formazione dei giovani, all’interno dei quali si sono innestate e integrate azioni positive a favore di ragazzi disabili, finanziati attraverso il Fondo Sociale Europeo",
+        "proprio all’istruzione e alla formazione dei giovani"
+      ],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Cos’è l’OCSE?",
+      "options": [
+        "L’Organizzazione per la cooperazione e lo sviluppo economico (OCSE), con sede a Parigi, è un’organizzazione internazionale di studi economici",
+        "L’Organizzazione per la cooperazione e lo sviluppo economico (OCSE), con sede a Parigi, è un’organizzazione europea di studi economici",
+        "L’Organizzazione per la cooperazione e lo sviluppo economico (OCSE), con sede a Parigi, è un’organizzazione italiana di studi economici",
+        "L’Organizzazione per la cooperazione e lo sviluppo economico (OCSE), con sede a Parigi, è un’organizzazione francese di studi economici"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "Quale problematica è stata posta al centro degli studi dell’OCSE?",
+      "options": [
+        "Gli studenti disabili e quelli con difficoltà comportamentali o dell’apprendimento rappresentano un insieme omogeneo di persone che presentano un rischio elevato di insuccesso scolastico e di non trovare un lavoro adeguato e quindi di subire uno svantaggio sociale",
+        "Gli studenti disabili e quelli con difficoltà comportamentali o dell’apprendimento rappresentano un insieme eterogeneo, variegato e numeroso di persone che presentano un rischio elevato di insuccesso scolastico e di non trovare un lavoro adeguato e quindi di subire uno svantaggio sociale",
+        "Gli studenti disabili e quelli con difficoltà comportamentali o dell’apprendimento rappresentano un insieme eterogeneo, variegato e numeroso di persone tutelate (e perciò senza rischi) contro l’insuccesso scolastico e nel trovare un lavoro adeguato",
+        "Gli studenti disabili e quelli con difficoltà comportamentali o dell’apprendimento rappresentano un insieme eterogeneo, variegato e numeroso di persone che presentano un rischio elevato di insuccesso scolastico"
+      ],
+      "correctAnswer": "2"
     }
   ]
 }
-
