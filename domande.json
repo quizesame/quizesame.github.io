@@ -1179,6 +1179,307 @@
         "Gli studenti disabili e quelli con difficoltà comportamentali o dell’apprendimento rappresentano un insieme eterogeneo, variegato e numeroso di persone che presentano un rischio elevato di insuccesso scolastico"
       ],
       "correctAnswer": "2"
+    },
+    {
+      "question": "Cosa significa una scuola «fattore di promozione sociale»?",
+      "options": [
+        "una scuola che sia davvero attenta alle caratteristiche, ai bisogni e alle necessità della società",
+        "una scuola che sia promotrice di occupazione attiva",
+        "una scuola che sia davvero attenta alle caratteristiche, ai bisogni e alle necessità individuali",
+        "una scuola che sia davvero attenta alle caratteristiche, ai bisogni e alle necessità individuali e perciò promotrice di relazioni e scambio continuo, nonché di partecipazione attiva"
+      ],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "Qual è il migliore significato del fatto che la scuola si inserisce nel contesto della “società della conoscenza”?",
+      "options": [
+        "che il Dirigente, ma anche il Docente devono avere una visione unitaria e dinamica del mondo sociale, oltre che del mondo della formazione",
+        "che gli alunni devono avere una visione unitaria e dinamica del mondo sociale, oltre che del mondo della formazione",
+        "che gli alunni devono possedere conoscenze",
+        "che la scuola e la società devono avere una visione unitaria del mondo della formazione"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "Cosa costituisce il nucleo fondante della nuova didattica?",
+      "options": [
+        "il rafforzamento delle competenze di base",
+        "il rafforzamento dei saperi nozionistici",
+        "il rafforzamento delle sole conoscenze",
+        "il rafforzamento dell’uso dei libri di testo"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "La strategia più rilevante a livello metodologico–didattico è",
+      "options": [
+        "la capacità di determinare una interrelazione tra lezioni frontali e interrogazioni",
+        "la capacità di determinare una interrelazione tra attività curricolari e situazioni concrete e pratiche",
+        "la capacità di determinare una interrelazione tra apprendimento meccanico e situazioni concrete e pratiche",
+        "la capacità di determinare una interrelazione tra conoscenze mnemoniche e situazioni concrete e pratiche"
+      ],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "Come cambiano le modalità di valutazione?",
+      "options": [
+        "alla lezione frontale si sostituiscono interrogazioni e verifiche in itinere degli apprendimenti",
+        "all’interrogazione si sostituisce una prova scritta in itinere per la verifica degli apprendimenti",
+        "all’interrogazione e a verifiche standardizzate, espressione di un apprendimento meccanico, si sostituisce una verifica in itinere degli apprendimenti",
+        "a una verifica in itinere, espressione di un apprendimento meccanico, si sostituiscono una interrogazione e verifiche standardizzate"
+      ],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Cosa indica la “flipped classroom”?",
+      "options": [
+        "Indica precisamente una modalità di laboratorio supportata da contenuti digitali dove tempi e schema di lavoro coincidono con le tradizionali modalità",
+        "Indica precisamente una modalità di insegnamento (e di apprendimento) supportata da soli libri e materiale cartaceo dove tempi e schema di lavoro sono invertiti rispetto alle tradizionali modalità",
+        "Indica precisamente una classe dove tempi e schema di lavoro sono invertiti rispetto alle tradizionali modalità",
+        "Indica precisamente una modalità di insegnamento (e di apprendimento) supportata da contenuti digitali dove tempi e schema di lavoro sono invertiti rispetto alle tradizionali modalità"
+      ],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "Nella flipped classroom il dove il controllo pedagogico del processo si sposta",
+      "options": [
+        "si sposta dall’insegnante agli studenti",
+        "si sposta dagli studenti all’insegnante",
+        "rimane in capo all’insegnante",
+        "si sposta dall’insegnante alle famiglie"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "Quale scopo si vuol perseguire con l’insegnamento di “Cittadinanza e Costituzione”?",
+      "options": [
+        "agevolare percorsi formativi orientati verso una Scuola che si incentra sugli allievi",
+        "agevolare percorsi formativi orientati verso una Scuola che concepisce i giovani come studenti",
+        "agevolare percorsi formativi orientati verso una Scuola che concepisce i giovani non solo come studenti ma anche e soprattutto come cittadini",
+        "agevolare percorsi formativi orientati verso una Scuola che concepisce i docenti come esperti di Costituzione"
+      ],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Con particolare riguardo alla conoscenza del funzionamento delle amministrazioni locali e dei loro organi, alla conoscenza storica del territorio e alla fruizione stabile di spazi verdi e spazi culturali",
+      "options": [
+        "anche le famiglie possono promuovere ulteriori iniziative in collaborazione con le scuole",
+        "anche i comuni possono promuovere ulteriori iniziative in collaborazione con le scuole",
+        "anche le regioni possono promuovere ulteriori iniziative in collaborazione con le scuole",
+        "anche i singoli studenti possono promuovere ulteriori iniziative in collaborazione con le scuole"
+      ],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "A livello normativo, quale legge ha regolato l’introduzione dell’insegnamento scolastico dell’educazione civica?",
+      "options": [
+        "L. n.90 del 2019",
+        "L. n.91 del 2019",
+        "L. n.92 del 2019",
+        "L. n.93 del 2019"
+      ],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Come viene definito il concetto di “ambiente di apprendimento”?",
+      "options": [
+        "È definito come “luogo in cui coloro che insegnano possono lavorare aiutandosi reciprocamente, avvalendosi a questo scopo di strumenti e risorse informative in attività di apprendimento guidato e di problem solving”.",
+        "È definito come “luogo in cui coloro che apprendono possono lavorare aiutandosi reciprocamente, avvalendosi a questo scopo di strumenti e risorse informative in attività di apprendimento guidato e di problem solving”.",
+        "È definito come “luogo in cui coloro che apprendono possono lavorare da soli, avvalendosi a questo scopo di strumenti e risorse informative in attività di apprendimento guidato o di problem solving”.",
+        "È definito come “luogo in cui coloro che apprendono possono lavorare in autonomia, avvalendosi a questo scopo di strumenti e risorse informative in attività di apprendimento guidato o di problem solving”."
+      ],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "Quale tipo di apprendimento si promuove nell’ambiente di apprendimento?",
+      "options": [
+        "l’apprendimento significativo",
+        "l’apprendimento meccanico",
+        "l’apprendimento mnemonico",
+        "l’apprendimento generale"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "Il docente di sostegno, dunque, nella nuova veste di docente inclusivo,",
+      "options": [
+        "dovrà muoversi secondo le proprie competenze",
+        "dovrà muoversi sulla base delle nuove mansioni riconosciute",
+        "dovrà muoversi secondo la propria discrezionalità",
+        "dovrà muoversi secondo le proprie competenze e sulla base delle nuove mansioni riconosciute"
+      ],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "Con riguardo all’organico concernente il sostegno, nella situazione attuale sembrano emergere alcune problematiche, meritevoli di attenzione. A proposito dei posti di sostegno, secondo i dati rilevati dall’ISTAT,",
+      "options": [
+        "pare registrarsi soprattutto la mancanza di continuità",
+        "pare registrarsi soprattutto la mancanza di insegnanti di sostegno",
+        "pare registrarsi: la mancanza di insegnanti di sostegno da una parte, e problemi legati alla continuità didattica, dall’altra",
+        "pare registrarsi: la mancanza di alunni con bisogni da una parte, e la mancanza di insegnanti di sostegno, dall’altra"
+      ],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Nell’ambito dei nuovi ambienti di apprendimento e della moderna scuola, nella quale un ruolo importante è rivestito dal docente di sostegno, punto centrale è",
+      "options": [
+        "la didattica frontale",
+        "la didattica interattiva",
+        "la didattica digitale",
+        "la didattica laboratoriale"
+      ],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "La Raccomandazione UE così definisce la competenza digitale:",
+      "options": [
+        "«consiste nel saper utilizzare con dimestichezza e spirito critico le tecnologie della società dell’informazione per il lavoro».",
+        "«consiste nel saper utilizzare le tecnologie della società dell’informazione per il lavoro, il tempo libero, la comunicazione».",
+        "«consiste nel saper utilizzare le tecnologie della società dell’informazione».",
+        "«consiste nel saper utilizzare con dimestichezza e spirito critico le tecnologie della società dell’informazione per il lavoro, il tempo libero, la comunicazione»."
+      ],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "Con cosa si realizzò appieno il processo di digitalizzazione della scuola, con apposite modifiche strutturali e organizzative, anche nel nostro Paese?",
+      "options": [
+        "Piani Nazionali per la Scuola Digitale (PNSD), del 2008 e del 2015",
+        "Il PNI (Piano Nazionale per l’Informatica)",
+        "La Raccomandazione UE",
+        "Piani Nazionali per la Scuola Digitale (PNSD), del 2009 e del 2016"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "Cosa definisce la “scuola digitale”?",
+      "options": [
+        "La quantità dell’insegnamento",
+        "L’insieme degli interventi previsti nel PTOF, che mirano a potenziare la qualità dell’insegnamento, nel caso specifico mediante la diffusione e lo sviluppo di competenze informatiche e la loro applicazione concreta alle strategie didattiche",
+        "La qualità degli strumenti digitali",
+        "L’insieme degli interventi che mirano a potenziare la qualità dell’insegnamento, nel caso specifico mediante la diffusione e lo sviluppo di competenze informatiche"
+      ],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "La multimedialità nella didattica sarebbe",
+      "options": [
+        "un mero strumento nel processo di insegnamento/apprendimento",
+        "non un mero strumento nel processo di insegnamento/apprendimento, ma un modo per “standardizzare contenuti e percorsi educativi”",
+        "non un mero strumento nel processo di insegnamento/apprendimento, ma un modo per “differenziare e personalizzare contenuti e percorsi educativi”",
+        "non un mero strumento nel processo di insegnamento/apprendimento, ma un modo per “differenziare le tipologie di alunni”"
+      ],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Cosa indica il termine TIC?",
+      "options": [
+        "Tecnologie dell’Informazione e della Comunicazione",
+        "Tecnologie dell’Istruzione e della Comunicazione",
+        "Tecniche dell’Informazione e della Comunicazione",
+        "Tecniche dell’Informazione e della Cooperazione"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "Il docente assume in tutto questo il ruolo",
+      "options": [
+        "di protagonista, per stimolare apprendimenti collaborativi e scambio di esperienze, culture e informazioni",
+        "di guida, per stimolare apprendimenti collaborativi e scambio di esperienze, culture e informazioni",
+        "centrale nel processo di insegnamento/apprendimento",
+        "autoritario per stimolare apprendimenti collaborativi e scambio di esperienze, culture e informazioni"
+      ],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "Nella società della conoscenza (quindi dell’innovazione), le competenze digitali",
+      "options": [
+        "si riducono al saper usare il computer",
+        "implicano necessariamente l’utilizzo automatico del computer e di altri strumenti digitali",
+        "implicano necessariamente l’utilizzo dei media",
+        "implicano necessariamente l’utilizzo critico e consapevole delle tecnologie e degli strumenti multimediali disponibili"
+      ],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "Al Registro elettronico sono relazionati i risponditori (in realtà usati più nella realtà universitaria) che:",
+      "options": [
+        "consentono di erogare questionari didattici, associando al nome dello studente il voto riportato, che viene automaticamente e in tempo reale trasferito nel registro elettronico",
+        "riportano i voti conseguiti dallo studente in modo tale che le famiglie possano prenderne visione",
+        "consentono di dare una risposta alle esigenze di informazione",
+        "sono utili per la comunicazione: scambi di informazioni, notizie concernenti l’ambito scolastico"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "I contenuti digitali integrativi",
+      "options": [
+        "sono “risorse di natura omogenea e differenziata, con funzione integrativa, complementare o di approfondimento, a seconda di attività, scelte, strategie del docente”.",
+        "sono “risorse di natura eterogenea e differenziata, con funzione non integrativa, complementare o di approfondimento, a seconda di attività, scelte, strategie del docente”.",
+        "sono “risorse di natura eterogenea e differenziata, con funzione integrativa, complementare o di approfondimento, a seconda di attività, scelte, strategie del docente”.",
+        "sono “risorse di natura eterogenea e standardizzata, con funzione integrativa, complementare o di approfondimento, a seconda di attività, scelte, strategie del docente”."
+      ],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Alla base della nuova scuola, inserita nel contesto della società della conoscenza, si pongono",
+      "options": [
+        "le tecnologie, specie la LIM",
+        "la comunicazione e la socializzazione",
+        "le tecnologie, specie il computer",
+        "i media e la televisione"
+      ],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "Quali sono le dimensioni del soggetto coinvolte con l’utilizzo dei media?",
+      "options": [
+        "personale/emotivo, logico-razionale, autonomia",
+        "ludico, personale, logico-razionale",
+        "autonomia, giudizio, emotivo",
+        "personale/emotivo, logico-razionale"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "Il “Sistema LIM”, dunque, nel suo complesso identifica",
+      "options": [
+        "una lavagna, dunque una grande superficie",
+        "l’insieme di una superficie interattiva, un proiettore e un computer",
+        "lo schermo del computer",
+        "una lavagna, su cui è possibile scrivere e disegnare, con una penna o con le dita"
+      ],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "Principale vantaggio della LIM è:",
+      "options": [
+        "la sua capacità di una conoscenza tecnica e informatica degli studenti che, mossi da motivazione e interesse, pongono maggiore attenzione e concentrazione sulle lezioni",
+        "la sua capacità di competenze multimediali degli studenti che, mossi da motivazione e interesse, pongono maggiore attenzione e concentrazione sulle lezioni",
+        "la sua capacità di attenzione degli studenti",
+        "la sua capacità di un maggiore coinvolgimento degli studenti che, mossi da motivazione e interesse, pongono maggiore attenzione e concentrazione sulle lezioni"
+      ],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "È necessario scegliere il materiale televisivo a seconda",
+      "options": [
+        "dei gusti e in base agli obiettivi da raggiungere, sulla base di una accurata organizzazione",
+        "dell’età e in base alla scelta del Dirigente scolastico",
+        "dell’età e in base agli obiettivi da raggiungere, sulla base di una accurata organizzazione",
+        "dell’organizzazione della lezione, senza tener conto dell’età e degli obiettivi da raggiungere"
+      ],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "La creazione di un CD-ROM o la presentazione in PowerPoint porterebbe il soggetto con particolari disturbi",
+      "options": [
+        "a esternare la sua creatività",
+        "a sentirsi incapace di dominare le nuove tecnologie",
+        "a esternare le sue debolezze",
+        "a isolarsi dai compagni"
+      ],
+      "correctAnswer": "1"
     }
   ]
 }
+
