@@ -1,10 +1,11 @@
+
 // Global
 var questionsData = [];
 var currentQuestionIndex = 0;
 var userAnswers = [];
 var quizFinished = false;
 
-// Shuffle utility
+// Utility to shuffle arrays (Fisher-Yates)
 function shuffleArray(array) {
   for (let i = array.length - 1; i > 0; i--) {
     const j = Math.floor(Math.random() * (i + 1));
@@ -12,74 +13,98 @@ function shuffleArray(array) {
   }
 }
 
-// Prepare question => shuffle its options
+/**
+ * Prepare question => convert "options" to an array of { text, isCorrect }, shuffle that array
+ * so we randomize the 4 choices, always.
+ */
 function prepareQuestionData(question) {
   const correctIndex = parseInt(question.correctAnswer, 10) - 1;
+  // Build array of { text, isCorrect }
   let newOptions = question.options.map((optText, idx) => {
     return {
       text: optText,
       isCorrect: (idx === correctIndex)
     };
   });
+  // Always shuffle the multiple-choice options
   shuffleArray(newOptions);
   question.options = newOptions;
 }
 
-// Start quiz
-async function startQuiz() {
+/**
+ * main startQuiz function
+ * @param {string} jsonUrl - e.g. "legislazione.json"
+ * @param {number} timeLimitMinutes - e.g. 30 or 60
+ * @param {number} maxQuestions - e.g. 15 or 0 (0 means no limit)
+ * @param {boolean} shuffleQuestions - whether to shuffle the question order
+ */
+async function startQuiz(jsonUrl, timeLimitMinutes, maxQuestions, shuffleQuestions) {
   // Hide welcome, show quiz
   document.getElementById("welcomeSection").style.display = "none";
   document.getElementById("quizContainer").style.display = "block";
 
-  // Fetch
+  // Load JSON
   try {
-    const response = await fetch("https://raw.githubusercontent.com/quizesame/quizesame.github.io/main/domande.json");
+    const response = await fetch(jsonUrl);
     const data = await response.json();
     questionsData = data.questions;
-  } catch (err) {
-    console.error("Errore nel caricamento delle domande:", err);
+  } catch (error) {
+    console.error("Errore nel caricamento delle domande:", error);
     return;
   }
 
-  // Shuffle entire question list
-  shuffleArray(questionsData);
-
-  // Now limit to 15 questions
-  if (questionsData.length > 15) {
-    questionsData = questionsData.slice(0, 15);
+  // Possibly shuffle the question order
+  if (shuffleQuestions) {
+    shuffleArray(questionsData);
   }
 
-  // For each question, shuffle its options
+  // If maxQuestions > 0, slice the array
+  if (maxQuestions > 0 && questionsData.length > maxQuestions) {
+    questionsData = questionsData.slice(0, maxQuestions);
+  }
+
+  // For each question, shuffle options
   questionsData.forEach(q => prepareQuestionData(q));
 
-  // Show first Q
+  // Start at first question
   currentQuestionIndex = 0;
+  userAnswers = [];
+  quizFinished = false;
+
+  // Show the question
   showQuestion();
 
-  // Start timer
+  // Set up the timer for timeLimitMinutes
+  setTimerDuration(timeLimitMinutes);
   startTimer();
 }
 
-// Render question
+/**
+ * Render the current question
+ */
 function showQuestion() {
   if (currentQuestionIndex >= questionsData.length) return;
 
-  const qObj = questionsData[currentQuestionIndex];
+  const questionObj = questionsData[currentQuestionIndex];
 
+  // "Domanda X"
   document.getElementById("questionCount").textContent = 
     "Domanda " + (currentQuestionIndex + 1);
 
-  document.getElementById("questionText").textContent = qObj.question;
+  // question text
+  document.getElementById("questionText").textContent = questionObj.question;
 
+  // Clear old options
   const optionsContainer = document.getElementById("optionsContainer");
   optionsContainer.innerHTML = "";
 
+  // Next disabled until user picks
   const nextBtn = document.getElementById("nextButton");
   nextBtn.disabled = true;
 
-  // Build radio list
-  for (let i = 0; i < qObj.options.length; i++) {
-    const opt = qObj.options[i];
+  // Build radio list from questionObj.options
+  for (let i = 0; i < questionObj.options.length; i++) {
+    const opt = questionObj.options[i]; // { text, isCorrect }
 
     const formCheckDiv = document.createElement("div");
     formCheckDiv.className = "form-check";
@@ -88,7 +113,7 @@ function showQuestion() {
     radio.type = "radio";
     radio.name = "quizOption";
     radio.id = "option" + i;
-    radio.value = i;
+    radio.value = i; // index
     radio.className = "form-check-input";
 
     // If user previously answered
@@ -122,7 +147,9 @@ function showQuestion() {
   }
 }
 
-// Move to next question
+/**
+ * Save user answer, go to next question
+ */
 function goToNextQuestion() {
   saveAnswer();
   if (currentQuestionIndex < questionsData.length - 1) {
@@ -131,10 +158,12 @@ function goToNextQuestion() {
   }
 }
 
-// Save chosen answer
+/**
+ * Grab the chosen radio index
+ */
 function saveAnswer() {
   const radios = document.getElementsByName("quizOption");
-  let chosenIdx;
+  let chosenIdx = undefined;
   for (let i = 0; i < radios.length; i++) {
     if (radios[i].checked) {
       chosenIdx = parseInt(radios[i].value);
@@ -144,13 +173,18 @@ function saveAnswer() {
   userAnswers[currentQuestionIndex] = chosenIdx;
 }
 
-// Finish quiz => show results, hide timer, etc.
+/**
+ * End quiz: stop timer, show results, list wrong answers
+ */
 function finishQuiz() {
   if (quizFinished) return;
   quizFinished = true;
 
-  clearInterval(countdown); // stop timer
-  document.getElementById("timer").style.display = "none"; // hide timer
+  // Stop timer
+  clearInterval(countdown);
+  document.getElementById("timer").style.display = "none";
+
+  // Save answer for last question
   saveAnswer();
 
   let correctCount = 0;
@@ -160,7 +194,7 @@ function finishQuiz() {
     const q = questionsData[i];
     const chosen = userAnswers[i];
     if (chosen === undefined) {
-      // user didn't pick
+      // No pick
       const correctOpt = q.options.find(o => o.isCorrect === true);
       wrongDetails.push({
         question: q.question,
@@ -171,8 +205,7 @@ function finishQuiz() {
       if (q.options[chosen].isCorrect) {
         correctCount++;
       } else {
-        // wrong
-        const correctOpt = q.options.find(o => o.isCorrect);
+        const correctOpt = q.options.find(o => o.isCorrect === true);
         wrongDetails.push({
           question: q.question,
           userChoice: q.options[chosen].text,
@@ -189,7 +222,7 @@ function finishQuiz() {
   const optionsContainer = document.getElementById("optionsContainer");
   optionsContainer.innerHTML = "";
 
-  // Show wrong answers
+  // If there are wrong answers, list them
   if (wrongDetails.length > 0) {
     const wrongBox = document.createElement("div");
     wrongBox.className = "wrong-answer-box";
@@ -214,13 +247,13 @@ function finishQuiz() {
       div.appendChild(qText);
       div.appendChild(uChoice);
       div.appendChild(cChoice);
-
       wrongBox.appendChild(div);
     });
 
     optionsContainer.appendChild(wrongBox);
   }
 
+  // Hide nav buttons
   document.getElementById("nextButton").style.display = "none";
   document.getElementById("finishButton").style.display = "none";
 }
