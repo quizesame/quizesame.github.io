@@ -2,14 +2,16 @@
 <html lang="it">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">  <!-- Responsive on mobile -->
   <title>Quiz con 6 Modalità</title>
+
   <!-- Fonts & Bootstrap -->
   <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap" rel="stylesheet">
   <link href="vendor/css/bootstrap.min.css" rel="stylesheet">
 
   <style>
     * {
-      margin: 0; 
+      margin: 0;
       padding: 0;
       box-sizing: border-box;
     }
@@ -17,6 +19,7 @@
       font-family: 'Montserrat', sans-serif;
       background-color: #fff;
     }
+    /* Container that centers everything vertically/horizontally */
     .main-container {
       width: 100%;
       min-height: 100vh;
@@ -24,19 +27,24 @@
       flex-direction: column;
       justify-content: center;
       align-items: center;
-      position: relative;
       text-align: center;
+      position: relative;
+      padding: 1rem; /* Some padding for small screens */
     }
-    /* Timer, centered at top */
+
+    /* Timer at the top, centered horizontally */
     #timer {
       font-size: 36px;
       margin-bottom: 30px;
-      display: none;
+      display: none; /* hidden until quiz starts */
     }
+
+    /* The quiz box */
     .box {
       box-sizing: content-box !important;
       padding: 40px;
-      width: 650px; /* bigger box */
+      width: 650px;     /* default width on larger screens */
+      max-width: 90vw;  /* ensure it shrinks on narrow screens */
       border-radius: 10px;
       -webkit-box-shadow: -1px 8px 15px 0px rgba(0, 0, 0, 0.5);
       -moz-box-shadow: -1px 8px 15px 0px rgba(0, 0, 0, 0.5);
@@ -62,7 +70,8 @@
       font-size: 1rem;
       padding: 0.7rem 1.4rem;
     }
-    /* For the 2 rows of 3 buttons each */
+
+    /* The 2-row, 3-button layout */
     .quiz-menu {
       display: flex;
       flex-direction: column;
@@ -71,9 +80,13 @@
     }
     .quiz-row {
       display: flex;
+      flex-direction: row;
+      flex-wrap: wrap;  /* wrap buttons on very small screens */
       justify-content: center;
       gap: 1rem;
     }
+
+    /* For the final "wrong answers" list */
     .wrong-answer-box {
       text-align: left;
       margin-top: 20px;
@@ -85,6 +98,25 @@
     }
     .wrong-answer-item p {
       margin: 4px 0;
+    }
+
+    /* Optional: Adjust fonts or spacing on very small screens */
+    @media (max-width: 576px) {
+      #timer {
+        font-size: 28px;
+      }
+      .box {
+        padding: 20px;
+      }
+      h1 {
+        font-size: 34px;
+      }
+      p, label {
+        font-size: 18px;
+      }
+      .question-heading {
+        font-size: 22px;
+      }
     }
   </style>
 </head>
