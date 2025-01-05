@@ -1,0 +1,174 @@
+{
+  "questions": [
+    {
+      "question": "Qual è il primo compito della scuola?",
+      "options": [
+        "Il suo compito fondamentale è fornire gli strumenti necessari per crescere culturalmente.",
+        "Il suo compito fondamentale è fornire gli strumenti necessari per crescere culturalmente, psicologicamente e socialmente, acquisire un certo grado di responsabilità e autonomia e, infine, formare alla cittadinanza e alla vita democratica.",
+        "Il suo compito fondamentale è fornire gli strumenti necessari per crescere culturalmente.",
+        "Il suo compito fondamentale è fornire gli strumenti necessari per crescere e acquisire un certo grado di responsabilità e autonomia e, infine, formare alla cittadinanza e alla vita democratica."
+      ],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "Nello svolgimento della programmazione quando vengono utilizzati metodi e mezzi come il questionario e il test?",
+      "options": [
+        "Nella stesura degli obiettivi",
+        "Nell'accertamento dei prerequisiti",
+        "Nella presa d'atto della situazione della classe",
+        "Nessuno dei precedenti"
+      ],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "Come si può definire la scuola?",
+      "options": [
+        "La scuola è prima di tutto studio, conoscenza, cultura, apprendimento dei saperi, ma è anche educazione, teatro di crescita civica e di cittadinanza",
+        "La scuola è prima di tutto studio, conoscenza, cultura e apprendimento",
+        "La scuola è prima di tutto studio, conoscenza, cultura, apprendimento dei saperi, ma è anche educazione, teatro di crescita civica e di cittadinanza; è il luogo in cui nascono e crescono affetti, sentimenti, e si affermano le prime amicizie che, in molti casi, resteranno per tutta la vita",
+        "Altro"
+      ],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Padroneggiare la lingua parlata; partecipare alle discussioni; esporre i risultati di un lavoro; saper scrivere e ascoltare gli altri: che tipo di obiettivi sono?",
+      "options": [
+        "Sono obiettivi tecnici",
+        "Sono obiettivi tecnici e di comportamento",
+        "Sono obiettivi metodologici",
+        "Sono obiettivi di comportamento"
+      ],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "Curiosità e stupore; creatività; pensiero critico e autonomia di giudizio: che tipo di obiettivi sono?",
+      "options": [
+        "Sono obiettivi tecnici e di comportamento",
+        "Sono obiettivi metodologici",
+        "Sono obiettivi di comportamento",
+        "Sono obiettivi tecnici"
+      ],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Organizzare il proprio lavoro; risolvere correttamente un problema; preparare una relazione e costruirsi il proprio metodo di studio: che tipo di obiettivi sono?",
+      "options": [
+        "Sono obiettivi tecnici",
+        "Sono obiettivi metodologici",
+        "Sono obiettivi tecnici e di comportamento",
+        "Sono obiettivi di comportamento"
+      ],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "Quali sono le fasi della programmazione?",
+      "options": [
+        "Presa d'atto della situazione di partenza, accertamento dei prerequisiti, obiettivi, contenuti",
+        "Obiettivi, contenuti, moduli didattici lineari o trasversali, metodo, verifica, attività di recupero, relazione finale e miglioramenti",
+        "Presa d'atto della situazione di partenza, accertamento dei prerequisiti, obiettivi, contenuti",
+        "Presa d'atto della situazione di partenza, accertamento dei prerequisiti, obiettivi, contenuti, moduli didattici lineari o trasversali, metodi, verifica, attività di recupero, relazione finale e miglioramenti cercati ed accertati rispetto alla situazione di partenza"
+      ],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "In fase di programmazione quali tipi di obiettivi vengono delineati?",
+      "options": [
+        "Gli obiettivi educativi, trasversali, disciplinari e didattici",
+        "Gli obiettivi formativi",
+        "Gli obiettivi educativi",
+        "Gli obiettivi didattici"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "Da cosa sono composti i moduli didattici lineari o trasversali?",
+      "options": [
+        "I moduli didattici lineari o trasversali sono composti da unità didattiche",
+        "I moduli didattici lineari o trasversali sono composti dagli obiettivi disciplinari",
+        "I moduli didattici lineari o trasversali sono composti dalle attività già programmate",
+        "I moduli didattici lineari o trasversali sono composti dalle attività didattiche programmate"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "Nella fase della programmazione, con quali strumenti viene fatto l'accertamento dei prerequisiti?",
+      "options": [
+        "Con l'osservazione diretta",
+        "Nessuno dei precedenti",
+        "Con l'osservazione indiretta",
+        "Con l'uso di metodi e mezzi come il questionario, il test, l'osservazione, ecc."
+      ],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "Presenza di alunni diversamente abili, provenienza geografica, presenza di ripetenti e i nuovi inserimenti: di quale fase della programmazione fanno parte?",
+      "options": [
+        "Presa d'atto della situazione di partenza",
+        "Individuazione degli obiettivi",
+        "Accertamento dei prerequisiti",
+        "Delineazione dei contenuti"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "Nella fase della programmazione, quali sono gli aspetti da tenere in considerazione nella presa d'atto della situazione della classe?",
+      "options": [
+        "La presenza di alunni diversamente abili, la provenienza geografica, la presenza di ripetenti e i nuovi inserimenti",
+        "La presenza di alunni diversamente abili, la provenienza geografica",
+        "Nessuno dei precedenti",
+        "La presenza di ripetenti e i nuovi inserimenti"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "A cosa concorrono gli obiettivi educativi?",
+      "options": [
+        "Gli obiettivi educativi concorrono alla formazione dell'aspetto cognitivo a quello relazionale e affettivo",
+        "Gli obiettivi educativi riguardano l'aspetto disciplinare",
+        "Gli obiettivi educativi concorrono alla formazione globale della personalità umana, spaziando dall'aspetto cognitivo a quello relazionale e affettivo",
+        "Gli obiettivi educativi concorrono alla formazione della personalità umana"
+      ],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Chi fa una distinzione tra obiettivi educativi e obiettivi didattici?",
+      "options": [
+        "M. Pellery, partendo da una riflessione filosofica sulla programmazione, divide gli obiettivi educativi dagli obiettivi didattici",
+        "Loris Malaguzzi, partendo da una riflessione filosofica sulla programmazione, divide gli obiettivi educativi dagli obiettivi didattici",
+        "Ralph Tyler, partendo da una riflessione filosofica sulla programmazione, divide gli obiettivi educativi dagli obiettivi didattici",
+        "Altri autori"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "Secondo Taylor, da dove deve partire la programmazione?",
+      "options": [
+        "Per il Tyler la programmazione deve partire dall'analisi del contesto dal patrimonio culturale, perciò implica una “scelta” dei contenuti e dei metodi e degli strumenti di verifica e con essi anche un ben preciso sistema di valori etici e politici",
+        "Per il Tyler la programmazione deve partire dall'analisi del contesto sociale, dai bisogni dello studente e dal patrimonio culturale, perciò implica una “scelta” dei contenuti e dei metodi e degli strumenti di verifica e con essi anche un ben preciso sistema di valori etici e politici.",
+        "Per il Tyler la programmazione deve partire dall'analisi del contesto sociale",
+        "Per il Tyler la programmazione implica una “scelta” dei contenuti e dei metodi e degli strumenti di verifica e con essi anche un ben preciso sistema di valori etici e politici"
+      ],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "Chi per primo sosteneva che una programmazione didattica debba essere fondata su obiettivi precedentemente tradotti in comportamenti osservabili e misurabili?",
+      "options": [
+        "Loris Malaguzzi",
+        "Ralph Taylor",
+        "Maria Montessori",
+        "Bruner"
+      ],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "A chi si può attribuire il merito di aver dato avvio a quel settore di ricerca che va sotto il nome di teoria del curricolo e della programmazione scolastica?",
+      "options": [
+        "A Bruner, con la teoria del curriculum a spirale",
+        "A Ralph Tyler",
+        "A Loris Malaguzzi, con la sua teoria della pedagogia relazionale",
+        "A Maria Montessori"
+      ],
+      "correctAnswer": "2"
+    }
+  ]
+}
