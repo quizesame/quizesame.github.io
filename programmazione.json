@@ -169,6 +169,156 @@
         "A Maria Montessori"
       ],
       "correctAnswer": "2"
+    },
+    {
+      "question": "Secondo le Indicazioni per il curriculo quando è la valorizzazione delle discipline?",
+      "options": [
+        "Secondo le Indicazioni nazionali la valorizzazione delle discipline avviene con una buona programmazione",
+        "Secondo le Indicazioni nazionali la valorizzazione delle discipline sa quando si evitano due rischi: sul piano culturale, quello della frammentazione dei saperi; sul piano didattico, quello dell’impostazione trasmissiva",
+        "Secondo le Indicazioni nazionali la valorizzazione delle discipline sa quando si syt impostazione trasmissiva",
+        "Secondo le Indicazioni nazionali la valorizzazione delle discipline sa quando esista la frammentazione dei saperi"
+      ],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "Quale è un aspetto innovativo delle Indicazioni nazionali rispetto ai Programmi Ministeriali?",
+      "options": [
+        "Un aspetto molto innovativo rispetto ai Programmi del passato è rappresentato dall'impianto curricolare centrato sulla programmazione",
+        "Un aspetto molto innovativo rispetto ai Programmi del passato è rappresentato dall'impianto curricolare centrato sulle abilità. Per i campi di esperienza della scuola dell’infanzia e per ogni disciplina del primo ciclo sono previsti traguardi di sviluppo delle competenze che sono prescrittivi",
+        "Un aspetto molto innovativo rispetto ai Programmi del passato è rappresentato dall'impianto curricolare centrato sulle competenze. Per i campi di esperienza della scuola dell’infanzia e per ogni disciplina del primo ciclo sono previsti traguardi di sviluppo delle competenze che sono prescrittivi",
+        "Un aspetto molto innovativo rispetto ai Programmi del passato è rappresentato dall'impianto curricolare centrato sulle conoscenze. Per i campi di esperienza della scuola dell’infanzia e per ogni disciplina del primo ciclo sono previsti traguardi di sviluppo delle competenze che sono prescrittivi"
+      ],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Cosa si intende per verticalità del curricolo?",
+      "options": [
+        "La verticalità del curricolo è un impegno che ciascuna scuola si assume per costruire percorsi coerenti, che sappiano ottimizzare i tempi della didattica e stimolare la motivazione degli alunni",
+        "La verticalità del curricolo è un impegno che ciascuna scuola si assume per costruire percorsi coerenti",
+        "La verticalità del curricolo è un impegno che ciascuna scuola si assume per costruire percorsi di apprendimento progressivi",
+        "La verticalità del curricolo è un impegno che ciascuna scuola si assume per costruire percorsi di apprendimento progressivi e coerenti, che sappiano ottimizzare i tempi della didattica e stimolare la motivazione degli alunni"
+      ],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "Qual è la prima caratteristica che deve avere il curricolo?",
+      "options": [
+        "Il curricolo deve essere ciclico",
+        "Il curricolo deve essere verticale",
+        "Il curricolo deve essere lineare",
+        "Nessuna delle precedenti"
+      ],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "Che cosa possono rappresentare le indicazioni Nazionali?",
+      "options": [
+        "Le indicazioni rappresentano la base di partenza per la costruzione del POTF",
+        "Le indicazioni rappresentano la base di partenza per la costruzione del PEI",
+        "Le indicazioni rappresentano la base di partenza per la costruzione del curricolo di scuola",
+        "Le indicazioni rappresentano la base di partenza per la costruzione del POF"
+      ],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Quando le Indicazioni Nazionali hanno preso il posto dei Programmi Nazionali?",
+      "options": [
+        "Dopo il riconoscimento dell’autonomia delle istituzioni scolastiche nel 1989",
+        "Dopo il riconoscimento dell’autonomia delle istituzioni scolastiche del 1989",
+        "Dopo il riconoscimento dell’autonomia delle istituzioni scolastiche e della riforma della valutazione",
+        "Dopo il riconoscimento dell’autonomia delle istituzioni scolastiche"
+      ],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "Quale modello di scuola viene messo in discussione negli anni 60?",
+      "options": [
+        "Negli anni settanta si mette in discussione il modello di scuola quello gentiliano in cui erano stabiliti i contenuti in maniera molto sommaria",
+        "Negli anni settanta si mette in discussione il modello di scuola quello gentiliano in cui erano stabiliti tutti i contenuti in maniera meno rigida",
+        "Negli anni settanta si mette in discussione il modello di scuola quello gentiliano in cui erano stabiliti tutti i contenuti in maniera molto rigida, per cui se un docente non svolgeva tutto il programma non aveva svolto il suo compito",
+        "Nessuna delle precedenti"
+      ],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Chi si trova al centro dell’azione educativa?",
+      "options": [
+        "Al centro di questa complessità reticolare troviamo l’alunno",
+        "Al centro di questa complessità reticolare troviamo gli insegnanti",
+        "Al centro di questa complessità reticolare troviamo l’alunno e gli insegnanti",
+        "Al centro di questa complessità reticolare troviamo l’alunno, insegnante e famiglie"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "Quali metodologie didattiche è necessario utilizzare per un’azione educativa e formativa efficace?",
+      "options": [
+        "L’uso di metodologie didattiche differenziate e personalizzate che contraddistinguono una efficace azione formativa in quanto orientata a sviluppare sistemi di padronanza dei contenuti e dei problemi, valorizzando l’apprendimento in contesti applicativi che favoriscono l’esplorazione e la scoperta, il lavoro di interazione e collaborazione tra pari, valorizzando l’esperienza e le conoscenze di ciascuno",
+        "Le metodologie del peer to peer ed e-tutoring",
+        "Le metodologie basate sul cooperative learning",
+        "Le metodologie basate sull’apprendimento cooperativo"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "Cosa devono definire gli obiettivi?",
+      "options": [
+        "Gli obiettivi di apprendimento devono definire in modo chiaro e inequivocabile le conoscenze e abilità ritenuti indispensabili al fine di raggiungere i traguardi per lo sviluppo delle competenze",
+        "Gli obiettivi di apprendimento devono definire in modo chiaro e inequivocabile le conoscenze al fine di raggiungere i traguardi per lo sviluppo delle competenze",
+        "Nessuna delle precedenti",
+        "Gli obiettivi di apprendimento devono definire in modo chiaro e inequivocabile le abilità ritenuti indispensabili al fine di raggiungere i traguardi per lo sviluppo delle competenze"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "Cosa sono i traguardi di sviluppo delle competenze?",
+      "options": [
+        "I traguardi di sviluppo delle competenze indicano le piste didattiche da percorrere e aiutano a finalizzare l'azione educativa allo sviluppo integrale dell'alunno",
+        "I traguardi di sviluppo delle competenze indicano le piste curricolari finalizzate allo sviluppo integrale dell'alunno",
+        "I traguardi di sviluppo delle competenze indicano le piste culturali e didattiche da percorrere e aiutano a finalizzare l’azione educativa allo sviluppo integrale dell’allievo",
+        "I traguardi di sviluppo delle competenze indicano le finalità dell'azione educativa allo sviluppo integrale dell'allievo"
+      ],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Cosa presuppone la centralità dello studente?",
+      "options": [
+        "Presuppone una spiccata attenzione agli stili di apprendimento",
+        "Presuppone una spiccata attenzione alle caratteristiche personali, agli stili di apprendimento, agli interessi, attitudini, talenti che ciascun ragazzo esprime in forme peculiari",
+        "Presuppone una spiccata attenzione a interessi, attitudini, talenti che ciascun ragazzo esprime in forme peculiari",
+        "Presuppone una spiccata attenzione alle caratteristiche personali"
+      ],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "A chi spetta predisporre le condizioni cognitive, affettive e relazionali che in un dato contesto consentano allo studente di costruire le proprie conoscenze e abilità al fine di conseguire mete formative importanti per vivere bene nel proprio contesto sociale?",
+      "options": [
+        "Al Collegio docenti",
+        "Alla funzione strumentale dell’Area Inclusione",
+        "All’insegnante",
+        "Al Dirigente scolastico"
+      ],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Qual è l’obiettivo principale della scuola?",
+      "options": [
+        "L’obiettivo principale della scuola è l’alfabetizzazione e istruzione",
+        "L’obiettivo principale della scuola è intervenire nei processi di educazione, formazione e istruzione mirata allo sviluppo della persona, adeguati ai diversi contesti, alla domanda delle famiglie e alle culture specifiche dei soggetti coinvolti",
+        "L’obiettivo principale della scuola è realizzare l’equilibrio tra educazione e istruzione",
+        "L’obiettivo principale della scuola è realizzare e valorizzare la educazione"
+      ],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "Qual è il compito principale della scuola?",
+      "options": [
+        "La scuola ha il compito di assicurare ad ogni alunno una buona educazione",
+        "La scuola ha il compito di assicurare ad ogni alunno il successo educativo",
+        "La scuola ha il compito di assicurare ad ogni alunno il raggiungimento degli obiettivi scolastici",
+        "La scuola ha il compito di assicurare ad ogni alunno il successo formativo"
+      ],
+      "correctAnswer": "4"
     }
   ]
 }
