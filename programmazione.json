@@ -319,6 +319,156 @@
         "La scuola ha il compito di assicurare ad ogni alunno il successo formativo"
       ],
       "correctAnswer": "4"
+    },
+    {
+      "question": "Cosa fa parte del curricolo \"esplicito\"?",
+      "options": [
+        "Nessuna delle precedenti",
+        "Fanno parte del curricolo \"esplicito\" le mete organizzative",
+        "Fanno parte del curricolo \"esplicito\" le mete educative",
+        "Fanno parte del curricolo \"esplicito\" le mete formative"
+      ],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "Cosa definisce il Ministero della Pubblica Istruzione?",
+      "options": [
+        "Il Ministero della Pubblica Istruzione definisce gli obiettivi specifici di apprendimento relativi alle competenze degli alunni e i relativi monte ore annuo",
+        "Il Ministero della Pubblica Istruzione definisce gli obiettivi generali dei processi formativi, gli obiettivi specifici di apprendimento relativi alle competenze degli alunni e le discipline costituenti la quota nazionale e i relativi monte ore annuo",
+        "Nessuna delle precedenti",
+        "Il Ministero della Pubblica Istruzione definisce gli obiettivi generali dei processi formativi"
+      ],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "Che cosa è il curricolo intangibile?",
+      "options": [
+        "Il curricolo intangibile è costituito dal clima della scuola, da quel complesso di pensieri, di modi di essere e di interagire, di affrontare le criticità che gli alunni comunque respirano e che in modo inversamente proporzionale all’età ma comunque rilevante ne influenzano l’atteggiamento verso la scuola, verso gli studi ed il proprio sviluppo personale",
+        "Nessuna delle precedenti",
+        "Il curricolo intangibile è costituito dal carattere degli alunni",
+        "Il curricolo intangibile è strettamente legato al Piano dell’Offerta Formativa"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "Che tipo di variabile è l’utilizzo degli spazi e delle attrezzature?",
+      "options": [
+        "È una variabile organizzativa del curricolo esplicito",
+        "È una variabile organizzativa del curricolo implicito",
+        "Nessuna delle precedenti",
+        "Entrambe le precedenti"
+      ],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "Che tipo di variabile è l’articolazione del tempo scolastico, annuale e settimanale?",
+      "options": [
+        "Entrambe le precedenti",
+        "Nessuna delle precedenti",
+        "È una variabile formativa",
+        "È una variabile organizzativa"
+      ],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "Cosa sono costituenti del curricolo \"implicito\"?",
+      "options": [
+        "Sono costituenti del curricolo \"implicito\" le variabili organizzative",
+        "Nessuna delle precedenti",
+        "Entrambe le precedenti",
+        "Sono costituenti del curricolo \"implicito\" le variabili formative"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "Cosa definisce la singola istituzione scolastica?",
+      "options": [
+        "La singola istituzione scolastica definisce le competenze, le conoscenze, le abilità, le modalità organizzative e gestionali. Inoltre stabilisce i modi e i tempi per la valutazione degli apprendimenti e per la certificazione delle competenze",
+        "Il Ministero della Pubblica Istruzione definisce gli obiettivi generali dei processi formativi",
+        "La singola istituzione scolastica definisce solo i tempi per la valutazione degli apprendimenti e per la certificazione delle competenze",
+        "La singola istituzione scolastica definisce le competenze, le conoscenze, le abilità, le modalità organizzative e gestionali"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "Come può essere il curricolo?",
+      "options": [
+        "Esistono due tipi di curricolo: implicito e esplicito",
+        "Esistono tre tipi di curricolo: Implicito, esplicito e intangibile",
+        "Esistono due tipi di curricolo: esplicito e intangibile",
+        "Esiste solo il curricolo implicito"
+      ],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "Nel progettare una didattica per competenze cosa devono tenere in considerazione gli insegnanti?",
+      "options": [
+        "Nel progettare una didattica per competenze gli insegnanti devono tenere in considerazione l’importanza dell’individuazione chiara delle sole abilità di base",
+        "Nel progettare una didattica per competenze gli insegnanti devono tenere in considerazione solo i prerequisiti di partenza degli studenti",
+        "Nessuna delle precedenti",
+        "Nel progettare una didattica per competenze gli insegnanti devono tenere in considerazione l’importanza dell’individuazione chiara delle conoscenze e abilità fondamentali e del livello di padronanza da raggiungere, oltre all’importanza di effettuare un bilancio delle conoscenze e delle abilità già acquisite ed evidenziate da parte dello studente"
+      ],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "Nel progettare una didattica per competenze cosa devono tenere in considerazione gli insegnanti?",
+      "options": [
+        "Nessuna delle precedenti",
+        "Nel progettare una didattica per competenze gli insegnanti devono tenere in considerazione il fatto che l’ambiente in cui si svolgono i percorsi abbia soprattutto caratteristiche estetiche",
+        "Nel progettare una didattica per competenze gli insegnanti devono tenere in considerazione il fatto che l’ambiente in cui si svolgono i percorsi sia volto solo all’animazione",
+        "Nel progettare una didattica per competenze gli insegnanti devono tenere in considerazione il fatto che l’ambiente nel quale si svolgono i percorsi dovrebbe assumere sempre più le caratteristiche di contesti di lavoro"
+      ],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "Nel progettare una didattica per competenze cosa devono tenere in considerazione gli insegnanti?",
+      "options": [
+        "Nel progettare una didattica per competenze gli insegnanti devono tenere in considerazione soltanto il risultato finale da valutare",
+        "Nel progettare una didattica per competenze gli insegnanti devono tenere in considerazione soltanto le abilità pregresse dello studente",
+        "Nessuna delle precedenti",
+        "Nel progettare una didattica per competenze gli insegnanti devono tenere in considerazione il fatto che una competenza si sviluppa in un contesto nel quale lo studente è inserito e che lo coinvolge nell’affrontare situazioni, nel portare a termine compiti"
+      ],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "Secondo Castoldi dove si acquisiscono le competenze?",
+      "options": [
+        "Le competenze si acquisiscono e si sviluppano in contesti educativi formali e non formali",
+        "Le competenze si acquisiscono e si sviluppano solo in contesti educativi formali",
+        "Le competenze si acquisiscono e si sviluppano in contesti educativi non formali e informali",
+        "Le competenze si acquisiscono e si sviluppano in contesti educativi formali (scuola), non formali (famiglia, luogo di lavoro, media, organizzazioni culturali e associative) e informali (vita sociale nel suo complesso)"
+      ],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "A cosa è finalizzata l’azione formativa?",
+      "options": [
+        "L’azione formativa è finalizzata all’insegnamento di obiettivi e traguardi scolastici",
+        "L’azione formativa è finalizzata all’insegnamento di obiettivi e saperi educativi",
+        "L’azione formativa è finalizzata allo sviluppo del programma",
+        "L’azione formativa è finalizzata al raggiungimento di obiettivi e traguardi formativi"
+      ],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "14. Come si può definire il curricolo?",
+      "options": [
+        "Il curricolo indica i parametri entro cui gli alunni si sviluppano",
+        "Un organigramma di competenze",
+        "Il curricolo indica un percorso da seguire in classe",
+        "Il curricolo indica i paletti che tracciano la strada entro cui i singoli docenti possono esercitare la loro funzione formativa: una sorta di canovaccio che guida l’insegnante nella sua azione educativa-didattica"
+      ],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "Riprendendo i contributi delle Indicazioni, come possiamo definire il lavoro di costruzione del curricolo?",
+      "options": [
+        "Riprendendo i contributi delle Indicazioni possiamo definire il lavoro di costruzione del curricolo come \"il processo attraverso il quale si sviluppano ed organizzano la ricerca-azione\"",
+        "Riprendendo i contributi delle Indicazioni possiamo definire il lavoro di costruzione del curricolo come \"il processo attraverso il quale si sviluppano ed organizzano la ricerca e l’innovazione educativa\"",
+        "Nessuna delle precedenti",
+        "Riprendendo i contributi delle Indicazioni possiamo definire il lavoro di costruzione del curricolo come \"un semplice elenco di attività che l’insegnante propone\""
+      ],
+      "correctAnswer": "2"
     }
   ]
 }
