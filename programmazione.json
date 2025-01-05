@@ -469,6 +469,306 @@
         "Riprendendo i contributi delle Indicazioni possiamo definire il lavoro di costruzione del curricolo come \"un semplice elenco di attività che l’insegnante propone\""
       ],
       "correctAnswer": "2"
+    },
+    {
+      "question": "Quali sono le metodologie adottate nelle UDA?",
+      "options": [
+        "L’UDA è un percorso che ha il fine di rendere gli studenti protagonisti del loro apprendimento, per cui necessita dell’adozione di metodologie didattiche cooperative",
+        "L’UDA è un percorso che ha il fine di rendere gli studenti protagonisti del loro apprendimento, per cui necessita dell’adozione di metodologie didattiche deduttive",
+        "L’UDA è un percorso che ha il fine di rendere gli studenti protagonisti del loro apprendimento, per cui necessita dell’adozione di metodologie didattiche intuitive, laboratoriali e cooperative",
+        "Nessuna delle precedenti"
+      ],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Cosa si può valutare in un'UDA?",
+      "options": [
+        "In ogni unità di apprendimento si possono valutare le conoscenze disciplinari",
+        "In ogni unità di apprendimento si possono valutare le competenze culturali promosse nei compiti di realtà proposti, ossia quelle appartenenti agli assi culturali e contenute negli allegati delle Linee guida",
+        "In ogni unità di apprendimento si possono valutare le competenze",
+        "In ogni unità di apprendimento si possono valutare le abilità e le conoscenze"
+      ],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "Come deve essere presentato l’UDA?",
+      "options": [
+        "L’UDA deve essere presentata agli alunni attraverso delle slide",
+        "L’UDA deve essere presentata agli alunni con un linguaggio semplice e comprensibile",
+        "L’UDA deve essere presentata agli alunni con una presentazione ufficiale",
+        "L’UDA deve essere presentata agli alunni attraverso delle schede"
+      ],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "Ogni fase dell'UdA è affidata ad un insegnamento che deve proporre un'attività didattica che abbia le seguenti caratteristiche",
+      "options": [
+        "Che promuova una delle competenze obiettivo previste, tramite l'acquisizione e l'utilizzo dei saperi necessari; in cui gli alunni siano protagonisti attivi del loro apprendimento",
+        "Che promuova una delle competenze obiettivo previste, tramite l'acquisizione e l'utilizzo dei saperi necessari; in cui gli alunni siano protagonisti attivi del loro apprendimento; che adotti strategie didattiche più coinvolgenti e partecipative (apprendimento cooperativo in piccoli gruppi; brainstorming, discussione; problem solving; role play",
+        "Che promuova una delle competenze obiettivo previste, tramite l'acquisizione e l'utilizzo dei saperi necessari; che adotti strategie didattiche più coinvolgenti e partecipative",
+        "Che promuova una delle competenze obiettivo previste, tramite l'acquisizione e l'utilizzo dei saperi necessari; in cui gli alunni siano protagonisti attivi del loro apprendimento; che adotti strategie didattiche più coinvolgenti e partecipative (apprendimento cooperativo in piccoli gruppi; brainstorming, discussione; problem solving; role play…) , che sia finalizzata alla realizzazione di un prodotto intermedio (da valutare in livelli e in decimi), che sia parte del compito di realtà e che possa valutare le conoscenze, abilità e competenze promosse tramite prove di verifica tradizionali o prove di competenza"
+      ],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "Cosa viene specificato nella parte introduttiva di un’UDA?",
+      "options": [
+        "Nella parte introduttiva di un’UDA vengono esplicitati gli obiettivi di apprendimento",
+        "Nella parte introduttiva di un’UDA vengono esplicitati i risultati attesi",
+        "Nella parte introduttiva di un’UDA vengono esplicitate le informazioni generali quali gli assi/insegnamenti coinvolti, i risultati di apprendimento attesi in termini di competenze, abilità e conoscenze, i prerequisiti indispensabili, il valore formativo del percorso e la durata",
+        "Nella parte introduttiva di un’UDA vengono esplicitate solo le risorse multimediali da utilizzare"
+      ],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Cosa viene articolato nel piano di lavoro dell’UDA?",
+      "options": [
+        "Nel piano di lavoro dell’UDA le fasi sono del tutto estemporanee e prive di una progressione",
+        "Nel piano di lavoro dell’UDA si definiscono soltanto le strategie di valutazione tradizionale",
+        "Nel piano di lavoro dell’UDA il percorso viene articolato in fasi progressive e parallele, specificando per ogni stadio gli obiettivi, le attività, il “prodotto” (compito di realtà) e la griglia di valutazione",
+        "Nessuna delle precedenti"
+      ],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Da cosa è composto, solitamente, un’UDA?",
+      "options": [
+        "Un'UdA, solitamente, è composta da una parte introduttiva una parte finale e di rendicontazione tramite delle griglie per l'osservazione sistematica e rubriche di valutazione delle competenze",
+        "Un'UdA, solitamente, è composta da una parte introduttiva, una parte più dettagliata, detta piano di lavoro, una pianificazione temporale dello svolgimento delle fasi",
+        "Un'UdA, solitamente, è composta da una parte introduttiva, una parte più dettagliata, detta piano di lavoro, una pianificazione temporale dello svolgimento delle fasi, tramite un diagramma di Gantt, delle griglie per l'osservazione sistematica e rubriche di valutazione delle competenze",
+        "Un'UdA, solitamente, è composta da una parte introduttiva, una parte più dettagliata, detta piano di lavoro"
+      ],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Tra gli insegnanti, cosa favorisce l’UDA?",
+      "options": [
+        "Favorisce la collaborazione e la progettazione condivisa tra docenti, permettendo una visione olistica del progetto formativo degli alunni",
+        "Favorisce una maggiore competizione tra docenti, così da stimolare la ricerca di migliori soluzioni didattiche",
+        "Nessuna delle precedenti",
+        "Favorisce la collaborazione soltanto tra docente e Dirigente scolastico"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "Cosa promuove l’UDA?",
+      "options": [
+        "Promuove lo sviluppo di una personalità autoreferenziale, priva di collegamenti esterni",
+        "Promuove lo sviluppo di una rigida dipendenza dall’insegnante",
+        "Promuove lo sviluppo, da parte degli allievi, di un pensiero complesso, abituato a collegamenti interdisciplinari e alla risoluzione di situazioni problematiche",
+        "Promuove lo sviluppo di scarse interazioni tra pari"
+      ],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Cosa permette di fare il compito di realtà?",
+      "options": [
+        "Permette di mobilitare conoscenze e abilità nella risoluzione di una situazione-problema complessa, inedita, aperta a più soluzioni o affrontabile in diversi modi, collegata alla vita reale",
+        "Permette di mobilitare solo le abilità specifiche di una singola disciplina",
+        "Permette di valutare i prerequisiti di base senza nessun riferimento alla realtà",
+        "Nessuna delle precedenti"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "Qual è il prerequisito per lo sviluppo delle competenze in un’UDA?",
+      "options": [
+        "Solo l’acquisizione delle abilità",
+        "L’acquisizione delle conoscenze e delle abilità",
+        "Nessuno dei precedenti",
+        "L’acquisizione di sole competenze comunicative"
+      ],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "L’UDA promuove e valuta competenze; in merito a ciò, qual è la definizione di competenza secondo il Consiglio europeo?",
+      "options": [
+        "La competenza indica la comprovata capacità di usare conoscenze e abilità in modo creativo, ma non fa riferimento alla dimensione personale o sociale",
+        "La competenza indica la comprovata capacità di usare conoscenze, abilità e capacità personali, sociali e/o metodologiche in situazioni di lavoro o di studio e nello sviluppo professionale e personale; le competenze sono descritte in termini di responsabilità e autonomia",
+        "La competenza indica solamente l’acquisizione di conoscenze scolastiche",
+        "Nessuna delle precedenti"
+      ],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "A cosa è finalizzata un’Unità di Apprendimento?",
+      "options": [
+        "All’acquisizione di conoscenze teoriche senza alcuna messa in pratica",
+        "Alla valutazione unicamente di abilità motorie",
+        "Allo sviluppo di competenze di base, senza riferimento ad alcuna situazione-problema",
+        "All’acquisizione/mobilitazione di conoscenze e abilità necessarie a promuovere le competenze culturali e sociali, affrontando e risolvendo una situazione-problema"
+      ],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "Come si può definire un’unità di apprendimento?",
+      "options": [
+        "Un’unità di apprendimento è un semplice percorso educativo senza alcun coinvolgimento degli studenti",
+        "RISPOSTA 4: L’unità di apprendimento è un percorso educativo interdisciplinare che ingaggia lo studente come protagonista del processo di apprendimento ed è articolato intorno a un tema e scandito in fasi di sviluppo temporale",
+        "Un’unità di apprendimento è un percorso formativo ma limitato a una singola disciplina",
+        "L’unità di apprendimento è un percorso formativo interdisciplinare che ingaggia lo studente nel ruolo di protagonista del processo di apprendimento ed è articolato intorno a un tema ed è scandito in fasi di sviluppo temporale"
+      ],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "Che cosa è un’unità di apprendimento?",
+      "options": [
+        "Nessuna delle precedenti",
+        "È un percorso formativo",
+        "È un percorso educativo",
+        "È un percorso formativo interdisciplinare"
+      ],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "Quale legge è detta legge quadro?",
+      "options": [
+        "La legge 104/1999",
+        "La legge 517/1977",
+        "Nessuna delle precedenti",
+        "La legge 107/1977"
+      ],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Quando è entrata in vigore la legge 104?",
+      "options": [
+        "Nessuna delle precedenti",
+        "La legge 104 entrò in vigore il 18 Febbraio del 1999",
+        "La legge 104 entrò in vigore nell’agosto del 1995",
+        "La legge 104 entrò in vigore il 18 Febbraio 1992"
+      ],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "Dove viene inserita l’analisi dello sviluppo potenziale dell’alunno a breve e medio termine?",
+      "options": [
+        "Viene inserita nel profilo dinamico-funzionale",
+        "Viene inserita nel PEI",
+        "Viene inserita nel PTOF",
+        "Viene inserita nella diagnosi funzionale"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "Dove viene inserita la descrizione funzionale dell’alunno in relazione alle difficoltà che l’alunno dimostra di incontrare in settori di attività?",
+      "options": [
+        "Viene inserita nel PEI",
+        "Viene inserita nella diagnosi funzionale",
+        "Viene inserita nel PTOF",
+        "Viene inserita nel PDP"
+      ],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "Cosa deve comprendere necessariamente il profilo dinamico funzionale?",
+      "options": [
+        "Il profilo dinamico funzionale comprende necessariamente la descrizione funzionale dell’alunno in relazione alle difficoltà che l’alunno dimostra di incontrare in settori di attività e l’analisi dello sviluppo potenziale dell’alunno a breve e medio termine",
+        "Il profilo dinamico funzionale comprende necessariamente la descrizione funzionale dell’alunno",
+        "Il profilo dinamico funzionale comprende necessariamente la descrizione funzionale dell’alunno in relazione alle difficoltà che l’alunno dimostra",
+        "Il profilo dinamico funzionale comprende necessariamente l’analisi dello sviluppo potenziale dell’alunno a breve e medio termine"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "La Diagnosi Funzionale è finalizzata al recupero della persona con disabilità. Di quali aspetti deve tenere particolarmente conto?",
+      "options": [
+        "Deve tenere particolarmente conto delle potenzialità registrabili in ordine ai seguenti aspetti: Cognitivo/Affettivo; Sensoriale",
+        "Deve tenere particolarmente conto delle potenzialità registrabili in ordine ai seguenti aspetti: Cognitivo/Affettivo; Sensoriale; Motorio-Prassico,Neuropsicologico Autonomia personale e sociale",
+        "Deve tenere particolarmente conto delle potenzialità registrabili in ordine ai seguenti aspetti: cognitivo e affettivo.",
+        "Deve tenere particolarmente conto delle potenzialità registrabili in ordine ai seguenti aspetti: Cognitivo/Affettivo; Motorio."
+      ],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "La Diagnosi Funzionale a cosa è finalizzata?",
+      "options": [
+        "Nessuna delle precedenti",
+        "La Diagnosi Funzionale è finalizzata ad una buona programmazione",
+        "E' l'interprete amministrativo",
+        "La Diagnosi Funzionale è finalizzata al recupero della persona con disabilità"
+      ],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "Qual è la legge che introduce la figura dell’insegnante specializzato per le attività di sostegno?",
+      "options": [
+        "La legge 517/1977",
+        "La legge 104/1999",
+        "La legge 104/1992",
+        "Nessuna delle precedenti"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "Quale legge segna un punto di svolta fondamentale nel percorso verso una scuola inclusiva e ancora oggi rappresenta l’assetto normativo che fa fulcro a tutte le altre normative, circolari ministeriali, i decreti legge venuti a seguito?",
+      "options": [
+        "La legge 107/1999",
+        "La legge 275/1999",
+        "La legge 104/1992",
+        "La legge 517/1977"
+      ],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Quale è la legge che avvia un nuovo modello pedagogico-didattico centrato sulla programmazione scolastica e sulla valutazione?",
+      "options": [
+        "La Legge 275/1999",
+        "Nessuna delle precedenti",
+        "La legge 107/2015",
+        "La legge 517/1977"
+      ],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "Qual è la legge che abolisce le classi differenziali per l’integrazione di tutti gli alunni nelle classi comuni?",
+      "options": [
+        "La legge 517/1977",
+        "Nessuna delle precedenti",
+        "La legge 104/1977",
+        "La legge 104/1999"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "Quale è la prima legge che cita l’educazione nella scuola ordinaria degli alunni con disabilità con riferimento agli invalidi civili?",
+      "options": [
+        "Legge 107/1991 è la prima normativa che cita l’educazione nella scuola ordinaria degli alunni con disabilità con riferimento agli invalidi civili",
+        "Entrambe le precedenti",
+        "Nessuna delle precedenti",
+        "Legge 118/1971 è la prima normativa che cita l’educazione nella scuola ordinaria degli alunni con disabilità con riferimento agli invalidi civili"
+      ],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "A cosa ci si riferisce con il termine inclusione?",
+      "options": [
+        "Con il termine “inclusione”, ci si riferisce invece a una strategia finalizzata alla partecipazione e al coinvolgimento di tutti gli studenti, con l’obiettivo di valorizzare al meglio il potenziale di apprendimento dell’intero gruppo classe",
+        "Nessuna delle precedenti",
+        "Con il termine “inclusione”, ci si riferisce invece a una strategia finalizzata alla partecipazione e al coinvolgimento di tutti gli studenti, con l’obiettivo di valorizzare al meglio il potenziale di apprendimento dell’intero gruppo classe",
+        "Con il termine “inclusione”, ci si riferisce invece a una strategia finalizzata alla partecipazione e al coinvolgimento di tutti gli studenti"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "Quando nasce il concetto di inclusione scolastica?",
+      "options": [
+        "Il concetto di inclusione scolastica entra nel dibattito pedagogico italiano alla metà degli anni 2000",
+        "Il concetto di inclusione scolastica entra nel dibattito pedagogico italiano negli anni ’90",
+        "Il concetto di inclusione scolastica entra nel dibattito pedagogico italiano negli anni ’80",
+        "Il concetto di inclusione scolastica entra nel dibattito pedagogico italiano negli anni 2000"
+      ],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "Cosa accade con l’approvazione della legge 517/1977?",
+      "options": [
+        "Nessuna delle precedenti",
+        "Vengono istituite le classi speciali",
+        "Viene definito il Pieno Educativo Individualizzato",
+        "Nasce per la prima volta una prospettiva inclusiva dell’integrazione scolastica ravvisabile nella consapevolezza di dover trasformare i contesti e nel riferimento alle difficoltà educative in senso ampio"
+      ],
+      "correctAnswer": "4"
     }
   ]
 }
