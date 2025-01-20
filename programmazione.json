@@ -769,6 +769,156 @@
         "Nasce per la prima volta una prospettiva inclusiva dell’integrazione scolastica ravvisabile nella consapevolezza di dover trasformare i contesti e nel riferimento alle difficoltà educative in senso ampio"
       ],
       "correctAnswer": "4"
+    },
+    {
+      "question": "Quali sono le grandi categorie dei BES?",
+      "options": [
+        "Sono la disabilità, lo svantaggio socio-economico, linguistico, culturale e i disturbi evolutivi specifici",
+        "Sono la disabilità e lo svantaggio economico",
+        "Sono i disturbi evolutivi specifici",
+        "Sono disabilità, linguistico, culturale e i disturbi evolutivi specifici"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "Nel caso di DSA che cosa si predispone?",
+      "options": [
+        "Si predispone un piano educativo personalizzato",
+        "Si predispone il PEI",
+        "Si predispone un progetto di vita",
+        "Si predispone il PDP"
+      ],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "Cosa significa PDP?",
+      "options": [
+        "Progetto didattico personalizzato",
+        "Piano di personalizzazione",
+        "Progetto del plesso",
+        "Piano didattico personalizzato"
+      ],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "Che differenza c’è tra il PEI e il PDP?",
+      "options": [
+        "Nel PDP gli obiettivi formativi sono individualizzati, mentre nel PEI dono comuni al resto della classe",
+        "Non ci sono differenze",
+        "Nel PEI gli obiettivi formativi sono individualizzati, mentre nel PDP dono comuni al resto della classe",
+        "Nel PEI e Nel PDP cambiano le strategie educative"
+      ],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Cosa significa PEI?",
+      "options": [
+        "Piano di indirizzo",
+        "Piano educativo individualizzato",
+        "Progetto educativo individualizzato",
+        "Progetto e indirizzo"
+      ],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "Cosa significa BES?",
+      "options": [
+        "Nessuna delle precedenti",
+        "Bisogni educativi specifici",
+        "Bisogna e specificità",
+        "Bisogni educativi speciali"
+      ],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "Quale legge prevede l’articolazione modulare del monte ore annuale di ciascuna disciplina e attività?",
+      "options": [
+        "La legge 275/99",
+        "La legge 107/99",
+        "La legge 190 del 2001",
+        "La legge 170/99"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "In che consiste l’attività individualizzata?",
+      "options": [
+        "La didattica individualizzata consiste nelle attività di sostegno per raggiungere gli obiettivi educativi speciali",
+        "La didattica individualizzata consiste nelle attività di recupero individuale che può svolgere l’alunno per potenziare determinate abilità o per acquisire specifiche competenze",
+        "La didattica individualizzata consiste nelle attività di sostegno",
+        "Nessuna delle precedenti"
+      ],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "Quale legge prevede l’aggregazione delle discipline in aree e ambiti disciplinari?",
+      "options": [
+        "La legge 104/92",
+        "Nessuna delle precedenti",
+        "La legge 275/99",
+        "La legge 170/99"
+      ],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Quale legge prevede l’attivazione di percorsi didattici individualizzati, nel rispetto del principio generale dell’integrazione degli alunni nella classe e nel gruppo?",
+      "options": [
+        "La legge 275/99",
+        "La legge 104/92",
+        "La legge 170/99",
+        "Nessuna delle precedenti"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "Quale legge afferma: “L’Autonomia delle istituzioni scolastiche è garanzia di libertà di insegnamento e di pluralismo culturale e si sostanzia nella progettazione e nella realizzazione di interventi di educazione, formazione e istruzione mirati allo sviluppo della persona umana…”?",
+      "options": [
+        "La legge dell’autonomia",
+        "Nessuna delle precedenti",
+        "La legge 275/99",
+        "Entrambe le precedenti"
+      ],
+      "correctAnswer": "4"
+    },
+    {
+      "question": "Quale legge è anche detta legge dell’autonomia?",
+      "options": [
+        "La legge 275/1999",
+        "La legge 170/1999",
+        "Nessuna delle precedenti",
+        "La legge 107/2015"
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "Qual è la norma più importante del sistema scolastico?",
+      "options": [
+        "La legge 104 del 1999 si può considerare la struttura portante di tutto il sistema scolastico, al suo interno vengono normati la maggior parte degli aspetti che riguardano la vita scolastica…",
+        "DPR 107/2015 si può considerare la struttura portante di tutto il sistema scolastico, al suo interno vengono normati la maggior parte degli aspetti che riguardano la vita scolastica…",
+        "Il DPR 275/99 si può considerare la struttura portante di tutto il sistema scolastico, al suo interno vengono normati la maggior parte degli aspetti che riguardano la vita scolastica…",
+        "Il DPR 170/99 si può considerare la struttura portante di tutto il sistema scolastico, al suo interno vengono normati la maggior parte degli aspetti che riguardano la vita scolastica…"
+      ],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "Quali sono i riferimenti normativi della didattica inclusiva?",
+      "options": [
+        "La didattica inclusiva trova i suoi riferimenti normativi nel DPR 275/99",
+        "La didattica inclusiva trova i suoi riferimenti normativi nel DPR 275/99 nel DPR 170/10 , nelle Linee Guida D.M 1207/11 e Direttiva Ministeriale 27/12/12",
+        "La didattica inclusiva trova i suoi riferimenti normativi nel DPR 170/10 , nelle Linee Guida D.M 1207/11 e Direttiva Ministeriale 27/12/12",
+        "La didattica inclusiva trova i suoi riferimenti normativi nelle Linee Guida D.M 1207/11 e Direttiva Ministeriale 27/12/12"
+      ],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "Nel caso di ADHD che cosa si predispone?",
+      "options": [
+        "Si predispone un piano educativo personalizzato",
+        "Si predispone il PDF",
+        "Si predispone il PEI",
+        "Si predispone un progetto di vita"
+      ],
+      "correctAnswer": "2"
     }
   ]
 }
