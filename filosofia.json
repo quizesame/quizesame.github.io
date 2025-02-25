@@ -1,1 +1,3084 @@
-
+{
+    "questions": [
+        {
+            "question": "01. Il termine psicologia cosa significa?",
+            "options": [
+                "Scienza del pensiero",
+                "nessuna delle altre risposte risposte è corretta",
+                "Scienza dell'interno",
+                "Scienza che si occupa della mente"
+            ],
+            "correctAnswer": "4"
+        },
+        {
+            "question": "01. Quale autore ha proposto il modello della grammatica generativa?",
+            "options": [
+                "Hull",
+                "Chomsky",
+                "Nessuno degli autori proposti",
+                "Lorenz"
+            ],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "01. Quale di queste affermazioni è vera se si parla di apprendimento cooperativo:",
+            "options": [
+                "Tutte e tre le risposte sono corrette",
+                "enfatizza la responsabilità dello studente nel processo di apprendimento",
+                "valorizza le abilità di ciascuno",
+                "permette all’insegnante di assumere il ruolo di promotore dello sviluppo cognitivo e sociale degli alunni"
+            ],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "01. Una tecnica di apprendimento cooperativo è la Learning Circles. Da quante fasi è costituita?",
+            "options": [
+                "2",
+                "4",
+                "5",
+                "3"
+            ],
+            "correctAnswer": "4"
+        },
+        {
+            "question": "01. Quale modalità di discussione è molto utile sia per l'insegnante, sia per gli studenti, perché consente a entrambi di apprezzare il funzionamento della classe?",
+            "options": [
+                "Discussioni iniziali per analizzare un problema e formulare ipotesi",
+                "Discussioni per portare alla luce le strategie di lavoro messe in atto nel percorso e per valutarle a livello metacognitivo",
+                "Tutte e tre le risposte sono corrette",
+                "Discussioni alla fine di un processo d'indagine per condividere le scoperte realizzate da sottogruppi di ricerca o per sistematizzare le conoscenze"
+            ],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "01. L’aspetto che differenzia la comunicazione dall’interazione è:",
+            "options": [
+                "nella comunicazione la consapevolezza è minima mentre nell'inrerazione è massima",
+                "nessuna delle altre risposte risposte è corretta",
+                "la consapevolezza di base dello scambio che avviene",
+                "l'incosapevolezza dello scambio che avviene"
+            ],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "01. Quale autore ha proposto (parlando di comunicazione) il principio di cooperazione?",
+            "options": [
+                "Austin",
+                "Grice",
+                "Nessuno degli autori nominati",
+                "Peirce"
+            ],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "01. Se si rappresenta a livello grafico l'apprendimento, la linea ascendente a cosa fa riferimento?",
+            "options": [
+                "Ad una rappresentazione della diversificazione dei saperi",
+                "Ad un concetto di interazione tra gli elementi",
+                "Ad un'allusione ad un processo continuo e in divenire",
+                "A una concezione di crescita e progresso"
+            ],
+            "correctAnswer": "4"
+        },
+        {
+            "question": "02. Quale di queste visioni dell'apprendimento è definita come profonda?",
+            "options": [
+                "Evoluzione, trasformazione del soggetto nella sua globalità",
+                "Applicazione di procedure",
+                "Memorizzazione delle informazioni e capacità di ricordo e ripetizione delle stesse",
+                "Memorizzazione delle informazioni e capacità di ricordo e ripetizione delle stesse"
+            ],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "01. Parlando di modelli di apprendimento da quale visione sostiene il modello dell'associazione?",
+            "options": [
+                "nessuna delle altre risposte risposte è corretta",
+                "Gestaltista",
+                "Comportamentista",
+                "Psicodinamica"
+            ],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "01. La Gestalt considera l’apprendimento come:",
+            "options": [
+                "una catena di processi e avvenimenti indispensabili e, ovviamente, collegati e conseguenti perché si verifichi l’ apprendimento.",
+                "una spirale di eventi: un continuo confronto della novità con la realtà che sospinge la struttura cognitiva a una sempre maggiore definizione.",
+                "un punto, cioè l’istante in cui si comprende la totalità (cerchio)",
+                "come una linea ascendente"
+            ],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "01. Quali autori proposero la Teoria della Profondità della Codifica?",
+            "options": [
+                "Nessuno degli autori nominati",
+                "Atkinson e Shiffrin",
+                "Baddeley e Hitch",
+                "Craick e Lockhart"
+            ],
+            "correctAnswer": "4"
+        },
+        {
+            "question": "01. Nella memoria autobiografica cosa comprende il processo Memory-Memory?",
+            "options": [
+                "nessuna delle altre risposte risposte è corretta",
+                "Comprende i ricordi inconsapevoli.",
+                "Comprende i ricordi consapevoli",
+                "Comprende i ricordi consapevoli e inconsapevoli"
+            ],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "01. Secondo quale teoria sull’oblio la traccia mnestica va cancellandosi o deteriorandosi nel tempo?",
+            "options": [
+                "Teoria dell’interferenza",
+                "Teoria del decadimento",
+                "Teoria del disuso",
+                "nessuna delle altre risposte risposte è corretta"
+            ],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "01. Un eccessivo coinvolgimento emotivo comporta?",
+            "options": [
+                "Il mantenimento dell'informazione",
+                "La perdita dell'informazione",
+                "Ritenzione dell'informazione se si ha un adeguato tempo di elaborazione",
+                "nessuna delle altre risposte risposte è corretta"
+            ],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "01. Per quale autore l’immagine mentale si configurerebbe come simulazione e simbolizzazione?",
+            "options": [
+                "Sadosky",
+                "Nessuno degli autori nominati",
+                "Kosslyn",
+                "Gambrell"
+            ],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "01. A quale autore si deve il concetto di transazione (il processo di vera e propria condivisione del significato tra l'individuo e il suo interlocutore)?",
+            "options": [
+                "Eco",
+                "Nessuno degli autori nominati",
+                "Grice",
+                "Bruner"
+            ],
+            "correctAnswer": "4"
+        },
+        {
+            "question": "01. Chi individua tre fasi di 'intersoggettività?",
+            "options": [
+                "Glen",
+                "Braten",
+                "Nessuno degli autori nominati",
+                "Stein"
+            ],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "01. Varie ricerche attestano che l'emergere del pensiero creativo è favorito da:",
+            "options": [
+                "libertà di esplorazione e di iniziativa personale",
+                "rapporti non autoritari",
+                "Tutte e tre le risposte sono corrette",
+                "accettazione"
+            ],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "01. Nella metodologia sei cappelli per pensare, il rosso fa riferimento a:",
+            "options": [
+                "reazioni emotive suscitate dai problemi e dalle soluzioni proposte",
+                "Nessuna delle risposte è corretta",
+                "aspetti negativi delle idee, con applicazione di una logica ferrea e spietata, radicalizzando i difetti, i limiti e i rischi",
+                "la produzione creativa di idee, la visione da una nuova angolatura, l’abbandono delle vecchie idee a vantaggio delle nuove"
+            ],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "01. Chi ha realizzato la cosiddetta piramide della motivazione?",
+            "options": [
+                "Bandura",
+                "Rotter",
+                "Nessuno degli autori nominati",
+                "Maslow"
+            ],
+            "correctAnswer": "4"
+        },
+        {
+            "question": "01. quale autore parla di metafora dell’autogoverno cognitivo?",
+            "options": [
+                "Beaudot",
+                "Nessuno degli autori nominati",
+                "Sternberg",
+                "Williams"
+            ],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "01. Con la riforma Gentile:",
+            "options": [
+                "il sistema scolastico conserva la concezione aristocratica ed elitaria della cultura e dell'educazione",
+                "il sistema scolastico conserva la concezione autonoma della cultura e dell'educazione",
+                "il sistema scolastico abbandona la concezione aristocratica ed elitaria della cultura e dell'educazione",
+                "il sistema scolastico conserva la concezione democratica ed elitaria della cultura e dell'educazione"
+            ],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "01. Il paradigma originario, che stava alla base di tutte le norme riguardanti l’Autonomia",
+            "options": [
+                "era quello di liberare e utilizzare produttivamente le energie e le risorse della società civile puntando sul principio di sussidiarietà orizzontale, che consente alle istituzioni scolastiche di assumere autonomamente decisioni e esercitare attività di interesse generale, mentre agli organi di governo spettano i poteri di direzione assoluta.",
+                "era quello di liberare e utilizzare produttivamente le energie e le risorse della società civile puntando sul principio di  sussidiarietà orizzontale, che consente alle istituzioni scolastiche di assumere autonomamente decisioni e esercitare attività di interesse generale, mentre agli organi di governo spettano i poteri di coordinamento e di controllo.",
+                "era quello di liberare e utilizzare produttivamente le energie e le risorse della società civile puntando sul principio di sussidiarietà verticale, che consente alle istituzioni scolastiche di assumere autonomamente decisioni e esercitare attività di interesse generale, mentre agli organi di governo spettano i poteri di coordinamento e di controllo.",
+                "era quello di comprimere e non utilizzare produttivamente le energie e le risorse della società civile puntando sul principio di sussidiarietà orizzontale, che consente alle istituzioni scolastiche di assumere autonomamente decisioni e esercitare attività di interesse generale, mentre agli organi di governo spettano i poteri di coordinamento e di controllo."
+            ],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "01. Le risorse assegnate dallo Stato e costituenti la dotazione finanziaria di istituto sono utilizzate",
+            "options": [
+                "senza altro vincolo di destinazione che quello prioritario per lo svolgimento delle attività di istruzione, di formazione e di orientamento proprie dell' istituzione interessata",
+                "senza altro vincolo di destinazione che quello prioritario per lo svolgimento della sola attività di orientamento propria dell' istituzione interessata",
+                "senza altro vincolo di destinazione che quello prioritario per lo svolgimento della sola attività di istruzione ma non di formazione",
+                "senza altro vincolo di destinazione che quello secondario per lo svolgimento delle attività di istruzione, di formazione e di orientamento proprie dell' istituzione interessata"
+            ],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "01. Il Regolamento amministrativo-contabile approvato con Decreto 28 agosto 2018, n. 129",
+            "options": [
+                "conferma le disposizioni precedentemente contenute nel D.I. 1° febbraio 2001, n. 44.",
+                "modifica le disposizioni precedentemente contenute nella Legge 107 del 2015",
+                "non modifica disposizioni precedenti",
+                "modifica le disposizioni precedentemente contenute nel D.I. 1° febbraio 2001, n. 44."
+            ],
+            "correctAnswer": "4"
+        },
+        {
+            "question": "01. L'Autonomia didattica",
+            "options": [
+                "si sostanzia nella scelta libera e programmata di metodologie, strumenti, organizzazione e tempi di insegnamento, da adottare nel rispetto della possibile pluralità di opzioni metodologiche, e in ogni iniziativa che sia espressione di libertà progettuale, con l'esclusione di insegnamenti opzionali, facoltativi o aggiuntivi e nel rispetto delle esigenze formative degli studenti.",
+                "si sostanzia nella scelta libera e programmata di metodologie, strumenti, organizzazione e tempi di insegnamento, da adottare nel rispetto della possibile pluralità di opzioni metodologiche, senza iniziative che siano espressione di libertà progettuale, compresa l'eventuale offerta di insegnamenti opzionali, facoltativi o aggiuntivi e nel rispetto delle esigenze formative degli studenti.",
+                "si sostanzia nella scelta indicata dal Ministero di metodologie, strumenti, organizzazione e tempi di insegnamento, da adottare nel rispetto della possibile pluralità di opzioni metodologiche, e in ogni iniziativa che sia espressione di libertà progettuale, compresa l'eventuale offerta di insegnamenti opzionali, facoltativi o aggiuntivi e nel rispetto delle esigenze formative degli studenti.",
+                "si sostanzia nella scelta libera e programmata di metodologie, strumenti, organizzazione e tempi di insegnamento, da  adottare nel rispetto della possibile pluralità di opzioni metodologiche, e in ogni iniziativa che sia espressione di libertà  progettuale, compresa l'eventuale offerta di insegnamenti opzionali, facoltativi o aggiuntivi e nel rispetto delle esigenze formative degli studenti."
+            ],
+            "correctAnswer": "4"
+        },
+        {
+            "question": "01. Nell'ambito della autonomia negoziale, le istituzioni scolastiche possono stipulare convenzioni e contratti, con esclusione di quelli",
+            "options": [
+                "a carattere bancario",
+                "a carattere gratuito",
+                "a carattere aleatorio",
+                "a carattere personale"
+            ],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "01. L'autonomia organizzativa",
+            "options": [
+                "si esplica liberamente, anche mediante superamento dei vincoli in materia di unità oraria della lezione, dell'unitarietà del gruppo classe e delle modalità di organizzazione e impiego dei docenti, secondo finalità di ottimizzazione delle risorse umane,  finanziarie, tecnologiche, materiali e temporali, fermi restando i giorni di attività didattica annuale previsti a livello nazionale,  la distribuzione dell' attività didattica in non meno di cinque giorni settimanali, il rispetto dei complessivi obblighi annuali di servizio dei docenti previsti dai contratti collettivi che possono essere assolti invece che in cinque giorni settimanali anche sulla base di un'apposita programmazione plurisettimanale.",
+                "si esplica liberamente, anche mediante superamento dei vincoli in materia di unità oraria della lezione, dell'unitarietà del gruppo classe e delle modalità di organizzazione e impiego dei docenti, secondo finalità di ottimizzazione delle risorse umane, finanziarie, tecnologiche, materiali e temporali, fermi restando i giorni di attività didattica annuale previsti a livello nazionale, la distribuzione dell' attività didattica in non meno di tre giorni settimanali, il rispetto dei complessivi obblighi annuali di servizio dei docenti previsti dai contratti collettivi che possono essere assolti invece che in cinque giorni settimanali anche sulla base di un'apposita programmazione plurisettimanale.",
+                "si esplica liberamente, senza mai superare i vincoli in materia di unità oraria della lezione, dell'unitarietà del gruppo classe e delle modalità di organizzazione e impiego dei docenti, secondo finalità di ottimizzazione delle risorse umane, finanziarie, tecnologiche, materiali e temporali, fermi restando i giorni di attività didattica annuale previsti a livello nazionale, la distribuzione dell' attività didattica in non meno di cinque giorni settimanali, il rispetto dei complessivi obblighi annuali di servizio dei docenti previsti dai contratti collettivi che possono essere assolti invece che in cinque giorni settimanali anche sulla base di un'apposita programmazione plurisettimanale.",
+                "si esplica in base alle prescrizioni del Ministero dell'Istruzione, anche mediante superamento dei vincoli in materia di unità oraria della lezione, dell'unitarietà del gruppo classe e delle modalità di organizzazione e impiego dei docenti, secondo finalità di ottimizzazione delle risorse umane, finanziarie, tecnologiche, materiali e temporali, fermi restando i giorni di attività didattica annuale previsti a livello nazionale, la distribuzione dell' attività didattica in non meno di cinque giorni settimanali, il rispetto dei complessivi obblighi annuali di servizio dei docenti previsti dai contratti collettivi che possono essere assolti invece che in cinque giorni settimanali anche sulla base di un'apposita programmazione plurisettimanale."
+            ],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "01. Il Debate",
+            "options": [
+                "Il debate funziona con un meccanismo in cui a due squadre viene proposto un tema controverso da discutere",
+                "Il debate funziona con un meccanismo in cui a cinque squadre viene proposto un tema controverso da discutere",
+                "Il debate funziona con un meccanismo in cui a due squadre viene proposto un tema controverso da scrivere sui social",
+                "Il debate funziona con un meccanismo in cui a due squadre viene proposto un tema controverso da scrivere"
+            ],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "01. Il Piano triennale dell'offerta formativa è",
+            "options": [
+                "un dibattito pubblico attraverso il quale ogni singola istituzione scolastica rappresenta la propria identità culturale e progettuale delineando gli itinerari curricolari, extracurricolari ed educativi conformi all'indirizzo degli studi e alle esigenze del contesto culturale, sociale ed economico della realtà locale in cui opera la scuola.",
+                "il documento attraverso il quale ogni singola istituzione scolastica rappresenta la propria identità culturale e progettuale delineando gli itinerari curricolari, extracurricolari ed educativi che non tengano conto delle esigenze del contesto culturale, sociale ed economico della realtà locale in cui opera la scuola.",
+                "il documento attraverso il quale ogni singola istituzione scolastica, senza rappresentare la propria identità culturale e progettuale, delinea gli itinerari curricolari, extracurricolari ed educativi conformi all'indirizzo degli studi e alle esigenze del contesto culturale, sociale ed economico della realtà locale in cui opera la scuola.",
+                "il documento attraverso il quale ogni singola istituzione scolastica rappresenta la propria identità culturale e progettuale  delineando gli itinerari curricolari, extracurricolari ed educativi conformi all'indirizzo degli studi e alle esigenze del contesto  culturale, sociale ed economico della realtà locale in cui opera la scuola."
+            ],
+            "correctAnswer": "4"
+        },
+        {
+            "question": "01. Il sistema educativo di istruzione e di formazione italiano è organizzato in base ai principi",
+            "options": [
+                "della semplicità e dell'autonomia delle istituzioni scolastiche.",
+                "della sussidiarietà e dell'autarchia delle istituzioni scolastiche.",
+                "della sussidiarietà e dell'autonomia delle istituzioni scolastiche.",
+                "della obbligatorietà e dell'autonomia delle istituzioni scolastiche."
+            ],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "01. I percorsi liceali",
+            "options": [
+                "hanno durata quinquennale. Si sviluppano in due periodi biennali e in un quinto anno che completa il percorso disciplinare.",
+                "hanno durata triennale e un quarto anno che completa il percorso disciplinare.",
+                "hanno durata quadriennale. Si sviluppano in due periodi biennali",
+                "hanno durata biennalee un terzo anno che completa il percorso disciplinare."
+            ],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "01. Gli I.T.S. costituiscono il segmento di formazione terziaria non universitaria",
+            "options": [
+                "che risponde alla domanda delle imprese di nuove ed elevate competenze umanistiche per promuovere i processi di innovazione.",
+                "che risponde alla domanda delle imprese di nuove ed elevate competenze tecniche e tecnologiche per promuovere i processi di innovazione.",
+                "che risponde alla domanda dell0 Stato di nuove ed elevate competenze tecniche e tecnologiche per promuovere i processi di innovazione.",
+                "che risponde alla domanda delle imprese di nuove ed elevate competenze politiche per promuovere i processi di innovazione."
+            ],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "01. Nella Legge 107 (La Buona Scuola):",
+            "options": [
+                "La piena realizzazione del curricolo della scuola e il raggiungimento degli obiettivi, la valorizzazione delle potenzialità e degli stili di apprendimento nonché della comunità professionale scolastica con lo sviluppo del metodo cooperativo, nel rispetto della libertà di insegnamento, la collaborazione e la progettazione, l’interazione con le famiglie e il territorio sono perseguiti mediante le leggi regionali sull'istruzione.",
+                "La piena realizzazione del curricolo della scuola e il raggiungimento degli obiettivi, la valorizzazione delle potenzialità e degli stili di apprendimento nonché della comunità professionale scolastica con lo sviluppo del metodo cooperativo, nel rispetto  della libertà di insegnamento, la collaborazione e la progettazione, l’interazione con le famiglie e il territorio sono perseguiti  mediante le forme di flessibilità dell’autonomia didattica e organizzativa previste dal regolamento di cui al decreto del Presidente della Repubblica 8 marzo 1999, n. 275 (il Regolamento che disciplina l’autonomia scolastica)",
+                "La piena realizzazione del curricolo della scuola e il raggiungimento degli obiettivi, la valorizzazione delle potenzialità e degli stili di apprendimento nonché della comunità professionale scolastica con lo sviluppo del metodo cooperativo, nel rispetto della libertà di insegnamento, la collaborazione e la progettazione, l’interazione con le famiglie e il territorio sono perseguiti mediante le prescrizioni ministeriali",
+                "La piena realizzazione del programma comunitario e il raggiungimento degli obiettivi, la valorizzazione delle potenzialità e degli stili di apprendimento nonché della comunità professionale scolastica con lo sviluppo del metodo cooperativo, nel rispetto della libertà di insegnamento, la collaborazione e la progettazione, l’interazione con le famiglie e il territorio sono perseguiti mediante le forme di flessibilità dell’autonomia didattica e organizzativa previste dal regolamento di cui al decreto del Presidente della Repubblica 8 marzo 1999, n. 275 (il Regolamento che disciplina l’autonomia scolastica)"
+            ],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "01. La definizione più accreditata di società della conoscenza",
+            "options": [
+                "è quella che fa riferimento a una società basata sull'uso diffusivo della tecnologia, in particolare della tecnologia dell'informazione e della comunicazione, e che si sviluppa lungo quel percorso che sta portando le nostre società verso un'organizzazione economica e sociale basata sulla conoscenza.",
+                "è quella che fa riferimento a una società basata sull'uso diffusivo della tecnologia, in particolare della tecnologia dell'informazione e della comunicazione, e che si sviluppa lungo quel percorso che sta portando le nostre società verso un'organizzazione economica e sociale basata sulle politiche sociali e di inclusione",
+                "è quella che non fa riferimento a una società basata sull'uso diffusivo della tecnologia, in particolare della tecnologia dell'informazione e della comunicazione, e che si sviluppa lungo quel percorso che sta portando le nostre società verso un'organizzazione economica e sociale basata sulla conoscenza.",
+                "è quella che fa riferimento a una società basata sull'uso diffusivo delle biblioteche e che si sviluppa lungo quel percorso che sta portando le nostre società verso un'organizzazione economica e sociale basata sulla conoscenza."
+            ],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "01. l’organico dell’autonomia è",
+            "options": [
+                "funzionale alle esigenze didattiche, organizzative e progettuali delle Regioni come emergenti dal piano triennale dell’offerta formativa",
+                "funzionale alle esigenze didattiche, organizzative e progettuali delle istituzioni scolastiche come emergenti dal piano triennale dell’offerta formativa",
+                "funzionale alle esigenze esclusivamente finanziarie delle istituzioni scolastiche come emergenti dal piano triennale dell’ offerta formativa",
+                "funzionale alle esigenze didattiche, organizzative e progettuali delle istituzioni scolastiche come emergenti dalle circolari ministeriali"
+            ],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "01. Le istituzioni scolastiche predispongono il piano triennale dell’offerta formativa.",
+            "options": [
+                "entro il mese di novembre dell’anno scolastico precedente al triennio di riferimento",
+                "entro il mese di ottobre dell’anno scolastico precedente al triennio di riferimento",
+                "entro il mese di settembre dell’anno scolastico precedente al triennio di riferimento",
+                "entro il mese di dicembre dell’anno scolastico precedente al triennio di riferimento"
+            ],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "01. Il PTOF:",
+            "options": [
+                "è elaborato dal Dirigente Scolastico",
+                "è elaborato dal collegio dei docenti sulla base degli indirizzi per le attività della scuola e delle scelte di gestione e di amministrazione definiti dal dirigente scolastico",
+                "è elaborato dal Consiglio di Classe sulla base degli indirizzi per le attività della scuola e delle scelte di gestione e di amministrazione definiti dal dirigente scolastico",
+                "è elaborato dalla Regione sulla base degli indirizzi per le attività della scuola e delle scelte di gestione e di amministrazione definiti dal dirigente scolastico"
+            ],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "01. Il Piano Triennale dell’Offerta Formativa",
+            "options": [
+                "Il Piano Triennale dell’Offerta Formativa ha un’importanza fondamentale e strategica per l’istituzione scolastica e ne delinea i rapporti con l Ministero dell'Istruzione",
+                "che non puo' essere inferiore a 33 ore annue",
+                "Il Piano Triennale dell’Offerta Formativa ha un’importanza fondamentale e strategica per l’istituzione scolastica e ne delinea i rapporti con la Regione",
+                "ha un’importanza fondamentale e strategica per l’istituzione scolastica e ne delinea l’azione, le caratteristiche, le finalità e gli  obiettivi formativi."
+            ],
+            "correctAnswer": "4"
+        },
+        {
+            "question": "01. l’introduzione dell'insegnamento scolastico dell'educazione civica è avvenuta",
+            "options": [
+                "con la LEGGE 20 agosto 2017, n. 92",
+                "con la LEGGE 20 agosto 2016, n. 92",
+                "con la LEGGE 20 agosto 2001, n. 92",
+                "con la LEGGE 20 agosto 2019, n. 92"
+            ],
+            "correctAnswer": "4"
+        },
+        {
+            "question": "01. Il Decreto Inclusione - (D.Lgs. n. 96 del 7 agosto 2019) rispetto alla precedente normativa prevede:",
+            "options": [
+                "Modifica delle modalità di assegnazione delle ore di sostegno; Revisione della composizione delle commissioni mediche che si occupano di accertare la disabilità; Istituzione dei Gruppi di Inclusione Territoriale (GIT) e dei Gruppi di lavoro operativo per l’inclusione",
+                "Nuove precisazioni e indicazioni sul Piano Educativo Individualizzato (PEI); Modifica delle modalità di assegnazione delle ore di sostegno; Revisione della composizione delle commissioni mediche che si occupano di accertare la disabilità; Istituzione dei Gruppi di Inclusione Territoriale (GIT) e dei Gruppi di lavoro operativo per l’inclusione",
+                "Nuove precisazioni e indicazioni sul Piano Educativo Individualizzato (PEI); Modifica delle modalità di assegnazione delle ore di sostegno; Revisione della composizione delle commissioni mediche che si occupano di accertare la disabilità;",
+                "Nuove precisazioni e indicazioni sul Piano Educativo Individualizzato (PEI); Modifica delle modalità di assegnazione delle ore di sostegno; Istituzione dei Gruppi di Inclusione Territoriale (GIT) e dei Gruppi di lavoro operativo per l’inclusione"
+            ],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "01. Il Decreto del Ministro dell'istruzione, di concerto con il Ministro dell'economia e delle finanze, 29 dicembre 2020, n. 182 istituisce:",
+            "options": [
+                "Il Gruppo di Lavoro Esterno - GLE",
+                "I l Gruppo di Lavoro Operativo - GLO",
+                "Il Gruppo di Lavoro Indipendente - GLI",
+                "Il Gruppo di Lavoro Unico - GLU"
+            ],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "01. L’alternanza oggi deve essere innanzitutto orientante, e deve comportare l’esigenza di una rimodulazione della didattica:",
+            "options": [
+                "secondo una progettazione per competenze, e richiede una ricerca metodologica centrata su compiti in classe scritti, che mobilitino saperi, esperienze e risorse.",
+                "secondo una progettazione ministeriale, e richiede una ricerca metodologica centrata su compiti di realtà, che mobilitino saperi, esperienze e risorse.",
+                "secondo una progettazione per competenze, e richiede una ricerca metodologica centrata su compiti di realtà, che mobilitino saperi, esperienze e risorse.",
+                "secondo una progettazione personale e unica, e richiede una ricerca metodologica centrata su compiti di realtà, che mobilitino saperi, esperienze e risorse."
+            ],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "02. I PCTO saranno attuati per una durata complessiva:",
+            "options": [
+                "non inferiore a 210 ore nel triennio terminale del percorso di studi degli istituti professionali; non inferiore a 70 ore nel secondo biennio e nell’ultimo anno del percorso di studi degli istituti tecnici; non inferiore a 90 ore nel secondo biennio e nel quinto anno dei licei.",
+                "non inferiore a 300 ore nel triennio terminale del percorso di studi degli istituti professionali; non inferiore a 150 ore nel secondo biennio e nell’ultimo anno del percorso di studi degli istituti tecnici; non inferiore a 90 ore nel secondo biennio e nel quinto anno dei licei.",
+                "non inferiore a 210 ore nel triennio terminale del percorso di studi degli istituti professionali; non inferiore a 150 ore nel secondo biennio e nell’ultimo anno del percorso di studi degli istituti tecnici; non inferiore a 50 ore nel secondo biennio e nel quinto anno dei licei.",
+                "non inferiore a 210 ore nel triennio terminale del percorso di studi degli istituti professionali; non inferiore a 150 ore nel secondo biennio e nell’ultimo anno del percorso di studi degli istituti tecnici; non inferiore a 90 ore nel secondo biennio e nel quinto anno dei licei."
+            ],
+            "correctAnswer": "4"
+        },
+        {
+            "question": "01. AGLI INIZI DELLA PEDAGOGIA SPECIALE IN ITALIA CHI TRA QUESTI AUTORI RITENNE IMPORTANTE TENERE CONTO NELL'ORGANIZZZIONE DEGLI ASILI/SCUOLA DELL'ACCOGLIENZA, DELL'ADATTAMENTO, DEGLI SPAZI, DEGLI AMBIENTI",
+            "options": [
+                "SANTE DE SANCTIS",
+                "MARIA MONTESSORI",
+                "GIUSEPPE MONTESANO",
+                "OVIDE DECROLY"
+            ],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "01. OGNI SOGGETTO E' UN CASO A SE', NON BISOGNA FERMARSI ALL'ETICHETTA MA IMPARARE AD ASCOLTARE ED OSSERVARE LA PERSONA. QUESTO E' NIL CONTRIBUTO DATO ALLA PEDAGOGIA SPECIALE DA:",
+            "options": [
+                "HENRI WALLON",
+                "OVIDE DECROLY",
+                "MARIA MONTESSORI",
+                "HANS ASPERGER"
+            ],
+            "correctAnswer": "4"
+        },
+        {
+            "question": "01. QUALE AUTORE E' STATO DEFINITO LO PSICOLOGOA DELLE EMOZIONI",
+            "options": [
+                "SANTE DE SANCTIS",
+                "JEAN PIAGET",
+                "HANS ASPERGER",
+                "HENRI WALLON"
+            ],
+            "correctAnswer": "4"
+        },
+        {
+            "question": "01. PERCHE' IL METODO DI WALLON E' CONSIDERATO COMPARATIVO E MULTIDIMENSIONALE",
+            "options": [
+                "PERCHE' E' DIACRONICO",
+                "PERCHE' METTE A CONFRONTO I MOLTEPLICI TIPI DI SVILUPPO ANALIZZANDONE LE DIVERSE DIMENSIONI TRA IL BAMBINO CON SVILUPPO ANOMALO E IL BAMBINO NORMALE",
+                "PERCHE' E' SINCRONICO",
+                "NESSUNA DELLE RISPOSTE E' CORRETTA"
+            ],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "01. IN QUALE CONTESTO IL SOGGETTO DISABILE ATTIVA Più FEREQUENTEMENTE CAPACITà INTUITIVE, DI APPRENDIMENTO PRATICO E DI ADATTAMENTO",
+            "options": [
+                "CONTESTO FAMILIARE",
+                "CONTESTO SCOLASTICO",
+                "CONTESTO SOCIALE",
+                "CONTESTO LAVORATIVO"
+            ],
+            "correctAnswer": "4"
+        },
+        {
+            "question": "01. IN COSA CONSISTE LA ZONA DI SVILUPPO PROSSIMALE",
+            "options": [
+                "IL LIVELLO DI SVILUPPO EFFETTIVO",
+                "IL LIVELLO DI SVILUPPO DELLE FUNZIONI PSICO-INTELLETTIVE",
+                "IL LIVELLO DI SVILUPPO DELLE FUNZIONI SENSO-MOTORIE",
+                "IL LIVELLO DI SVILUPPO RAGGIUNTO CON IL SOSTEGNO E L'ACCOMPAGNAMENTO DELL'ADULTO"
+            ],
+            "correctAnswer": "4"
+        },
+        {
+            "question": "01. QUALE TRA QUESTI AUTORI DA IMPORTANZA ALLA FUNZIONE TERAPEUTICA DELLA PAROLA E DEL LINGUAGGIO",
+            "options": [
+                "FRANCOIS DOLTO",
+                "MAUD MANNONI",
+                "SIMONE-KORFF SAUSSE",
+                "TOSQUELLES"
+            ],
+            "correctAnswer": "4"
+        },
+        {
+            "question": "01. OGNI DEFICIT CAMBIA IL RAPPORTO CON LA REALTA' AMBIENTALE E INFLUENZA I RAPPORTI INTERPERSONALI E' QUINDI IMPRTANETE TENERE CONTO",
+            "options": [
+                "E' IMPORTANTE PORRE LA DIMENSIONE PSICOPEDAGOGICA DEL DEFICIT IN TERMINI MEDICI",
+                "E' IMPORTANTE INSATURARE UN APPROCCIO EDUCATIVO MECCANICO E RIPETITIVO PER STIMOALRE LE FUNZIONI SUPERIORI DELL'ATTENZIONE E DEL PENSIERO",
+                "E' QUINDI UTILE LEGARE IL DEFICIT ALLA MALATTIA PERPOTRELO GESTIRE AL MEGLIO",
+                "CHE LA PRESENZA DI UN DEFICIT PROVOCA UN PROFONDO TURBAMENTO DI TUTTO IL SISTEMA DEI RAPPORTI SOCIALI A COMINCIARE DALLA FAMIGLIA"
+            ],
+            "correctAnswer": "4"
+        },
+        {
+            "question": "01. NEL NESSO TRA SIMILTUDINE E DIFFERENZA , QUALE PRINCIPIO PEDAGOGICO VUOLE FORNIRCI ROSSEAU",
+            "options": [
+                "LA CONCEZIONE POLICENTRICA DEL MODO DI CONCEPIRE LE RELAZIONI TRA POPOLI E CULTURE",
+                "RISPETTO DEI TEMPI DI SVILUPPO DEL BAMBINO",
+                "OCCORRE PARTIRE DALLE SIMILITUDINI PER RICONOSCERE LE DIVERSITA'",
+                "IL RISPETTO DELLA NATURA DI OGNI ESSERE UMANO"
+            ],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "01. MURRAY IDENTIFICA TRE BISOGNI FONDAMENTALI",
+            "options": [
+                "I BISOGNI DI SVILUPPO COGNITIVO, RELAZIONALE E AFFETTIVO",
+                "I BISOGNI DI AMICIZIA, AMORE E CONVIVIALITà",
+                "I BISOGNI FISIOLOGICI PRIMARI, DI RICONOSCIMENTO E DI PROTEZIONE",
+                "IL BISOGNO DI REALIZZAZIONE, DI AFFILIAZIONE E DI ESPLORAZIONE"
+            ],
+            "correctAnswer": "4"
+        },
+        {
+            "question": "01. IN RIFERIMENTO AI BISOGNI EDUCATIVI QUALE E' IL PENSIERO DI JHON DEWEY",
+            "options": [
+                "ALLA BASE DEL PERCORSO DI APPRENDIMENTO Viè UN BISOGNO AFFETTUIVO",
+                "IL BISOGNO DI APPRENDIMENTO DEVE ESSERE SODDISFATTO COSTRUENDO UN PERCORSO A MISURA DI OGNUNO",
+                "L'ESPERIENZA EDUCATIVA CORRISPONDE AL BISOGNO DI LIBERTA'",
+                "L'ESPERIENZA EDUCATIVA E' UN BISOGNO SOCIAALE FONDAMENTALE ED E' ESSENZIALE PER LA MATURAZIONE"
+            ],
+            "correctAnswer": "4"
+        },
+        {
+            "question": "01. IL METODO DI LAVORO PEDAGOGIA CONDUTTIVA COSA INDICA",
+            "options": [
+                "I GENITORI IN QUALITà DI ESPERTI DEI PROPRI FIGLI CONDUCONO GLI EDUCATORI NEL LAVORO PEDAGOGICO",
+                "L'EDUCATORE E' UN CONDUTTORE E LA SCELTA DEL PERCORSO DI APPRENDIMENTO AVVIENE IN GRUPPO",
+                "E' LA PEDAGOGIA DELLE EVOCAZIONI MENTALI",
+                "EDUCATORE E ALUNNO CONDIVIDONO LA CONDUZIONE DEL LAVORO DI APPRENDIMENTO"
+            ],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "01. QUANDO SI PARLA DI ALLIEVI CHE SI ESERCITANO ALLA CRITICA DELLE PROPRIE IDEE NEL CONFRONTO CON GLI ALTRI CI RIFERIAMO",
+            "options": [
+                "PEDAGOGIA DELLA CONCORRENZA",
+                "GRUPPI DI CONTROLLO PEDAGOGICO",
+                "GRUPPI DI DIAGNOSI PEDAGOGICA",
+                "GRUPPI DI ESRCITAZIONE PEDAGOGICA"
+            ],
+            "correctAnswer": "4"
+        },
+        {
+            "question": "01. A COSA SI RIFERISCE DELIGNY CON IL TERMINE PEDAGOGIA LIBERTARIA",
+            "options": [
+                "UTILIZZARE IL DISEGNO IL GIOCO E IL TEATRO CHE NON RICHIEDONO NECESSARIAMENTE LA PAROLA PARLATA PER POTER LIBERARE L'INCONSCIO",
+                "APPRENDIMENTO ATTRAVERSO IL CONTATTO CON LANATURA",
+                "APPRENDIMENTO SPONTANEO",
+                "FAR LIBERARE I SENSI"
+            ],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "01. CHE COSA SIGNIFICA RELAZIONE DI AIUTO",
+            "options": [
+                "nessuna delle altre risposte",
+                "ASSISTENZA",
+                "PEDAGOGIA DEL GESTO INTRROTTO CHE LASCI SPAZIO ALLA PERSONA DI DECIDERE",
+                "SCAMBIO INTENSO E CONTINUATIVO"
+            ],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "01. I PROCESSI IMITATIVI CHE POSSONO ESSERE INCENTIVATI DA STIMOLI AMBIENTALI E LA CAPACITA' DI INFERIRE SIGNIFICATI AI GESTI E MOVIMENTI ALTRUI SONO FAVORITI DA UNA SPECIFICA AREA DEL CERVELLO",
+            "options": [
+                "CERVELLETTO",
+                "GANGLI DELLA BASE",
+                "AREA FRONTALE",
+                "NEURONI SPECCHIO"
+            ],
+            "correctAnswer": "4"
+        },
+        {
+            "question": "01. GLI STUDI SULL'ANTROPOLOGIA DEL GESTO POSSONO RISULTARE UTILI",
+            "options": [
+                "PER COMPRENDERE I GESTI STEREOTIPATI DEI BAMBINI AUTISTICI PERCHE' LE STEREOTIPIE POSSONO ESSERE INTERPRETATE COME UNA LINGUA",
+                "PER PARAGONARE I RITUALI COMPARTAMENTALI",
+                "PER EFFETTUARE UNA COMPARAZIONE SINCRONICA",
+                "PERCHE' PERMETTE DI STUDIARE AL COMPLESSITA' DEI GESTI"
+            ],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "01. E' IMPORTANTE CHE LA PEDAGOGIA SPECIALE SI INETTROGHI SULLA DIMENSIONE ETICA DEL PROPRIO OPERATO",
+            "options": [
+                "nessuna delle altre risposte",
+                "PERCHE' TUTTI A PRESCINDERE DALLA PROPRIA CONDIZIONE DEBILITANTE HANNO DIRITTO DI ESSERE RICONOSCIUTI NELLA LORO PIENA DIGNITA'",
+                "QUINDI SECONDO UN PENSIERO BIOETICO SAREBBE MEGLIO PROVOCARE LA MORTE A UN BAMBINO CHE SAREBBE INFELICE E CHE RENDEREBBE INFELICE CHI LO CIRCONDA",
+                "IN BASE A QUESTA PROSPETTIVA IL FATTORE DNA POTREBBE ESSERE DECISIVO E UTILE A SELEZIONARE SE UN INDIVIDUO DEVE VIVERE O MORIRE"
+            ],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "01. L'UOMO E' UN ORGANISMO BIO-PSICO-SOCIALE QUINDI ESISTE UN'INTEGRAZIONE CHE LEGA CERVELLO MENTE E CULTURA",
+            "options": [
+                "QUINDI PER COSTRUIRE UN PERCORSO DI APPRENDIMENTO E' NECESSARIO PARTIRE DALLA RELAZIONE TRA UNITA' E COMPLESSITA', UGUAGLIANZA E DIFFERENZA",
+                "TUTTE LE RISPOSTE SONO CORRETTE",
+                "LA PERSONA DISABILE NON E' DIVERSA DA QUALSIASI ALTRO ESSERE UMANO IN QUANTO ANCHE ESSO E' SOGGETTO DI BISOGNI, DI DESIDERI, DI DIRITTI E DI CULTURA",
+                "E' NECESSARIO A TAL FINE NON IDENTIFICARE I DISABILI CON L'UNICA DIMENSIONE NEUROBIOLOGICA DEL LORO DEFICIT"
+            ],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "01. La figura dell’animatore digitale è stata prevista",
+            "options": [
+                "tutte False",
+                "dal CCNL comparto scuola 15-16",
+                "dal D.M. 850/2015",
+                "dal PNSD"
+            ],
+            "correctAnswer": "4"
+        },
+        {
+            "question": "01. comunicazione sincrona",
+            "options": [
+                "il mittente ed il destinatario non sono attivi nello stesso momento",
+                "il mittente ed il destinatario sono attivi nello stesso momento",
+                "il mittente ed il destinatario non sono attivi nello stesso momento e nello stesso luogo",
+                "tutte vere"
+            ],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "02. la combinazione Ctrl+Alt+Canc",
+            "options": [
+                "non è utile in nessun caso",
+                "può essere utile nel lavoro al pc",
+                "tutte false",
+                "non è possibile realizzarla"
+            ],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "01. Attraverso l'uso di Microsoft Word è possibile creare",
+            "options": [
+                "solamente documenti di testo .txt",
+                "documenti in diverso formato",
+                "solamente documenti .docx",
+                "tutte false"
+            ],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "02. All'interno di Microsoft Word l'opzione COPIA FORMATO",
+            "options": [
+                "in alcuni casi è presente",
+                "non è presente",
+                "tutte fale",
+                "è presente"
+            ],
+            "correctAnswer": "4"
+        },
+        {
+            "question": "03. All'interno di Microsoft Word è possibile inserire tabelle?",
+            "options": [
+                "no",
+                "si",
+                "solo in alcuni casi",
+                "tutte false"
+            ],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "01. con la formattazione condizionale in Microsofr Excel",
+            "options": [
+                "è possibile assegnare un valore ad una cella in base al suo valore",
+                "tutte false",
+                "è possibile assegnare un formato ad una cella in base al suo valore",
+                "è possibile assegnare automaticamente un formato ad una cella in base al suo valore"
+            ],
+            "correctAnswer": "4"
+        },
+        {
+            "question": "01. Dall’ambiente di condivisione Google Drive",
+            "options": [
+                "è possibile creare fogli google",
+                "è possibile creare documenti google",
+                "tutte vere",
+                "è possibile creare presentazioni google"
+            ],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "02. Il MODEM",
+            "options": [
+                "converte segnali analogici in segnali digitali",
+                "converte segnali digitali in segnali analogici",
+                "converte segnali analogici in segnali digitali e viceversa",
+                "tutte false"
+            ],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "01. Nella condivisione di documenti google essere Editor significa",
+            "options": [
+                "non esiste la possibilità di essere Editor",
+                "non avere accesso al documento",
+                "poter leggere e non modificare il documento",
+                "poter leggere e modificare il documento"
+            ],
+            "correctAnswer": "4"
+        },
+        {
+            "question": "02. Attraverso la posta elettronica",
+            "options": [
+                "tutte vere",
+                "in alcuni casi è possibile creare una rubrica di indirizzi",
+                "è possibile creare una rubrica di indirizzi",
+                "non è possibile creare una rubrica di indirizzi"
+            ],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "03. La Posta Elettronica Certificata (PEC)",
+            "options": [
+                "non ha lo stesso valore legale della raccomandata con ricevuta di ritorno",
+                "in casi particolari ha lo stesso valore legale della raccomandata con ricevuta di ritorno",
+                "ha lo stesso valore legale della raccomandata con ricevuta di ritorno",
+                "tutte false"
+            ],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "01. Usando Google Fogli",
+            "options": [
+                "è possibile creare e condividere grafici",
+                "non è possibile condividere i fogli creati",
+                "tutte false",
+                "non è possibile creare grafici"
+            ],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "02. All'interno di Google fogli",
+            "options": [
+                "non è possibile condividere i documenti creati",
+                "in alcuni casi non è possibile condividere i documenti creati",
+                "è possibile condividere i documenti creati",
+                "tutte vere"
+            ],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "01. Nelle Presentazioni Google",
+            "options": [
+                "in alcuni casi particolari l'editor può modificare il documento",
+                "l'editor può modificare il documento",
+                "l'editor non può modificare il documento",
+                "tutte false"
+            ],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "01. All'interno di Google Meet",
+            "options": [
+                "tutte false",
+                "per accedere ad una conversazione in alcuni casi è necessario usare il link",
+                "per accedere ad una conversazione è necessario usare il link",
+                "per accedere ad una conversazione non è necessario usare il link"
+            ],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "01. Algobuild",
+            "options": [
+                "consente di costruire ed eseguire algoritmi con l’uso di flow chart",
+                "consente solamente di costruire algoritmi",
+                "consente solamente di eseguire algoritmi",
+                "tutte false"
+            ],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "02. Algobuild",
+            "options": [
+                "è utile solamente per costruire algoritmi",
+                "è utile solamente per eseguire algoritmi",
+                "è utile per costruire ed eseguire algoritmi",
+                "tutte vere"
+            ],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "01. OBS",
+            "options": [
+                "è un programma utile nella creazione di video",
+                "non può essere usato per creare video",
+                "tutte false",
+                "nessuna delle altre risposte"
+            ],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "01. Attraverso Moduli Google è possibile:",
+            "options": [
+                "costruire sondaggi e quiz",
+                "tutte false",
+                "costruire solamente sondaggi",
+                "costruire solamente quiz"
+            ],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "02. Percorso per creare un modulo google",
+            "options": [
+                "tutte false",
+                "drive.google.com-nuovo-fogli google",
+                "gmail.com-nuovo-altro-moduli google",
+                "drive.google.com-nuovo-altro-moduli google"
+            ],
+            "correctAnswer": "4"
+        },
+        {
+            "question": "01. Scratch",
+            "options": [
+                "è un programma che non consente di operare senza inserire codice",
+                "è utile per creare tabelle",
+                "è un programma che consente di operare senza inserire codice",
+                "tutte vere"
+            ],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "01. Il sito per simulare le prove INVALSI si trova all'indirizzo",
+            "options": [
+                "tutte vere",
+                "www.proveinvalsi.net",
+                "www.proveinvalsi@istruzione.it",
+                "www.proveinvalsi.com"
+            ],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "01. Per la DeAgostinii il sito contenente materiali e strumenti per gli insegnanti è:",
+            "options": [
+                "https://deascuola.com/",
+                "https://deagostiniscuola.edu/",
+                "tutte vere",
+                "https://deascuola.it/"
+            ],
+            "correctAnswer": "4"
+        },
+        {
+            "question": "01. Si distinguono test di",
+            "options": [
+                "Profitto",
+                "Livello",
+                "Conoscenza generale",
+                "Tutte e tre le risposte"
+            ],
+            "correctAnswer": "4"
+        },
+        {
+            "question": "02. Il formato delle prove riguarda",
+            "options": [
+                "tutte e tre le risposte",
+                "la produzione",
+                "il riconoscimento",
+                "l'interazione"
+            ],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "03. Le prove basate sulla norma prevedono",
+            "options": [
+                "L'applicazione delle norme linguistiche",
+                "la registrazione della violazione delle norme",
+                "la visione di insieme della classe",
+                "nessuna delle risposte"
+            ],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "01. Il passaporto linguistico europeo si basa",
+            "options": [
+                "sulle modalità di apprendimento",
+                "sulla certificazione",
+                "tutte e tre le risposte",
+                "sull'autovalutazione"
+            ],
+            "correctAnswer": "4"
+        },
+        {
+            "question": "02. Il dossier rappresenta",
+            "options": [
+                "nessuna delle risposte",
+                "l'archivio delle certificazioni linguistiche e degli attestati",
+                "l'archivio delle esperienze",
+                "una modalità di apprendimento"
+            ],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "01. Il livello B1 è definito",
+            "options": [
+                "Soglia",
+                "Padronanza",
+                "Progresso",
+                "Contatto"
+            ],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "02. Il livello B2 è definito",
+            "options": [
+                "Soglia",
+                "Progresso",
+                "Efficacia",
+                "Padronanza"
+            ],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "03. Il livello C1 è definito",
+            "options": [
+                "Soglia",
+                "Efficacia",
+                "Padronanza",
+                "Progresso"
+            ],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "04. Il livello C2 è definito",
+            "options": [
+                "Contatto",
+                "Progresso",
+                "Padronanza",
+                "Soglia"
+            ],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "05. Il livello A1 è",
+            "options": [
+                "nessuna delle risposte",
+                "non autonomo",
+                "parzialmente autonomo",
+                "autonomo"
+            ],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "06. Il livello A1 comprende",
+            "options": [
+                "nomi professionali",
+                "nomi familiari",
+                "l'ipotassi",
+                "la paratassi"
+            ],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "07. Il livello A2 possiede",
+            "options": [
+                "Un vocabolario funzionale",
+                "nessuna delle risposte",
+                "un vocabolario limitato",
+                "Un vocabolario ampio"
+            ],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "01. Quali sono i criteri per definire un errore?",
+            "options": [
+                "Appropriatezza",
+                "Tutte e tre le risposte",
+                "Correttezza",
+                "Soggettività"
+            ],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "02. Se un errore si generalizza e cristallizza nel tempo diviene",
+            "options": [
+                "errore stilistico",
+                "nessuna delle risposte",
+                "Norma",
+                "errore statistico"
+            ],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "01. ['falo] al posto di ['fal:o] in italiano è un errore",
+            "options": [
+                "Stilistico",
+                "Sintattico",
+                "Morfologico",
+                "Fonologico"
+            ],
+            "correctAnswer": "4"
+        },
+        {
+            "question": "02. \"Oggi pioggia\" al posto di \"oggi piove\" è un errore",
+            "options": [
+                "Stilistico",
+                "Morfologico",
+                "Sintattico",
+                "Fonologico"
+            ],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "03. \"Scendo il cane\" al posto di \"porto fuori il cane\" è un errore",
+            "options": [
+                "Stilistico",
+                "Morfologico",
+                "Sintattico",
+                "Fonologico"
+            ],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "01. Cos'è il bit?",
+            "options": [
+                "E' un multiplo di 1 KB",
+                "E' una sequenza di 8 byte",
+                "Rappresenta l'unità di misura della quantità d'informazione",
+                "E' una sequenza di 8 bit"
+            ],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "02. La GUI:",
+            "options": [
+                "è il componente software che permette l'avvio del computer",
+                "è l'acronimo di Gun Unit Independent",
+                "è l'interfaccia grafica di un software",
+                "è un'interfaccia hardware"
+            ],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "01. Per incollare un file è possibile utilizzare la combinazione di tasti:",
+            "options": [
+                "Ctrl - I",
+                "Ctrl - X",
+                "Ctrl - C",
+                "Ctrl - V"
+            ],
+            "correctAnswer": "4"
+        },
+        {
+            "question": "01. In MS Word la \"stampa unione\" è:",
+            "options": [
+                "Un procedimento con il quale, a partire da un documento e da una sorgente di dati, si ottengono una serie di stampe che hanno tutti struttura diversa, ma ognuno di essi ha dati uguali",
+                "La modalità per stampare con un unico comando tutti i documenti word aperti in quel momento",
+                "La modalità di stampa di un documento che include tutte le pagine del documento stesso",
+                "Un procedimento con il quale, a partire da un documento e da una sorgente di dati, si ottengono una serie di documenti che hanno tutti la stessa struttura, ma ognuno di essi ha dati diversi"
+            ],
+            "correctAnswer": "4"
+        },
+        {
+            "question": "01. In MS Excel, una cella viene identificata da:",
+            "options": [
+                "Un numero per la riga e una lettera per la colonna",
+                "Una lettera per la riga e un numero per la colonna",
+                "Una lettera per la riga e un progressivo per la colonna",
+                "Un numero per la riga e un numero per la colonna"
+            ],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "02. La procedura per rinominare un foglio Excel è:",
+            "options": [
+                "1 clic destro sul nome del foglio quindi rinomina (e inserire nuovo nome)",
+                "Modifica – Rinomina foglio di lavoro (e inserire nuovo nome)",
+                "File – Salva con nome (e inserire nuovo nome)",
+                "1 clic sinistro sul nome del foglio quindi rinomina (e inserire nuovo nome)"
+            ],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "01. E' possibile, in PowerPoint, spostare in secondo piano un oggetto rispetto ad un altro?",
+            "options": [
+                "Nessuna tra quelle proposte",
+                "No, una volta inseriti gli oggetti non si può modificare l'ordine di visualizzazione",
+                "Sì, è sufficiente cliccare col tasto destro del mouse sull'oggetto da spostare in primo piano e scegliere Porta in secondo piano",
+                "Sì, cancellando i due oggetti che si sovrappongono, quindi inserire prima quello in secondo piano, poi quello che si desidera in primo piano"
+            ],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "02. Come si possono stampare esclusivamente le diapositive 1,5,7,8,9,10 in una presentazione PowerPoint costituita da 15 diapositive?",
+            "options": [
+                "Scegliendo File-stampa-Diapositive e indicando gli intervalli 1-5-7;8;9;10",
+                "Scegliendo file- stampa- Diapositive e indicando gli intervalli 1;5;7-10",
+                "Inviando 5 volte la stampa",
+                "Scegliendo File-Stampa-Selezione 1-5-6-7;10"
+            ],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "01. Cosa si intende per URL?",
+            "options": [
+                "Il percorso che identifica univocamente una risorsa in una rete LAN",
+                "Il path che identifica univocamente un file sul computer locale",
+                "La barra degli indirizzi in Internet Explorer",
+                "La modalità di indirizzamento alle risorse presenti su Internet"
+            ],
+            "correctAnswer": "4"
+        },
+        {
+            "question": "02. Con il termine HTTP si indica:",
+            "options": [
+                "Il protocollo per il trasferimento di archivi e file",
+                "Il protocollo per la trasmissione dati in una rete LAN",
+                "Il protocollo per la trasmissione di documenti su Internet",
+                "Il linguaggio di formattazione del testo per il web"
+            ],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "01. La condivisione dell'informazione in Internet può avvenire:",
+            "options": [
+                "Attraverso un'unica forma: orizzontale (da molti verso molti)",
+                "Attraverso due forme: verticale (da uno verso molti) e orizzontale (da molti verso molti)",
+                "Attraverso due forme: orizzontale (da molti verso molti) e preferenziale (da uno verso alcuni predefiiti)",
+                "Attraverso un'unica forma: verticale (da uno verso molti)"
+            ],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "01. Nell'evoluzione dei computer la generazione zero corrisponde alla generazione:",
+            "options": [
+                "dei computer a valvole",
+                "dei cosiddetti ubiquitous computer",
+                "dei computer meccanici",
+                "dei computer a transistor"
+            ],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "02. Nella programmazione, fornire un esempio pratico di macchina virtuale:",
+            "options": [
+                "Google Andorid",
+                "Apple iPhone",
+                "la Java virtual machine",
+                "Internet Explorer 11"
+            ],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "01. Il primo elaboratore digitale della storia è stato:",
+            "options": [
+                "la macchina colossus di Alan Turing",
+                "la 6600 di Seymour Cray",
+                "la differential engine di Charles Babbage",
+                "il 7094 della IBM"
+            ],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "01. Quale fu il primo computer ad avere una interfaccia grafica GUI simile ai sistemi operativi moderni?",
+            "options": [
+                "Il PDP-1 della DEC",
+                "Il pc IBM",
+                "Il Macintosh di Apple",
+                "il 7094 della IBM"
+            ],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "01. Quali tra questi non rappresenta un nucleo tematico per la ricerca delle discipline informatiche?",
+            "options": [
+                "Le modalità di produzione, identificazione, manipolazione, gestione, distribuzione reperimento e conservazione nel tempo di tali informazioni",
+                "Criteri di usabilità e accessibilità di prodotti multimediali e dei siti web",
+                "Metodologie di rappresentazione e codifica dell?informazione pertinente",
+                "Associazione all?informazione di base delle opportune metainformazioni strutturali e descrittive"
+            ],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "01. Cosa si intende con il termine Social Network?",
+            "options": [
+                "Il titolo di un famoso film americano",
+                "Un sistema piramidale per guadagnare denaro",
+                "Servizio informatico on line che permette la realizzazione di reti sociali virtuali",
+                "Un insieme di computer impiegati a risolvere problematiche sociali"
+            ],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "02. Cosa sono i siti di dating online?",
+            "options": [
+                "Siti internet dove poter inserire i propri appuntamenti/le proprie scadenze",
+                "Siti internet dove poter consultare archivi digitali",
+                "Siti internet dove poter organizzare appuntamenti e incontri",
+                "Siti internet per lo svolgimento di esami online"
+            ],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "01. La LIM per il suo funzionamento, necessita:",
+            "options": [
+                "Nessun software perché è solo uno schermo",
+                "Di un software operativo Microsoft",
+                "Di un software di gestione specifico della lavagna",
+                "Di un software specifico per la gestone video"
+            ],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "01. Quale delle seguenti affermazioni su un ipertesto è vera:",
+            "options": [
+                "La caratteristica principale di un ipertesto è che la lettura si può svolgere unicamente in maniera lineare",
+                "L'ipertesto è un tipo di strutturazione delle informazioni necessariamente lineare",
+                "L'ipertesto è un tipo di strutturazione delle informazioni in forma non necessariamente unilineare",
+                "L'ipertesto è un documento digitale contenente oltre al testo, immagini, video e suoni"
+            ],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "01. Il collegamento \"Is a\":",
+            "options": [
+                "Costruisce la realtà",
+                "Costituisce lo stato futuro",
+                "Costruisce gerarchie ereditarie",
+                "È uno stato"
+            ],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "01. Quali sono gli elementi da progettare che compongono un database con Access?",
+            "options": [
+                "Tabelle, sottotabelle, collegamenti, report",
+                "Tabelle, relazioni, query, report",
+                "Fogli, grafici, stampa",
+                "Tabelle, relazioni, query, maschere, report"
+            ],
+            "correctAnswer": "4"
+        },
+        {
+            "question": "01. Cosa rappresenta l?OPAC?",
+            "options": [
+                "L?organizzazione per l?automazione dei pubblici cataloghi",
+                "Il catalogo informatizzato delle biblioteche",
+                "L?organizzazione e progettazione archivi privati",
+                "Accesso pubblico dell?amministrazione cataloghi"
+            ],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "01. quali sono i requisiti di alfebetizzazione deglki anni 2000",
+            "options": [
+                "conoscere e parlare almeno una lingua straniera, saper utilizzare internet",
+                "integrare l'informatica e l'nglese con le materie di studio.",
+                "conoscere e utilizzare l'informatica e la telematica, saper leggere e capire discretamente l'inglese",
+                "conoscere la lettertura, la storia, e l'inglese"
+            ],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "02. perchè i nuovi media attraggono un numero enorme di persone",
+            "options": [
+                "non è vero, leggere i libri è più divertente e si apprende di più",
+                "perché di norma leggere i libri è più faticoso",
+                "perché i media coinvolgono zone sensoriali maggiori rispetto al solo leggere, perché si instaura una complicità con i media coinvolgente",
+                "perché con i media conoscre costa meno"
+            ],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "01. Nelle applicazioni multimodali, cosa significa progettare una interfaccia utente",
+            "options": [
+                "progettare hardware facilitatore",
+                "ottenere un’interazione vicina a quella uomo - uomo e di aumentare la robustezza dell’interazione",
+                "insegnare l'utente ad usare le applicazioni",
+                "progettare applicazioni multimodali"
+            ],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "01. cosa si intende per XML (Extensible Markup Language)",
+            "options": [
+                "L’XML è un linguaggio che consente la rappresentazione di documenti e dati strutturati su supporto digitale",
+                "è un protocollo di comunicazione esteso",
+                "è la veste grafica delle comunicazioni",
+                "definisce una grammatica per la descrizione e la formattazione di pagine web"
+            ],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "01. su cosa basa l'insegnamento la tipologia Profund learning",
+            "options": [
+                "su un livello di interazione maggiore fra docente e discente",
+                "sulla unidirezionalità delle informazioni: docente - discente",
+                "insegnare approfondendo gli argomenti attraverso una scala dal generale al particolare",
+                "sulla collaborazione e sulla conseguente creazione di conoscenze."
+            ],
+            "correctAnswer": "4"
+        },
+        {
+            "question": "01. cosa si intende per tecnologia per la didattica",
+            "options": [
+                "la didattica attraverso il computer",
+                "si riferisce all’analisi e all’utilizzo più appropriato degli strumenti tecnologici per favorire l’apprendimento dei discenti.",
+                "progettazione e alla valutazione sistemica di modelli di apprendimento che scaturiscono dalle teorie psicologiche, evolutive e comportamentali",
+                "l'uso delle tecnoplogie per la didattica a distanza"
+            ],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "01. qual è la diferenza tra motore di ricerca e directory?",
+            "options": [
+                "i motori di ricerca consentono di effettuare ricerche solo per parola chiave, le directory consentono di effettuare ricerche  anche scegliendo la categoria del sito che si sta cercando fra tutte le categorie disponibili",
+                "il motore di ricerca consente di cercare altri siti conteneti i parametri di ricerca, le directory sono cartelle di lavoro",
+                "non c'è differenza perechè le directory fanno parte dei motori di ricerca",
+                "i motori di ricerca consentono di effettuare ricerche scegliendo la categoria del sito che si sta cercando fra tutte le categorie disponibili , le directory consentono di effettuare ricerche anche per parola chiave"
+            ],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "01. la struttura di un ipertesto è composta da:",
+            "options": [
+                "il nodo e le diramazioni per la ricerca",
+                "le parole chiave, i link",
+                "il nodo, il legame, le mappe di navigazione",
+                "è composta da livelli gerarchici"
+            ],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "01. quali potrebbero essere le macrotipologie per la creazione di contenuti e-learning",
+            "options": [
+                "lezioni interattive e test",
+                "lezioni interattive, simulazioni, risorse per approfondimento",
+                "lezioni, mappe concettuali, test",
+                "lezioni, test di autoverifica, esercitazioni"
+            ],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "01. cosa si intende con il termine \"usercentered design\"",
+            "options": [
+                "un approccio che pone al centro della progettazione le esigenze dell’allievo e i suoi obiettivi di apprendimento",
+                "un approccio che pone al centro della progettazione l'insegnante",
+                "un progetto per creare profili professionali",
+                "l'integrazione fra la didattica in aula con contenuti on line"
+            ],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "01. cosa si intende con il termine \"gamification\"",
+            "options": [
+                "la produzione ed uso di tecniche tipiche del gioco applicate a fini formativi",
+                "imparare a giocare on line",
+                "l'uso di giochi interattivi collettivi",
+                "La progettazione di giochi interattivi"
+            ],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "02. cosa indica il termine \"digitized classrooms\"",
+            "options": [
+                "un'aula dotata di Computer",
+                "un'aula dotata di computer in rete LAN",
+                "una classe virtuale potenziata con le nuove tecnologie digitali",
+                "Dei programmi che simulano una classe"
+            ],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "01. cosa sintetizzano le metodologie \"flipped learning\" e \"lo spaced learning\"",
+            "options": [
+                "Il docente è al centro del piano formativo e prevedere tempi più lunghi",
+                "lo studente è al centro del piano formativo e definisce i tempi della lezione",
+                "Capovolgere la propria classe e utilizzare lezioni intervallate",
+                "Capovolgere la propria classe e utilizzare spazi più ampi"
+            ],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "01. quali sono i tre elementi indispensabili per la LIM",
+            "options": [
+                "un computer la lavagna e la webcam",
+                "un computer e la webcam,",
+                "un computer e la lavagna",
+                "un proiettore, la lavagna, il computer"
+            ],
+            "correctAnswer": "4"
+        },
+        {
+            "question": "02. Quali sono le categorie di tecnologie utilizzate per la LIM:",
+            "options": [
+                "Elettromagnetica, ottico digitale, induttiva",
+                "elettromagnetica, ottica, resistiva",
+                "elettromagnetica, analitico-resistivo, a triangolazione ottica",
+                "magnetica, elettrica, ottica"
+            ],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "01. Le stategie di presentazioni con la LIM prevedono:",
+            "options": [
+                "controllo da parte del docente/sistema, alta prestrutturazione dell'informazione, interazione assente o scarsa",
+                "controllo da parte del sistema, strutturazione dinamica, interazione docente sistema",
+                "molte immagini e video poco testo",
+                "Interazione studente sistema inserimento dinamico delle immagini"
+            ],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "01. L’introduzione del tablet in aula quale vantaggio può riportare",
+            "options": [
+                "permette all’insegnante di incoraggiare il pensiero critico dello studente suggerendogli la ricerca di soluzioni a problemi utilizzando sistemi interattivi e personalizzati",
+                "Permette allo studente di integrare le spiegazioni quando non sono chiare",
+                "permette di condividere in tempo reale le risorse didattiche",
+                "Permette allo studente di registrare le lezioni e ripassarle a casa"
+            ],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "01. Cosa si intende per e-content",
+            "options": [
+                "l'insieme di informazioni su supporto elettronico utilizzate per trasferire conoscenze.",
+                "lezioni alternative al libro di testo",
+                "allegati alle email",
+                "i contenuti usufruibili su internet"
+            ],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "02. Quali possono essere le tipologie di contenuti digitali:",
+            "options": [
+                "formative, informative, colletive",
+                "testo, immagini, audio e video",
+                "entertainment, Infotainment, video, news, education",
+                "testuali, o multimediali"
+            ],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "03. Quale può essere l'utilità di una presentazione multimodale",
+            "options": [
+                "avere più padronanza nella trattazione degli argomenti",
+                "una comunicazione potenziata, sviluppo delle competenze verbali e scritte",
+                "Gli studenti possono prendere appunti",
+                "Si può gestire meglio il tempo in riferimento all'obiettivo"
+            ],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "01. Cosa bisogna tenere presente, come primi fattori, quando si progetta una presentazione",
+            "options": [
+                "L'obiettivo della presentazione",
+                "il luogo e gli strumenti disponibili",
+                "i destinatari, le loro conoscenze, capacità e competenze, i loro interessi, la loro motivazione",
+                "I dati che si hanno a disposizione"
+            ],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "01. Per aggiungere e modificare animazioni predefiniti a testi o immagini",
+            "options": [
+                "dopo averli selezionati è sufficiente andare in \"Animazioni”, scegliere il tipo di animazione per ogni elemento",
+                "dopo averli selezionati è sufficiente andare in formato, Animazioni, scegliere il tipo di animazione per ogni elemento",
+                "sceglire il comando inserisci, animazioni",
+                "scegliere un layout con le animazioni"
+            ],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "01. Tra i vantaggi riconosciuti alla comunicazione didattica attraverso il video quale risulta errato",
+            "options": [
+                "La possibilità di variare il grado di formalizzazione a secondo del tipo di messaggio che si sta trasmettendo",
+                "La possibilità di semplificare concetti astratti e complessi, attraverso la visualizzazione di esempi concreti, di simulazioni e di modelli di comportamento",
+                "La possibilità di presentare contemporaneamente l’immagine e il suono;",
+                "La possibilità di avvicinarsi al linguaggio della televisione"
+            ],
+            "correctAnswer": "4"
+        },
+        {
+            "question": "01. Che cos'è Articulate Storyline",
+            "options": [
+                "E' un ambiente autore che permette anche agli utenti non tecnici di creare in maniera dinamica, contenuti coinvolgenti, tra cui simulazioni, registrazioni dello schermo, interazioni drag-and-drop, test e valutazioni",
+                "E' un programma che simula percorsi formativi multimodali",
+                "E' un programma per fare brainstorming dinamici",
+                "E' un programma per creare video, integrato con la webcam"
+            ],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "02. Quali sono le funzionalità di Articulate Storyline",
+            "options": [
+                "Creare interazioni con gli studenti, inserire foto, immagini, disegni",
+                "Creazioni di presentazioni, creare dsegni, scritte, colori i sfondo",
+                "Cattura schermo, registrazione audio",
+                "visualizzazione di presentazioni ricche e coinvolgenti, corredate di sonoro;  facilità di creazione dei contenuti, anche da parte di utenti non tecnici;  controllo della dimensione dei file; opzioni di pubblicazione flessibili"
+            ],
+            "correctAnswer": "4"
+        },
+        {
+            "question": "01. Per definire una microlingua è importante analizzare",
+            "options": [
+                "gli aspetti testuali della lingua",
+                "le ambiguità semantiche della lingua",
+                "il luogo in cui si usa la lingua",
+                "l'ambiente da cui provengono i parlanti"
+            ],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "01. Una microlingua scientifico-professionale è",
+            "options": [
+                "un gergo un po’ più specialistico",
+                "una lingua formale e letteraria",
+                "una varietà di lingua",
+                "utilizzabile in più settori sociali"
+            ],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "01. Il docente di microlingua deve",
+            "options": [
+                "conoscere sia la lingua sia la disciplina non linguistica",
+                "frequentare corsi specialistici per l'insegnamento",
+                "avere una conoscenza specialistica della lingua",
+                "avere anche una laurea in discipline non linguistiche"
+            ],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "01. L’allievo di microlingua deve",
+            "options": [
+                "pretendere dal docente conoscenza in disciplina non linguistica",
+                "fornire materiali didattici e specialistici al docente",
+                "collaborare con la struttura scolastica nella quale impara",
+                "cercare una collaborazione costante con il docente"
+            ],
+            "correctAnswer": "4"
+        },
+        {
+            "question": "01. Se insegnata a scuola, nella didattica delle microlingue interagiscono",
+            "options": [
+                "il preside e tutto il corpo docente",
+                "i docenti coinvolti nella didattica della lingua e della disciplina",
+                "allievi di lingua e allievi di disciplina",
+                "tutto il corpo docente di una classe"
+            ],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "01. L’allievo di microlingua disciplinare non è",
+            "options": [
+                "ancora un professionista",
+                "quasi mai disponibile a collaborare",
+                "sempre motivato",
+                "mai collaborativo"
+            ],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "01. All'università un docente di microlingua risulta essere in posizione",
+            "options": [
+                "cooperativa rispetto alle problematiche della lingua",
+                "collaborativa rispetto ai colleghi di lingue",
+                "conflittuale rispetto ai colleghi di disciplina",
+                "asimmetrica rispetto agli allievi"
+            ],
+            "correctAnswer": "4"
+        },
+        {
+            "question": "01. Il sillabo di microlingua deve essere",
+            "options": [
+                "esaustivo di tutti i contenuti linguistici della microlingua insegnata",
+                "paragonabile a un corso universitario",
+                "accreditabile nel programma scolastico",
+                "coerente col livello linguistico in ingresso degli allievi"
+            ],
+            "correctAnswer": "4"
+        },
+        {
+            "question": "01. L’insegnamento microlinguistico deve",
+            "options": [
+                "elaborare i suoi curricoli con il mondo esterno",
+                "essere impermeabile alle variazioni sociali",
+                "attingere la lingua da più settori specialistici",
+                "evolvere con le trasformazioni della lingua e dei gerghi"
+            ],
+            "correctAnswer": "4"
+        },
+        {
+            "question": "01. Nella didattica della microlingua l'input è",
+            "options": [
+                "disciplinare",
+                "naturale",
+                "difficile",
+                "complesso"
+            ],
+            "correctAnswer": "4"
+        },
+        {
+            "question": "01. Il modulo di microlingua è",
+            "options": [
+                "un nuovo modello di teoria glottodidattica",
+                "un segmento dell'insieme dei contenuti di un curricolo",
+                "una realizzazione della didattica collaborativa",
+                "una parte della struttura dell'unità di apprendimento"
+            ],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "01. L'unità di acquisizione di microlingua non presenta sempre lo spazio per",
+            "options": [
+                "analisi",
+                "riflessione",
+                "motivazione",
+                "globalità"
+            ],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "01. Nelle microlingue disciplinari il rapporto collaborativo",
+            "options": [
+                "risulta imperfetto",
+                "si realizza senza problemi",
+                "pesa solo sul docente",
+                "non si può verificare"
+            ],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "01. Ogni singola area microlinguistica è caratterizzata da",
+            "options": [
+                "sintassi e generi testuali",
+                "gerghi e gruppi sociali",
+                "metodologia e strategie",
+                "approcci e metodi"
+            ],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "01. Nelle mete glottodidattiche si prevede di",
+            "options": [
+                "sapere la cultura",
+                "interpretare codici non verbali",
+                "sapere la grammatica",
+                "interpretare ruoli sociali"
+            ],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "01. I contenuti selezionati nel sillabo devono seguire",
+            "options": [
+                "criteri di semplificazione",
+                "norme grammaticali",
+                "codici sociali",
+                "la realtà linguistica"
+            ],
+            "correctAnswer": "4"
+        },
+        {
+            "question": "01. Nell’unità di acquisizione delle microlingue relazionali",
+            "options": [
+                "si trovano testi finalizzati alla conoscenza scientifica",
+                "si parte sempre dalla comprensione di un testo",
+                "i testi appartengono tutti allo stesso genere",
+                "i testi ruotano intorno a un evento comunicativo"
+            ],
+            "correctAnswer": "4"
+        },
+        {
+            "question": "01. Nell’unità di acquisizione di microlingua la fase di analisi prevede la riflessione sulle caratteristiche",
+            "options": [
+                "sociali",
+                "culturali",
+                "retoriche",
+                "professionali"
+            ],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "01. Nelle microlingue la fase di verifica e di valutazione sono di tipo",
+            "options": [
+                "qualitativo",
+                "scientifico",
+                "quantitativo",
+                "operativo"
+            ],
+            "correctAnswer": "4"
+        },
+        {
+            "question": "01. Un fenomeno tipico delle microlingue è",
+            "options": [
+                "l'uso del congiuntivo",
+                "la semplificazione della testualità",
+                "l’elisione di elementi frasali",
+                "l'utilizzo dei pronomi personali"
+            ],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "01. Durante la fruizione dell'opera letteraria, il lettore..",
+            "options": [
+                "Tende ad avere un unico punto di vista sull'opera",
+                "Tende a discutere gli schemi di valori e la propria visione della realtà",
+                "Tende sempre ad avere difficoltà nella lettura del testo",
+                "Tende a non essere coinvolto immediatamente dal testo letterario"
+            ],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "01. L'\"intrinsic approach\"",
+            "options": [
+                "Riguarda il processo di traduzione di un testo",
+                "Riguarda gli aspetti paralinguistici di un testo",
+                "Riguarda le forme verbali di un testo",
+                "Si incentra sul lessico del testo"
+            ],
+            "correctAnswer": "4"
+        },
+        {
+            "question": "01. I termini \"multiculturale\" e \"interculturale\"",
+            "options": [
+                "Sono differenti e si riferiscono a specifici contesti",
+                "Si riferiscono entrambi a contesti statici",
+                "Si riferiscono entrambi a contesti dinamici",
+                "Si possono considerare sinonimi"
+            ],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "02. La conoscenza \"dichiarativa\"…",
+            "options": [
+                "Si relaziona esclusivamente al contesto sociale",
+                "Riguarda esclusivamente contenuti culturali",
+                "Si lega all’insegnamento e all’acquisizione di contenuti linguistici e culturali",
+                "Riguarda l'abilità di produzione orale"
+            ],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "01. Le azioni comunicative…",
+            "options": [
+                "Riguardano esclusivamente i testi scritti",
+                "Non si fondano su criteri specifici",
+                "Riguardano esclusivamente il contesto culturale",
+                "Sono fondate su precise regole sociali"
+            ],
+            "correctAnswer": "4"
+        },
+        {
+            "question": "01. La competenza comunicativa letteraria…",
+            "options": [
+                "Non ha carattere interdisciplinare",
+                "Ha carattere interculturale",
+                "Non ha carattere interculturale",
+                "Si applica solo al contesto scolastico"
+            ],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "02. La comunicazione letteraria…",
+            "options": [
+                "Non prende in considerazione il background culturale del lettore",
+                "Si basa sull'interazione tra il testo e il lettore",
+                "Non si relaziona all'apprendimento della lingua straniera",
+                "Indica un rapporto unidirezionale che va dal testo al lettore"
+            ],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "01. Il ruolo dell'insegnante…",
+            "options": [
+                "Deve essere esmblema di autorevolezza, facendo ricorso alla lezione frontale",
+                "Deve far si che la comunicazione in classe sia prevalentemente unidirezionale",
+                "Deve essere quello di co-comunicatore e facilitatore del processo di apprendimento dello studente",
+                "Non deve tenere conto delle intelligenze multiple"
+            ],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "01. Nella fase iniziale dell'apprendimento di una lingua straniera in classe, è fondamentale",
+            "options": [
+                "La lettura ad alta voce da parte del docente",
+                "L'esercitazione nella comprensione del testo",
+                "L'attività di produzione scritta",
+                "Il dialogo tra gli studenti"
+            ],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "01. Chi si è occupato della questione relativa alle forme di autorità dell'insegnante?",
+            "options": [
+                "Wallace",
+                "Culler",
+                "Vygotskij",
+                "Bracher"
+            ],
+            "correctAnswer": "4"
+        },
+        {
+            "question": "01. Chi ha definito il \"modello egodinamico\"?",
+            "options": [
+                "Culler",
+                "Jung",
+                "Wallace",
+                "Titone"
+            ],
+            "correctAnswer": "4"
+        },
+        {
+            "question": "01. Chi afferma che la stilistica è una disciplina legata allo studio della lingua della letteratura?",
+            "options": [
+                "Titone",
+                "Roshan",
+                "Culler",
+                "Balboni"
+            ],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "02. La stilistica…",
+            "options": [
+                "Non si relaziona alla linguistica",
+                "Riguarda esclusivamente l'analisi stilistica di un'opera letteraria",
+                "Si relaziona al background storico-culturale di un autore",
+                "Viene considerata linguistica applicata all’insegnamento della letteratura"
+            ],
+            "correctAnswer": "4"
+        },
+        {
+            "question": "01. Chi parla di \"eventi di istruzione\"?",
+            "options": [
+                "Vygotskij",
+                "Wallace",
+                "Gagne",
+                "Balboni"
+            ],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "01. Il language based approach…",
+            "options": [
+                "Fa uso del testo letterario",
+                "Non fa uso del testo letterario",
+                "Fa uso solo di alcune forme di testo letterario",
+                "Non fa uso dei media digitali"
+            ],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "01. In fase di progettazione dell'unità didattica…",
+            "options": [
+                "Non è necessario prevedere un numero preciso di lezioni",
+                "Non si dovrà tener conto del numero esatto degli alunni",
+                "Si dovrà prevedere di tener conto del feedback dello studente",
+                "Non si dovrà tener conto del concetto di input comprensibile"
+            ],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "01. Cosa sono i \"writing prompts\"?",
+            "options": [
+                "Programmi di videoscrittura",
+                "Suggerimenti per la scrittura",
+                "File in formato word",
+                "Istruzioni per la formattazione del testo"
+            ],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "01. La fase di \"plateau\" si maifesta quando…",
+            "options": [
+                "lo studente tende ad adagiarsi smettendo di apprendere nuovi contenuti",
+                "Gli studenti entrano in competizione tra loro",
+                "Lo studente appare poco motivato",
+                "Lo studente appare molto motivato"
+            ],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "01. ? I've got long dark hair and dark eyes.",
+            "options": [
+                "what do you look like?",
+                "how are you ?",
+                "how are you ?",
+                "how is your look ?"
+            ],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "02. dog is that? It's my neighbor's",
+            "options": [
+                "how",
+                "which",
+                "what",
+                "whose"
+            ],
+            "correctAnswer": "4"
+        },
+        {
+            "question": "03. There is a little we can do about it,  ?",
+            "options": [
+                "isn't there",
+                "is there",
+                "isn't it",
+                "is it"
+            ],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "04. He was respected by the people \the worked \tbecause he was \thonest man.",
+            "options": [
+                "-/with/a",
+                "with who/-/an",
+                "with who/-/a",
+                "-/with/an"
+            ],
+            "correctAnswer": "4"
+        },
+        {
+            "question": "01. Do you have any idea \t?",
+            "options": [
+                "where Ann lives ?",
+                "where does Ann live",
+                "where Ann livs",
+                "where Ann live"
+            ],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "02. Last night police said that they \tthe missing girl.",
+            "options": [
+                "find",
+                "were finding",
+                "had found",
+                "have found"
+            ],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "01. I don't like my job so I'm\ta better one",
+            "options": [
+                "looking up",
+                "looking after",
+                "looking for",
+                "looking at"
+            ],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "02. Hey Ann, \tthe boy with the fair hair, he's quite handsome.",
+            "options": [
+                "check out",
+                "check up",
+                "check in",
+                "check at"
+            ],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "03. You can't rely on Helen. She's \t so many times .",
+            "options": [
+                "dropped me off",
+                "let me down",
+                "cut me down",
+                "came up with me"
+            ],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "01. I drank a glass of wine before",
+            "options": [
+                "slept",
+                "to sleep",
+                "having slept",
+                "sleeping"
+            ],
+            "correctAnswer": "4"
+        },
+        {
+            "question": "02. If you've got the flu, try \tan aspirin.",
+            "options": [
+                "to take",
+                "taken",
+                "taking",
+                "take"
+            ],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "01. They walked out of the classroom without \ta word",
+            "options": [
+                "saying",
+                "telling",
+                "to tell",
+                "to say"
+            ],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "01. Cross out the item which does not normally collocate with \"make\"",
+            "options": [
+                "friends",
+                "a translation",
+                "a noise",
+                "plans"
+            ],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "01. Ann \tthe room. She said she \tto go",
+            "options": [
+                "leave/had",
+                "left/had",
+                "leave/has",
+                "lived/had"
+            ],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "02. I wish I \tthis problem",
+            "options": [
+                "can solve",
+                "will solve",
+                "can solving",
+                "could solve"
+            ],
+            "correctAnswer": "4"
+        },
+        {
+            "question": "01. Kim \ther hand when she\ther daughter's clothes.",
+            "options": [
+                "burning/was ironed",
+                "burned/ironed",
+                "was burning/ironed",
+                "burnt/was ironing"
+            ],
+            "correctAnswer": "4"
+        },
+        {
+            "question": "01. If I \ta higher salary, I probably would have stayed with the company",
+            "options": [
+                "were offered",
+                "were being offered",
+                "had been offered",
+                "was offered"
+            ],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "02. A. What would you do if you \t a lot of money ? you stop working ? B. No, It \tdrive me crazy if I \tanything to do.",
+            "options": [
+                "won - would - will - didn't have",
+                "won - won't - will -didn't have",
+                "win -would -would-hadn't",
+                "won-would-would-didn't have"
+            ],
+            "correctAnswer": "4"
+        },
+        {
+            "question": "01. Mary has lost her passport again. It's the second time it",
+            "options": [
+                "is happened",
+                "happened",
+                "happens",
+                "has happened"
+            ],
+            "correctAnswer": "4"
+        },
+        {
+            "question": "01. My daughter \tthe piano since she was five.",
+            "options": [
+                "is playing",
+                "has plaied",
+                "has been playing",
+                "plays"
+            ],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "01. Your eyes are red, \t?",
+            "options": [
+                "had you cried",
+                "do you cry",
+                "have you cried",
+                "have you been crying"
+            ],
+            "correctAnswer": "4"
+        },
+        {
+            "question": "01. If you go to live in Australia you \ton the left.",
+            "options": [
+                "'ll have to get used to drive",
+                "'d have to get used to",
+                "'d have had to get used to",
+                "'ll have to get used to driving"
+            ],
+            "correctAnswer": "4"
+        },
+        {
+            "question": "02. When Yukiko went to live in Germany, she \tthere quickly.",
+            "options": [
+                "used to live",
+                "got used to living",
+                "is getting used to live",
+                "used to living"
+            ],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "01. We were sure that Kim and Trevor \tby the time we arrived.",
+            "options": [
+                "would have left",
+                "would be leaving",
+                "would leave",
+                "left"
+            ],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "01. Peter was almost sure he \this exam.",
+            "options": [
+                "would pass",
+                "past",
+                "pass",
+                "was to pass"
+            ],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "02. Choose the most correct way of saying the same thing in the passive voice. Mary would have told you. => You by Mary.",
+            "options": [
+                "were being told",
+                "would have been told",
+                "would told",
+                "would be told"
+            ],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "01. She is a very well-mannered person \tthat you don't contradict her",
+            "options": [
+                "unless",
+                "as long",
+                "whether",
+                "providing"
+            ],
+            "correctAnswer": "4"
+        },
+        {
+            "question": "02. I refuse to go \tyou come with me",
+            "options": [
+                "so long",
+                "as long",
+                "providing",
+                "unless"
+            ],
+            "correctAnswer": "4"
+        },
+        {
+            "question": "01. My classmate was very kind \tme when I lost my cellular phone.",
+            "options": [
+                "from",
+                "to",
+                "of",
+                "about"
+            ],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "01. We 'll stay here until dad",
+            "options": [
+                "will return",
+                "returns",
+                "return",
+                "is returning"
+            ],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "02. Do you have a minute ? I'm sorry, \tin a couple of minutes",
+            "options": [
+                "I'll left",
+                "I leave",
+                "I'm about to leave",
+                "I leaving"
+            ],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "01. George \tis a pilot, flew To Amsterdam last week",
+            "options": [
+                "who",
+                "-",
+                ",who",
+                "that"
+            ],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "02. Choose the American equivalent for the British word \"motorway\"",
+            "options": [
+                "highway",
+                "highstreet",
+                "motoroad",
+                "highroad"
+            ],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "03. Choose the American equivalent for the British word \"queue\"",
+            "options": [
+                "lain",
+                "linen",
+                "lane",
+                "line"
+            ],
+            "correctAnswer": "4"
+        },
+        {
+            "question": "01. I've decided to fire Mario Rossi. He arrived \tfor the meeting again",
+            "options": [
+                "more late",
+                "later",
+                "lately",
+                "late"
+            ],
+            "correctAnswer": "4"
+        },
+        {
+            "question": "02. This hotel is quite cheap but that one is \t.",
+            "options": [
+                "cheap",
+                "cheaper",
+                "cheapest",
+                "more cheap"
+            ],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "01. Choose the American translation for the Italian word \"rubinetto\"",
+            "options": [
+                "pipe",
+                "faucet",
+                "tap",
+                "none of the above"
+            ],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "02. Choose the American translation for the Italian word \"benzina\"",
+            "options": [
+                "gas",
+                "non of the above",
+                "motor-oil",
+                "petrol"
+            ],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "01. Choose the correct prefix to make the following adjective negative in meaning: regular",
+            "options": [
+                "un",
+                "dis",
+                "ir",
+                "in"
+            ],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "01. What's the English for \" ride bene chi ride ultimo ?\"",
+            "options": [
+                "have the latest laugh",
+                "have the last grin",
+                "have the last smile",
+                "have the last laugh"
+            ],
+            "correctAnswer": "4"
+        },
+        {
+            "question": "02. \"To smell a rat \" means:",
+            "options": [
+                "to suspect a trick",
+                "to misunderstand",
+                "to have an odor",
+                "to see a hidden meaning"
+            ],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "01. What does \"convenient\" mean ?",
+            "options": [
+                "economico",
+                "utile",
+                "chi conviene",
+                "convenienza"
+            ],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "02. What does \"pace\" mean ?",
+            "options": [
+                "pece",
+                "piccolo pezzo",
+                "passo",
+                "pace"
+            ],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "01. Quale approccio è noto per utilizzare le tecnologie moderne per l'apprendimento linguistico?",
+            "options": [
+                "Metodo audio-linguale",
+                "Apprendimento basato su internet",
+                "Metodo traduttivo",
+                "Metodo diretto"
+            ],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "02. Quale teoria sosteneva negli anni '50 che lo studio delle lingue si basasse su meccanismi di stimolo-risposta-rinforzo?",
+            "options": [
+                "Teoria comportamentista",
+                "Teoria cognitivista",
+                "Teoria interazionista",
+                "Teoria innatista"
+            ],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "03. Secondo la teoria di Chomsky, cosa è il bambino durante l'acquisizione della lingua madre?",
+            "options": [
+                "Un imitatore perfetto",
+                "Un memorizzatore di frasi",
+                "Un ripetitore passivo",
+                "Un creatore di regole e generatore di ipotesi"
+            ],
+            "correctAnswer": "4"
+        },
+        {
+            "question": "04. Cosa si intende per motivazione strumentale nell'apprendimento linguistico?",
+            "options": [
+                "Motivazione legata a obiettivi pratici come ottenere un lavoro",
+                "Motivazione basata sulla ripetizione",
+                "Desiderio di integrarsi con la comunità della lingua target",
+                "Interesse per la cultura della lingua target"
+            ],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "05. Qual è uno degli obiettivi principali della sociolinguistica nell'insegnamento delle lingue?",
+            "options": [
+                "Concentrarsi solo sulla grammatica",
+                "Standardizzare la lingua",
+                "Tradurre testi letterari",
+                "Insegnare le variazioni linguistiche in base ai contesti sociali"
+            ],
+            "correctAnswer": "4"
+        },
+        {
+            "question": "06. Quale metodo si basava sull'analisi delle differenze tra la lingua madre e la L2 per evitare errori?",
+            "options": [
+                "Metodo diretto",
+                "Metodo naturale",
+                "Metodo comunicativo",
+                "Analisi contrastiva"
+            ],
+            "correctAnswer": "4"
+        },
+        {
+            "question": "07. Qual è uno degli approcci più efficaci per l'insegnamento delle lingue secondo la moderna glottodidattica?",
+            "options": [
+                "Approccio grammaticale-traduttivo",
+                "Metodo della traduzione",
+                "Metodo strutturale",
+                "Approccio comunicativo"
+            ],
+            "correctAnswer": "4"
+        },
+        {
+            "question": "08. Quale concetto descrive una lingua usata da non nativi per comunicare con altre persone?",
+            "options": [
+                "Interlingua",
+                "Pidgin",
+                "Lingua franca",
+                "Dialetto"
+            ],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "09. Secondo Chomsky, cosa rappresenta il bambino durante l'acquisizione della lingua madre?",
+            "options": [
+                "Un imitatore perfetto",
+                "Un memorizzatore di frasi",
+                "Un ripetitore passivo",
+                "Un creatore di regole e generatore di ipotesi"
+            ],
+            "correctAnswer": "4"
+        },
+        {
+            "question": "10. Quale teoria sostiene che la capacità di acquisire una lingua è innata?",
+            "options": [
+                "Teoria interazionista",
+                "Teoria innatista",
+                "Teoria comportamentista",
+                "Teoria cognitivista"
+            ],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "11. Apprendere la competenza di scrittura in una seconda lingua è complesso perché:",
+            "options": [
+                "è difficile svolgere tali attività durante la lezione",
+                "richiede molto tempo",
+                "è un'attività individuale",
+                "richiede il controllo di varie competenze linguistiche"
+            ],
+            "correctAnswer": "4"
+        },
+        {
+            "question": "12. Cosa distingue le competenze comunicative dalle competenze linguistiche?",
+            "options": [
+                "Le competenze linguistiche includono solo la fonetica",
+                "Le competenze linguistiche riguardano solo la sintassi",
+                "Le competenze comunicative includono solo la grammatica",
+                "Le competenze comunicative riguardano l'uso appropriato della lingua in contesti reali"
+            ],
+            "correctAnswer": "4"
+        },
+        {
+            "question": "01. Quale fattore di personalità contribuisce significativamente al successo nell'apprendimento delle lingue?",
+            "options": [
+                "Autostima",
+                "Ansia",
+                "Autostima",
+                "Estroversione"
+            ],
+            "correctAnswer": "4"
+        },
+        {
+            "question": "01. Qual è una componente essenziale per migliorare l'apprendimento degli studenti con DSA?",
+            "options": [
+                "Uso di tecniche multisensoriali",
+                "Evitare l'uso di tecnologie assistive",
+                "Ignorare le preferenze individuali degli studenti",
+                "Concentrarsi solo sull'apprendimento passivo"
+            ],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "02. Qual è una delle principali difficoltà per gli italiani nell'apprendimento del tedesco?",
+            "options": [
+                "La differenza nei suoni gutturali",
+                "La semplicità della sintassi",
+                "La struttura delle frasi",
+                "La pronuncia delle vocali brevi"
+            ],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "03. Quale tecnica di memorizzazione è particolarmente utile per la memorizzazione a lungo termine?",
+            "options": [
+                "Studio intensivo in brevi sessioni",
+                "Evitare l'uso di tecniche visive",
+                "Ripetizione spaziata",
+                "Apprendimento passivo"
+            ],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "04. Qual è una delle tecniche più efficaci per migliorare la memorizzazione a lungo termine?",
+            "options": [
+                "Ripetizione spaziata",
+                "Studio in sessioni prolungate",
+                "Apprendimento passivo",
+                "Evitare l'uso di immagini"
+            ],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "05. Qual è una delle principali difficoltà per gli italiani nell'apprendimento dell'inglese?",
+            "options": [
+                "La pronuncia delle vocali brevi",
+                "La differenza nei modelli di stress e ritmo",
+                "La struttura delle frasi",
+                "La semplicità delle regole grammaticali"
+            ],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "06. Qual è uno dei benefici delle collaborazioni internazionali nei programmi PCTO?",
+            "options": [
+                "Limitano l'eposizione a contesti professionali reali.",
+                "Migliorano le competenze comunicative e interculturali",
+                "Riduce la motivazione degli studenti",
+                "Rende l'apprendimento meno significativo"
+            ],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "01. Qual è il principale vantaggio dei corsi di lingua per scopi specifici (ESP)?",
+            "options": [
+                "Sono altamente motivati da esigenze lavorative o personali",
+                "Sono generalizzati",
+                "Richiedono meno materiali didattici",
+                "Sono più brevi"
+            ],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "02. Quale strategia aiuta a integrare il lessico nel contesto comunicativo?",
+            "options": [
+                "Evitare attività pratiche",
+                "Usare solo materiali scritti",
+                "Insegnare solo liste di parole",
+                "Utilizzare collocazioni e contesti reali"
+            ],
+            "correctAnswer": "4"
+        },
+        {
+            "question": "03. Quale metodo di insegnamento è basato sulla ripetizione di dialoghi senza spiegazioni?",
+            "options": [
+                "Risposta fisica totale",
+                "Approccio comunicativo",
+                "Traduzione e grammatica",
+                "Metodo audio-linguale"
+            ],
+            "correctAnswer": "4"
+        },
+        {
+            "question": "04. Qual è uno degli obiettivi principali della pianificazione delle lezioni?",
+            "options": [
+                "Evitare le interazioni tra studenti",
+                "Ridurre il tempo di insegnamento",
+                "Evitare l'uso del libro di testo",
+                "Gestire efficacemente il tempo e mantenere la concentrazione degli studenti"
+            ],
+            "correctAnswer": "4"
+        },
+        {
+            "question": "05. Quale approccio didattico incoraggia l'uso di giochi per l'apprendimento linguistico?",
+            "options": [
+                "Approccio lessicale",
+                "Glottodidattica ludica",
+                "Metodo audio-linguale",
+                "Traduzione e grammatica"
+            ],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "01. Quale fattore di personalità contribuisce significativamente al successo nell'apprendimento delle lingue?",
+            "options": [
+                "Estroversione",
+                "Autostima",
+                "Ansia",
+                "Paranoia"
+            ],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "02. Qual è il principale vantaggio dei corsi di lingua per scopi specifici (ESP)?",
+            "options": [
+                "Sono generalizzati",
+                "Richiedono meno materiali didattici",
+                "Sono più brevi",
+                "Sono altamente motivati da esigenze lavorative o personali"
+            ],
+            "correctAnswer": "4"
+        },
+        {
+            "question": "03. Qual è l'importanza del contesto nella glottodidattica ludica?",
+            "options": [
+                "Riduce la necessità di materiali didattici",
+                "Elimina l'uso del gioco",
+                "Aumenta l'ansia degli studenti",
+                "Rende l'apprendimento della lingua più autentico e motivante"
+            ],
+            "correctAnswer": "4"
+        },
+        {
+            "question": "04. Un input linguistico di qualità deve essere:",
+            "options": [
+                "Limitato e monotono",
+                "Complesso e articolato",
+                "Lungo",
+                "Comprensibile e rilevante"
+            ],
+            "correctAnswer": "4"
+        },
+        {
+            "question": "05. L'auto-efficacia è correlata con:",
+            "options": [
+                "Maggiore chiarezza espositiva",
+                "Maggiore perseveranza e migliori risultati",
+                "Maggiore inibizione",
+                "Minore partecipazione"
+            ],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "06. Quale metodo di insegnamento è basato sulla ripetizione di dialoghi senza spiegazioni?",
+            "options": [
+                "Approccio comunicativo",
+                "Metodo audio-linguale",
+                "Risposta fisica totale",
+                "Traduzione e grammatica"
+            ],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "07. Qual è uno degli obiettivi principali della pianificazione delle lezioni?",
+            "options": [
+                "Ridurre il tempo di insegnamento",
+                "Evitare le interazioni tra studenti",
+                "Evitare l'uso del libro di testo",
+                "Gestire efficacemente il tempo e mantenere la concentrazione degli studenti"
+            ],
+            "correctAnswer": "4"
+        },
+        {
+            "question": "01. Qual è un vantaggio dell'uso dei giochi linguistici in classe?",
+            "options": [
+                "Aumento della memorizzazione passiva",
+                "Riduzione della partecipazione degli studenti",
+                "Promozione dell'interazione e della comunicazione",
+                "Riduzione del vocabolario attivo"
+            ],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "02. Quale metodo promuove l'uso autentico della lingua target attraverso interazioni reali?",
+            "options": [
+                "Metodo grammaticale-traduttivo",
+                "Metodo diretto",
+                "eTandem",
+                "Metodo audiolinguale"
+            ],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "03. Qual è uno dei benefici principali dell'utilizzo della tecnologia nell'insegnamento delle lingue?",
+            "options": [
+                "Eliminazione dell'interazione umana",
+                "Accesso a risorse linguistiche autentiche",
+                "Riduzione del vocabolario attivo",
+                "Isolamento degli studenti"
+            ],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "04. Quale approccio didattico favorisce la collaborazione e l'interazione tra pari?",
+            "options": [
+                "Giochi",
+                "Esami",
+                "Apprendimento a distanza",
+                "Esercizi scritti"
+            ],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "01. Qual è il principale obiettivo della classe capovolta?",
+            "options": [
+                "Favorire l'apprendimento passivo degli studenti.",
+                "Spostare l'apprendimento teorico fuori dalla classe e dedicare il tempo in classe a attività pratiche.",
+                "Ridurre il tempo di lezione per gli insegnanti.",
+                "Aumentare la quantità di compiti a casa."
+            ],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "01. La classe capovolta favorisce l'alfabetizzazione:",
+            "options": [
+                "alle lingue vive.",
+                "alle lingue morte.",
+                "all'italiano.",
+                "all’arte, alle tecniche e ai media di produzione e diffusione delle immagini."
+            ],
+            "correctAnswer": "4"
+        },
+        {
+            "question": "02. Il flipped learning può contrastare:",
+            "options": [
+                "l'uso eccessivo di tecnologie digitali in classe.",
+                "la dispersione scolastica.",
+                "la necessità di lezioni frontali e compiti a casa.",
+                "l'inclusione."
+            ],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "01. Durante la fase di attivazione, dopo aver visionato i materiali, lo studente:",
+            "options": [
+                "deve sottoporsi a una verifica.",
+                "deve visionarli almeno un'altra volta per fissarli meglio.",
+                "deve scriverne un riassunto.",
+                "può svolgere delle brevi attività di comprensione e di autoverifica.  delle conoscenze acquisite"
+            ],
+            "correctAnswer": "4"
+        },
+        {
+            "question": "02. In fase di attivazione gli appunti:",
+            "options": [
+                "possono esser cartacei o su pc/tablet.",
+                "costituiscono uno dei compiti a casa.",
+                "devono essere solo cartacei.",
+                "devono servire come base per una verifica."
+            ],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "03. Apprendimento collaborativo e lavoro di gruppo sono sono sinonimi.",
+            "options": [
+                "Dipende dalle istruzioni del docente.",
+                "Dipende dai componenti del gruppo.",
+                "Vero.",
+                "Falso."
+            ],
+            "correctAnswer": "4"
+        },
+        {
+            "question": "01. Quale ruolo svolgono i docenti nella classe capovolta?",
+            "options": [
+                "Tengono esclusivamente lezioni frontali.",
+                "Offrono feedback sul lavoro svolto a casa e promuovono attività in classe.",
+                "Evitano qualsiasi interazione con gli studenti durante le attività.",
+                "Si limitano a valutare i test finali."
+            ],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "01. Cos'è il CLIL?",
+            "options": [
+                "Una metodologia educativa che integra l'apprendimento di contenuti disciplinari con quello linguistico.",
+                "Un metodo per insegnare esclusivamente lingue straniere.",
+                "Un approccio che si concentra solo sull'apprendimento di discipline non linguistiche.",
+                "Una tecnica per tradurre lezioni dalla lingua madre alla lingua straniera."
+            ],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "02. Quando è stato introdotto il CLIL?",
+            "options": [
+                "Negli anni '90 da David Marsh e Anne Maljers.",
+                "Nel 2010 dal Ministero dell'Istruzione italiano.",
+                "Nel 2000 dalla Commissione europea.",
+                "Nel 1980 da un gruppo di linguisti americani."
+            ],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "03. Qual è uno dei vantaggi offerti dal CLIL?",
+            "options": [
+                "Elimina completamente la necessità di studiare la lingua madre.",
+                "Garantisce il successo in tutte le materie.",
+                "Assicura l'ammissione automatica alle università straniere.",
+                "Sviluppa abilità di comunicazione interculturale."
+            ],
+            "correctAnswer": "4"
+        },
+        {
+            "question": "04. Quale delle seguenti è una competenza richiesta a un docente CLIL nell'ambito metodologico-didattico?",
+            "options": [
+                "Aver vissuto almeno 10 anni nel paese della lingua target.",
+                "Essere madrelingua nella lingua straniera insegnata.",
+                "Essere in grado di progettare e realizzare autonomamente percorsi CLIL.",
+                "Avere una conoscenza perfetta di tutte le discipline scientifiche."
+            ],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "01. Quando sono iniziate le prime esperienze di insegnamento di discipline in lingua straniera in Italia?",
+            "options": [
+                "Negli anni Sessanta",
+                "Nel secondo dopoguerra.",
+                "All'inizio degli anni Novanta del secolo scorso.",
+                "Dopo il 2010."
+            ],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "02. Secondo Carmel Mary Coonan, qual è una caratteristica distintiva del CLIL?",
+            "options": [
+                "È identico a qualsiasi forma di educazione bilingue.",
+                "Si concentra esclusivamente sull'apprendimento della lingua straniera.",
+                "Utilizza solo la lingua madre degli studenti per insegnare contenuti.",
+                "Assicura l'apprendimento integrato duale di lingua e contenuto non-linguistico."
+            ],
+            "correctAnswer": "4"
+        },
+        {
+            "question": "01. Secondo Flora Sisti, quale problematica è associata all'introduzione del CLIL in Italia?",
+            "options": [
+                "Ha portato all'eliminazione completa dell'insegnamento in lingua italiana.",
+                "Ha causato numerosi fraintendimenti e un uso approssimativo del termine.",
+                "Ha causato un calo drastico delle iscrizioni universitarie.",
+                "Ha reso obsoleti tutti i metodi di insegnamento tradizionali."
+            ],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "02. Quando è stato introdotto l'acronimo CLIL nella legislazione italiana?",
+            "options": [
+                "Con la Buona Scuola.",
+                "Con la nascita della Repubblica Italiana.",
+                "Con la Buona Scuola.",
+                "Con la riforma della scuola superiore del marzo 2003."
+            ],
+            "correctAnswer": "4"
+        },
+        {
+            "question": "01. Come si distingue il CLIL moderno dalle pratiche storiche di insegnamento in lingua straniera?",
+            "options": [
+                "Per l'uso esclusivo di tecnologie digitali nell'insegnamento.",
+                "Per l'eliminazione completa della lingua madre dall'insegnamento.",
+                "Per il focus solo sulle lingue classiche come il latino e il greco.",
+                "Per la sua sistematicità e l'applicazione in contesti educativi più ampi e democratici."
+            ],
+            "correctAnswer": "4"
+        },
+        {
+            "question": "02. Quale normativa italiana ha aperto la strada all'insegnamento in lingua straniera?",
+            "options": [
+                "ll decreto Gelmini del 2008.",
+                "La riforma Gentile del 1923.",
+                "La legge Casati del 1859.",
+                "Il DPR n. 275/1994 sull'autonomia scolastica"
+            ],
+            "correctAnswer": "4"
+        },
+        {
+            "question": "03. Quale primato ha l'Italia riguardo all'introduzione del CLIL?",
+            "options": [
+                "È l'unico paese a vietare completamente l'uso del CLIL nelle scuole.",
+                "È l'ultimo paese europeo ad adottare il CLIL nel sistema scolastico.",
+                "È il primo paese dell'Unione Europea a introdurre il CLIL in modo ordinamentale nella scuola secondaria di secondo grado.",
+                "È il paese con il maggior numero di ore di CLIL obbligatorie in Europa."
+            ],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "01. Secondo la normativa, chi rilascia le certificazioni linguistiche valide per i docenti CLIL?",
+            "options": [
+                "Solo il British Council per l'inglese.",
+                "Qualsiasi scuola di lingua privata.",
+                "Esclusivamente le università italiane.",
+                "Enti certificatori riconosciuti con Decreti Direttoriali."
+            ],
+            "correctAnswer": "4"
+        },
+        {
+            "question": "02. Cosa promuove il Miur per accompagnare l'introduzione dell'insegnamento CLIL?",
+            "options": [
+                "La sostituzione completa dei libri di testo italiani con quelli in lingua straniera.",
+                "L'assunzione esclusiva di docenti madrelingua.",
+                "Percorsi di formazione in servizio per i docenti di disciplina non linguistica.",
+                "L'obbligo di soggiorno all'estero per tutti i docenti."
+            ],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "03. Oltre ai corsi di formazione, quale altra iniziativa ha promosso il Miur per il CLIL?",
+            "options": [
+                "La promozione di Reti di scuole e di progetti CLIL",
+                "L'obbligo di insegnare tutte le materie in inglese dal primo anno delle superiori.",
+                "L'eliminazione dell'insegnamento in italiano nelle scuole superiori.",
+                "La creazione di scuole superiori esclusivamente in lingua straniera."
+            ],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "04. Cosa ha fornito il MIUR alle scuole per introdurre gradualmente il CLIL?",
+            "options": [
+                "Software di traduzione automatica per tutte le lezioni.",
+                "Linee guida e modalità operative.",
+                "Finanziamenti illimitati per l'assunzione di docenti stranieri.",
+                "Ordini di chiusura per le scuole che non adottano il CLIL."
+            ],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "01. Quale obiettivo viene attribuito al plurilinguismo secondo il documento della Commissione Europea?",
+            "options": [
+                "Rafforzare il sentimento di appartenenza all'Europa e la comprensione reciproca tra cittadini europei.",
+                "Limitare la mobilità dei cittadini europei.",
+                "Imporre l'inglese come unica lingua di comunicazione in Europa.",
+                "Eliminare completamente l'uso delle lingue nazionali."
+            ],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "02. Quale tipo di programma CLIL è il più diffuso in Europa?",
+            "options": [
+                "Insegnare alcune materie nella lingua di istruzione e altre in una lingua straniera.",
+                "Insegnare tutte le materie esclusivamente in una lingua straniera.",
+                "Insegnare solo le materie scientifiche in una lingua straniera.",
+                "Alternare giornalmente la lingua di istruzione."
+            ],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "03. Quali sono le lingue straniere più comunemente utilizzate nei programmi CLIL in Europa?",
+            "options": [
+                "Unicamente le lingue regionali e minoritarie.",
+                "Inglese, francese, tedesco, e in misura minore spagnolo e italiano.",
+                "Solo inglese e francese.",
+                "Solo russo e cinese."
+            ],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "01. Quale era l'obiettivo principale del progetto CLILLabs4all?",
+            "options": [
+                "Creare moduli CLIL attraverso una rete di scuole secondarie di secondo grado.",
+                "Eliminare completamente l'insegnamento in lingua italiana.",
+                "Focalizzarsi esclusivamente sull'insegnamento della grammatica inglese.",
+                "Sostituire gli insegnanti di lingua con software di traduzione automatica."
+            ],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "01. Secondo Minosso, quale vantaggio ha tratto dal confronto con i colleghi di altre discipline?",
+            "options": [
+                "Ha scoperto che la fisica è più importante delle lingue straniere.",
+                "Ha compreso che il CLIL non è adatto all'insegnamento della fisica.",
+                "Ha fatto un utile esercizio di riflessione professionale e definizione delle pratiche.",
+                "Ha deciso di abbandonare l'insegnamento della fisica per dedicarsi alle lingue."
+            ],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "02. Qual era l'obiettivo principale del progetto \"CLIL in Action\"?",
+            "options": [
+                "Formare insegnanti madrelingua inglese per insegnare fisica in Italia.",
+                "Sostituire completamente l'insegnamento in lingua italiana nelle scuole secondarie.",
+                "Preparare gli studenti per esami internazionali di fisica in inglese.",
+                "Aiutare gli insegnanti ad entrare nella metodologia CLIL attraverso la costruzione e sperimentazione di unità didattiche."
+            ],
+            "correctAnswer": "4"
+        },
+        {
+            "question": "03. Quale aspetto del CLIL Minosso ha trovato particolarmente formativo?",
+            "options": [
+                "L'insegnamento di concetti di fisica avanzata in inglese.",
+                "Le discussioni con i referenti e i colleghi sulla natura dell'apprendimento linguistico e della fisica.",
+                "La creazione di video didattici in inglese.",
+                "La valutazione degli studenti in lingua inglese."
+            ],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "01. Cosa si intende per \"materiale autentico\" nell'insegnamento delle lingue?",
+            "options": [
+                "Materiali didattici creati appositamente per l'insegnamento delle lingue.",
+                "Testi semplificati per adattarsi al livello degli studenti.",
+                "Risorse create esclusivamente da insegnanti di lingua.",
+                "Risorse linguistiche create per scopi comunicativi reali, non specificamente per l'insegnamento."
+            ],
+            "correctAnswer": "4"
+        },
+        {
+            "question": "02. Quale aspetto della lingua target viene appreso attraverso i materiali autentici oltre alla lingua stessa?",
+            "options": [
+                "Unicamente la pronuncia standard.",
+                "Solo regole grammaticali formali.",
+                "Esclusivamente il vocabolario tecnico.",
+                "Conoscenze culturali, sociali e pragmatiche."
+            ],
+            "correctAnswer": "4"
+        },
+        {
+            "question": "03. Quale criticità può presentare l'uso di materiali autentici in classe?",
+            "options": [
+                "Alcuni studenti potrebbero sentirsi sopraffatti di fronte a testi non semplificati.",
+                "I materiali autentici sono sempre troppo facili per gli studenti.",
+                "Sono sempre perfettamente adatti a qualsiasi livello di competenza.",
+                "Non presentano mai sfide linguistiche per gli apprendenti."
+            ],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "04. Quale vantaggio offre l'uso di materiali autentici nell'apprendimento delle lingue?",
+            "options": [
+                "Elimina completamente la necessità di materiali didattici tradizionali.",
+                "Garantisce che gli studenti imparino solo il linguaggio formale.",
+                "Espone gli studenti alla lingua così come viene effettivamente utilizzata in contesti naturali e reali.",
+                "Riduce la necessità di pratica linguistica in classe."
+            ],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "01. Quale aspetto è importante considerare nella strutturazione delle attività didattiche basate su materiali autentici?",
+            "options": [
+                "La possibilità di creare attività che si adattino alle diverse necessità, capacità e interessi degli studenti.",
+                "L'uso esclusivo di esercizi di traduzione.",
+                "L'eliminazione di qualsiasi elemento culturale dalle attività.",
+                "La focalizzazione solo sulla grammatica formale."
+            ],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "02. Quale strategia può aumentare la comprensibilità dell'input autentico, specialmente quando il contenuto linguistico è più complesso?",
+            "options": [
+                "L'uso di supporti come immagini o video.",
+                "La completa riscrittura del testo in un linguaggio semplificato.",
+                "L'uso esclusivo di materiali audio senza supporto visivo.",
+                "L'eliminazione di tutte le parole difficili."
+            ],
+            "correctAnswer": "1"
+        },
+        {
+            "question": "01. Secondo Fabio Caon, quale dei seguenti è un vantaggio dell'uso della canzone nell'apprendimento linguistico?",
+            "options": [
+                "Elimina la necessità di altre forme di insegnamento.",
+                "Facilita l'attivazione di una motivazione basata sul piacere.",
+                "Richiede meno preparazione da parte dell'insegnante.",
+                "Garantisce sempre una perfetta comprensione del testo."
+            ],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "02. Quale delle seguenti non è una criticità menzionata nell'uso delle canzoni per l'insegnamento delle lingue?",
+            "options": [
+                "Il possibile sovraccarico sensoriale nel processare musica e testo.",
+                "Il linguaggio non standard e le forme gergali.",
+                "La pronuncia alterata per ragioni melodiche.",
+                "La necessità di conoscere la biografia del cantante."
+            ],
+            "correctAnswer": "4"
+        },
+        {
+            "question": "03. Cosa raccomanda Fabio Caon per organizzare la didattizzazione di una canzone?",
+            "options": [
+                "Utilizzare solo attività individuali per evitare distrazioni.",
+                "Programmare attività miste, individuali o a gruppi, che stimolino entrambi gli emisferi cerebrali.",
+                "Concentrarsi esclusivamente sugli aspetti grammaticali.",
+                "Prolungare il più possibile il lavoro su una singola canzone."
+            ],
+            "correctAnswer": "2"
+        },
+        {
+            "question": "01. Quale consiglio dà Nadia Fiamenghi per la selezione degli input audio?",
+            "options": [
+                "Utilizzare solo registrazioni professionali in studio.",
+                "Preferire audio di almeno cinque minuti di durata.",
+                "Selezionare esclusivamente dialoghi formali.",
+                "Scegliere testi brevi, non oltre trenta secondi, e quanto più possibile autentici."
+            ],
+            "correctAnswer": "4"
+        }
+    ]
+}
