@@ -1,2131 +1,2133 @@
-[
-    {
-        "question": "l'economia della conoscenza nasce",
-        "options": [
-            "con la rivoluzione francese",
-            "con la rivoluzione illuminista",
-            "con la rivoluzione industriale",
-            "nel dopoguerra"
-        ],
-        "correctAnswer": 3
-    },
-    {
-        "question": "la conoscenza produce valore attraverso",
-        "options": [
-            "la moltiplicazione degli usi",
-            "tutte vere",
-            "l'autoregolazione",
-            "l'endogenizzazione dei risultati"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "l'economia della conoscenza",
-        "options": [
-            "non coincide con l'economia dell'innovazione",
-            "coincide con l'economia dell'innovazione",
-            "coincide con l'economia neoclassica",
-            "non coincide con l'economia neoclassica"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "l'informazione è",
-        "options": [
-            "un dato strutturato originariamente attivo",
-            "un dato grezzo",
-            "un dato strutturato",
-            "un dato strutturato originariamente passivo"
-        ],
-        "correctAnswer": 4
-    },
-    {
-        "question": "il costo di replicazione dell'informazione",
-        "options": [
-            "è uguale al costo di riproduzione della conoscenza",
-            "è inferiore al costo di riproduzione della conoscenza",
-            "è superiore al costo di riproduzione della conoscenza",
-            "è diverso dal costo di riproduzione della conoscenza"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "la conoscenza si riproduce",
-        "options": [
-            "tramite apprendimento",
-            "tramite copia",
-            "tramite imitazione",
-            "tramite replicazione"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "la riproduzione della conoscenza richiede l'impiego",
-        "options": [
-            "di risorse immobilizzate",
-            "di risorse cognitive",
-            "tutte vere",
-            "di supporti digitali"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "sapere e conoscenza si distinguono per",
-        "options": [
-            "i costi di produzione",
-            "la possibilità di utilizzo industriale",
-            "l'esistenza di una certificazione",
-            "la possibilità di replicarsi"
-        ],
-        "correctAnswer": 3
-    },
-    {
-        "question": "la capacità di apprendimento è",
-        "options": [
-            "capacità di assorbimento della conoscenza",
-            "capacità di assorbimento dell'informazione",
-            "capacità di assorbiemento dei dati",
-            "capacità di assorbimento di una disciplina"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "l'invenzione",
-        "options": [
-            "risulta da un'attività che ha lo scopo di definirla",
-            "avviene in modo casuale",
-            "è il risultato di un'operazione di ricerca di qualcosa che già esiste",
-            "è il risultato di un'operazione di ricerca di qualcosa che non esiste"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "i costi marginali della conoscenza",
-        "options": [
-            "crescono all'aumentare della produzione",
-            "rimangono sempre costanti",
-            "decrescono all'aumentare della produzione",
-            "decrescono al diminuire della produzione"
-        ],
-        "correctAnswer": 3
-    },
-    {
-        "question": "la conoscenza è",
-        "options": [
-            "non escludibile",
-            "cumulativa",
-            "non rivale",
-            "tutte vere"
-        ],
-        "correctAnswer": 4
-    },
-    {
-        "question": "l'economia della conoscenza si caratterizza",
-        "options": [
-            "la rilevante quota di capitale tangibile e la diffusione della tecnologia",
-            "l'esigua quota di capitale intangibile e la diffusione della tecnologia",
-            "la diffusione della tecnologia",
-            "la rilevante quota di capitale intangibile e la diffusione della tecnologia"
-        ],
-        "correctAnswer": 4
-    },
-    {
-        "question": "il cambiamento tecnologico in atto",
-        "options": [
-            "ha migliorato la condizione dei lavoratori low skilled",
-            "ha peggiorato la condizione dei lavoratori low skilled",
-            "ha peggiorato la condizione di tutti i lavoratori",
-            "ha peggiorato la condizione dei lavoratori high skilled"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "si definiscono agenti di cambiamento",
-        "options": [
-            "tutte false",
-            "i lavoratori direttamente impiegati nella produzione",
-            "i lavoratori non direttamente impiegati nella produzione",
-            "i lavoratori che garantiscono il mantenimento dei modelli dominanti"
-        ],
-        "correctAnswer": 3
-    },
-    {
-        "question": "l'era del cambiamento permanente è determinata",
-        "options": [
-            "dal progresso tecnologico, dalla concorrenzialità dei mercati, dai diritti di proprietà",
-            "dalle tecnologie dell'informazione, dall'inefficienza dei mercati, dalla nascita della proprietà intellettuale",
-            "dalle tecnologie dell'informazione, dall'efficienza dei mercati, dalla crisi della proprietà intellettuale"
-        ],
-        "correctAnswer": 4
-    },
-    {
-        "question": "la ricerca di base",
-        "options": [
-            "crea conoscenza specifica",
-            "crea conoscenza pura",
-            "crea conoscenza tacita",
-            "crea conoscenza applicabile in ambiti circoscritti"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "l'apprendimento routinario",
-        "options": [
-            "avviene nei processi di ricerca organizzati",
-            "avviene ripetendo molte volte la medesima attività",
-            "avviene facendo esperienze che generano varietà di conoscenza",
-            "avviene imitando comportamenti altrui"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "la trasmissione della conoscenza tacita avviene",
-        "options": [
-            "solo in rari casi",
-            "con il trasferimento degli individui",
-            "tramite supporti digitali",
-            "solo in contesti specifici"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "attraverso la codificazione",
-        "options": [
-            "tutte false",
-            "aumentano i costi di memorizzazione e conservazione della conoscenza",
-            "si riducono i costi di memorizzazione e conservazione della conoscenza",
-            "si riduce la fruibilità della conoscenza"
-        ],
-        "correctAnswer": 3
-    },
-    {
-        "question": "la conoscenza codificata",
-        "options": [
-            "si può riprodurre poche volte",
-            "non si può riprodurre",
-            "è meno costosa della conoscenza tacita",
-            "si può riprodurre molte volte"
-        ],
-        "correctAnswer": 4
-    },
-    {
-        "question": "il processo di codificazione consente",
-        "options": [
-            "una riproduzione solo della conoscenza informale",
-            "la riproduzione solo parziale della conoscenza",
-            "una riproduzione solo della conoscenza formale",
-            "la riproduzione totale della conoscenza"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "per codificare la conoscenza è necessario",
-        "options": [
-            "definire il supporto",
-            "tutte vere",
-            "modellizzare la conoscenza tacita",
-            "sviluppare un linguaggio di codificazione"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "la codificazione implica",
-        "options": [
-            "la traduzione del sapere",
-            "la scomposizione del sapere",
-            "la ricomposizione del sapere",
-            "scomposizione e ricomposizione del sapere"
-        ],
-        "correctAnswer": 4
-    },
-    {
-        "question": "ingenti perdite di conoscenza possono aversi",
-        "options": [
-            "tutte vere",
-            "quando non ci sono cambiamenti tecnologici",
-            "quando esiste un rilevante turnover del personale",
-            "quando esiste un ridotto turnover del personale"
-        ],
-        "correctAnswer": 3
-    },
-    {
-        "question": "con le tecnologie dell'informazione si immagazzinano",
-        "options": [
-            "serie di istruzioni",
-            "conoscenza",
-            "documenti",
-            "serie di dati"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "in presenza di esternalità di conoscenza",
-        "options": [
-            "si ha un incentivo più che ottimale alla produzione",
-            "si ha un incentivo sub-ottimale alla produzione",
-            "si ha un danno per la società",
-            "tutte false"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "non escludibilità e cumulatività della conoscenza",
-        "options": [
-            "diminuiscono l'impatto delle esternalità",
-            "trasformano le esternalità negative in esternalità positive",
-            "aumentano l'impatto delle esternalità",
-            "la definiscono come un bene pubblico"
-        ],
-        "correctAnswer": 3
-    },
-    {
-        "question": "la non escludibilità implica",
-        "options": [
-            "che si possa interdire la fruizione a chi non paga un prezzo",
-            "che la conoscenza è un bene pubblico",
-            "che il consumo da parte di un soggetto riduca la possibilità di utilizzo da parte di altri",
-            "che non si possa interdire la fruizione a nessuno"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "in presenza di esternalità di conoscenza",
-        "options": [
-            "il produttore di un bene si appropria completamente dei rendimenti",
-            "la società subisce un danno",
-            "il produttore di un bene non riesce ad appropriarsi di tutti i vantaggi che ne derivano",
-            "si ha un gap di informazioni tra soggetti"
-        ],
-        "correctAnswer": 3
-    },
-    {
-        "question": "il costo marginale di uso della conoscenza è",
-        "options": [
-            "infinito",
-            "molto elevato",
-            "non esiste",
-            "quasi nullo"
-        ],
-        "correctAnswer": 4
-    },
-    {
-        "question": "la non rivalità della conoscenza implica che",
-        "options": [
-            "non si possa interdire la fruizione a nessuno",
-            "un'infinità di agenti possono usare la medesima conoscenza",
-            "la conoscenza è un bene pubblico",
-            "solo alcuni agenti possono usare la conoscenza"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "l'attribuzione di un brevetto determina la nascita di una posizione",
-        "options": [
-            "tutte false",
-            "di monopolio",
-            "di oligopolio",
-            "di concorrenza perfetta"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "per il bene conoscenza emerge un trade-off tra",
-        "options": [
-            "escludibilità e cumulabilità",
-            "efficiente utilizzo e giusto incentivo",
-            "efficiente produzione e giusto incentivo",
-            "rivalità e escludibilità"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "se i costi di codificazione/trasmissione della conoscenza sono elevati",
-        "options": [
-            "questa non è cumulabile",
-            "questa è non un bene pubblico",
-            "la cumulatività è molto alta",
-            "la cumulatività è ridotta"
-        ],
-        "correctAnswer": 4
-    },
-    {
-        "question": "con il diffondersi delle nuove tecnologie la non rivalità",
-        "options": [
-            "perde di importanza",
-            "tende ad essere eliminata",
-            "diventa un problema molto grave",
-            "cessa di essere un carattere del bene conoscenza"
-        ],
-        "correctAnswer": 3
-    },
-    {
-        "question": "attraverso il riconoscimento del diritto di autore",
-        "options": [
-            "si ripristina la non rivalità della conoscenza",
-            "si ripristina l'escludibilità della conoscenza",
-            "si ripristina l'escludibilità della conoscenza",
-            "si annulla la non rivalità della conoscenza"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "il settore pubblico si occupa di ricerca quando",
-        "options": [
-            "il rendimento sociale atteso è elevato",
-            "il rendimento privato è elevato",
-            "il rendimento sociale atteso è ridotto",
-            "non c'è rendimento privato"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "si parla di sapere aperto",
-        "options": [
-            "tutte false",
-            "con riferimento alla conoscenza codificata",
-            "con riferimento alla conoscenza di base",
-            "con riferimento alla conoscenza tacita"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "il diritto d'autore tutela",
-        "options": [
-            "la proprietà industriale",
-            "le opere letterarie",
-            "solo alcune invenzioni industriali",
-            "sia la proprietà industriale, sia le opere letterarie"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "la regola di priorità",
-        "options": [
-            "agisce solo in casi estremi",
-            "è un forte incentivo alla diffusione del sapere",
-            "è un forte incentivo al mantenimento della segretezza",
-            "è un forte incentivo alla brevettazione"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "il sapere aperto è diffuso",
-        "options": [
-            "attraverso le reti neurali",
-            "attraverso le pubblicazioni scientifiche",
-            "tutte false",
-            "attraverso le relazioni personali"
-        ],
-        "correctAnswer": 3
-    },
-    {
-        "question": "identificare e catalogare conoscenza consente",
-        "options": [
-            "di identificare la qualità dei processi di apprendimento",
-            "di identificare la qualità della conoscenza",
-            "di evitare sprechi di risorse e duplicazione di sforzi",
-            "di abbattere i costi di produzione della conoscenza"
-        ],
-        "correctAnswer": 3
-    },
-    {
-        "question": "il mantenimento della conoscenza è più agevole",
-        "options": [
-            "con l'esternalizzazione dei servizi di codificazione",
-            "con un ridotto turn over dei collaboratori",
-            "con l'esternalizzazione della produzione di conoscenza",
-            "con un elevato turnover dei lavoratori"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "nella gestione della conoscenza",
-        "options": [
-            "le imprese di grandi dimensioni sono avvantaggiate per la stabilità dei rapporti",
-            "le imprese di piccole dimensioni sono avvantaggiate per la stabilità dei rapporti",
-            "le imprese di grandi dimensioni sono svantaggiate dal lento turnover",
-            "le imprese di piccole dimensioni sono avvantaggiate per l'elevata velocità del turnover"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "il mercato della conoscenza",
-        "options": [
-            "è inefficiente a causa delle esternalità negative",
-            "è efficiente a causa delle esternalità negative",
-            "è inefficiente a causa delle esternalità positive",
-            "è efficiente a causa delle esternalità positive"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "due essenziali strategie di gestione della conoscenza sono",
-        "options": [
-            "tutte false",
-            "tutte vere",
-            "codificazione della conoscenza",
-            "condivisione della conoscenza tacita attraverso rapporti interpersonali"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "la codificazione della conoscenza fa emergere",
-        "options": [
-            "fallimenti del mercato",
-            "esternalità negative",
-            "aggravio di costi",
-            "economie di scala"
-        ],
-        "correctAnswer": 4
-    },
-    {
-        "question": "si ha privatizzazione della conoscenza",
-        "options": [
-            "nei mercati perfettamente concorrenziali",
-            "in presenza di brevetti molto contenuti",
-            "in assenza di brevetti",
-            "in presenza di brevetti molto estesi"
-        ],
-        "correctAnswer": 4
-    },
-    {
-        "question": "un brevetto troppo esteso",
-        "options": [
-            "è un ostacolo alla cumulabilità della conoscenza",
-            "aumenta la cumulabilità della conoscenza",
-            "origina fallimenti del mercato",
-            "è un incentivo alla cumulabilità della conoscenza"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "nell'ambito biotecnologico si parla spesso di",
-        "options": [
-            "esternalità di prossimità",
-            "tragedia dei commons",
-            "tragedia degli anti-commons",
-            "asimmetrie informative"
-        ],
-        "correctAnswer": 3
-    },
-    {
-        "question": "gli accordi esclusivi tra Università e impresa",
-        "options": [
-            "incentivano la cumulabilità della conoscenza",
-            "restringono l'ampiezza del sapere aperto",
-            "tutte false",
-            "ampliano l'ampiezza del sapere aperto"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "con le RJV",
-        "options": [
-            "tutte vere",
-            "si condividono le conoscenze",
-            "si abbattono i costi di ricerca",
-            "si riducono i rendimenti unitari della ricerca"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "si ha frammentazione della conoscenza nel caso di",
-        "options": [
-            "eccessivo turnover",
-            "brevettazione troppo estesa",
-            "eccessiva divisione del lavoro",
-            "ricerca condotta a livello di singola impresa"
-        ],
-        "correctAnswer": 3
-    },
-    {
-        "question": "l'educazione tradizionale",
-        "options": [
-            "consente un efficiente utilizzo delle risorse",
-            "impone la ridondanza nell'apprendimento",
-            "utilizza molto le nuove tecnologie",
-            "elimina la ridondanza nell'apprendimento"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "la moltiplicazione cognitiva si attiva attraverso",
-        "options": [
-            "la specializzazione",
-            "attraverso la condivisione",
-            "attraverso il mantenimento del segreto industriale",
-            "attraverso la brev"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "la divisione dell'apprendimento comporta",
-        "options": [
-            "esternalità di scopo",
-            "conoscenza sociale più ampia",
-            "conoscenza sociale più ristretta",
-            "conoscenza sociale nulla"
-        ],
-        "correctAnswer": 3
-    },
-    {
-        "question": "la conoscenza sociale è rischiosa perché",
-        "options": [
-            "ogni soggetto è autonomo",
-            "ogni soggetto ha un'ampia conoscenza generale",
-            "ogni soggetto dipende dal sapere altrui",
-            "ha un costo molto elevato"
-        ],
-        "correctAnswer": 3
-    },
-    {
-        "question": "per mantenere efficiente il sistema di produzione e diffusione della conoscenza è necessario",
-        "options": [
-            "il ri-uso deve essere impedito",
-            "il ri-uso deve essere senza spese",
-            "il ri-uso deve essere pagato",
-            "il ri-uso non deve esistere"
-        ],
-        "correctAnswer": 3
-    },
-    {
-        "question": "la conoscenza è",
-        "options": [
-            "una risorsa naturalmente scarsa",
-            "una risorsa artificialmente abbondante",
-            "una risorsa artificialmente scarsa",
-            "una risorsa artificialmente non rivale"
-        ],
-        "correctAnswer": 3
-    },
-    {
-        "question": "nel capitalismo cognitivo",
-        "options": [
-            "non si genera valore",
-            "si genera valore trasformando le capacità intellettive",
-            "si scambia la conoscenza",
-            "si genera valore trasformando una risorsa scarsa"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "il posizionamento competitivo nella knowledge era",
-        "options": [
-            "tutte vere",
-            "dipende dalle possibilità di accesso alle reti",
-            "dipende dai processi di apprendimento attivati",
-            "dipende dalla capacità di diffondere la conoscenza"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "la conoscenza sociale a livello di distretto industriale",
-        "options": [
-            "ha un costo molto elevato e origina dalle esternalità",
-            "ha un prezzo molto elevato",
-            "ha un prezzo molto contenuto",
-            "ha un costo quasi nullo e origina dalle esternalità"
-        ],
-        "correctAnswer": 4
-    },
-    {
-        "question": "nei modelli di crescita neoclassici la conoscenza",
-        "options": [
-            "è al centro del processo di crescita",
-            "è una variabile endogena",
-            "non viene considerata",
-            "è una variabile esogena"
-        ],
-        "correctAnswer": 4
-    },
-    {
-        "question": "l'imprenditore schumpeteriano è",
-        "options": [
-            "un'innovatore",
-            "un soggetto che stimola la crescita attraverso l'impiego di macchine avanzate",
-            "un soggetto con molti capitali da investire",
-            "un soggetto a razionalità limitata"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "la conoscenza codificata",
-        "options": [
-            "aumenta gradualmente valore per il produttore",
-            "perde gradualmente valore per il produttore",
-            "genera esternalità negative",
-            "perde gradualmente valore colui che la utilizza"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "si parla di pregiudizio storico con riferimento",
-        "options": [
-            "all'identificazione tra knowledge economy e settori knowledge intensive",
-            "all'identificazione tra conoscenza e informazione",
-            "alla focalizzazione su alcuni settori ad alta intensità di conoscenza",
-            "all'economia industriale ritenuta a basso contenuto di conoscenza"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "si parla di conoscenza che produce valore",
-        "options": [
-            "con riferimento alla conoscenza codificata",
-            "con riferimento alla conoscenza tacita",
-            "con riferimento alla conoscenza di base",
-            "con riferimento alla conoscenza tacita e codificata"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "si parla di pregiudizio settoriale con riferimento",
-        "options": [
-            "all'identificazione tra knowledge economy e settori knowledge intensive",
-            "alla conoscenza vista come elemento accessorio della crescita",
-            "all'identificazione tra conoscenza e informazione",
-            "tutte false"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "la seguente affermazione è corretta",
-        "options": [
-            "attualmente tutti i settori sono knowledge intensive",
-            "attualmente sono knowledge intensive solo i settori dell'high tech",
-            "attualmente nessun settore può definirsi knowledge intensive",
-            "attualmente solo i settori in cui è formalizzata un'attività di ricerca e sviluppo sono knowledge intensive"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "il lavoro cognitivo",
-        "options": [
-            "dell'utilizzatore è più importante di quello dello scienziato",
-            "dello scienziato è più importante di quello dell'utilizzatore",
-            "dello scienziato è importante come quello dell'utilizzatore",
-            "dello scienziato è l'unico che produce valore"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "per Schumpeter l'innovazione è",
-        "options": [
-            "il risultato di un'attività di ricerca e sviluppo",
-            "un'invenzione che può essere sfruttata a livello industriale",
-            "un atto che modifica il processo economico aumentando il profitto",
-            "è frutto del lavoro del ricercatore"
-        ],
-        "correctAnswer": 3
-    },
-    {
-        "question": "l'economia dell'innovazione",
-        "options": [
-            "si occupa della trasformazione delle esternalità in profitto",
-            "comprende l'economia della conoscenza",
-            "si occupa della trasformazione del potenziale cognitivo in valore economico",
-            "è un diverso modo di intendere l'economia della conoscenza"
-        ],
-        "correctAnswer": 3
-    },
-    {
-        "question": "l'economia della conoscenza",
-        "options": [
-            "è un fenomeno recente",
-            "è presente in ogni fase della storia moderna",
-            "coincide con l'economia dell'innovazione",
-            "è presente solo in alcune fasi della storia moderna"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "il pregiudizio competitivo",
-        "options": [
-            "assegna un vantaggio a coloro che fanno parte di una rete cognitiva",
-            "assegna un vantaggio all'utilizzatore di conoscenza",
-            "tutte vere",
-            "assegna un vantaggio al produttore di conoscenza"
-        ],
-        "correctAnswer": 4
-    },
-    {
-        "question": "la conoscenza deve essere diffusa perché",
-        "options": [
-            "solo così si attivano nuovi processi cognitivi",
-            "solo così produce valore",
-            "tutte vere",
-            "solo così si esplorano nuovi percorsi"
-        ],
-        "correctAnswer": 3
-    },
-    {
-        "question": "l'economia della conoscenza dal punto di vista sociale",
-        "options": [
-            "ci propone una società che si sviluppa sulla base della proprietà del capitale",
-            "ci propone una società che si sviluppa sulla partecipazione ai processi di apprendimento",
-            "ci propone una società che si sviluppa sulla creazione di conoscenza",
-            "ci propone una società che si sviluppa sulla proprietà dell'informazione"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "la politica sociale nell'era della conoscenza ha lo scopo di far funzionare",
-        "options": [
-            "diritti di proprietà e mercati",
-            "i mercati",
-            "i diritti di proprietà",
-            "i canali di accesso alla conoscenza"
-        ],
-        "correctAnswer": 4
-    },
-    {
-        "question": "nel distretto industriale si sfruttano",
-        "options": [
-            "le economie di scala a livello di grande impresa",
-            "le economie di scala a livello di territorio",
-            "le economie di scala su base aziendale",
-            "le economie di scala a livello di rete"
-        ],
-        "correctAnswer": 4
-    },
-    {
-        "question": "alla fine degli anni novanta le imprese italiane",
-        "options": [
-            "spendevano in ricerca il doppio delle imprese europee",
-            "spendevano in ricerca 1/10 delle imprese europee",
-            "spendevano in ricerca 1/2 di quelle europee",
-            "spendevano in ricerca 1/3 di quelle europee"
-        ],
-        "correctAnswer": 4
-    },
-    {
-        "question": "l'Italia è carente",
-        "options": [
-            "il learning by doing",
-            "l'investimento in apprendimento formale",
-            "il learning by interacting",
-            "l'investimento in apprendimento formale"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "In Italia è necessario creare",
-        "options": [
-            "interazioni che possano mitigare la divisione del lavoro",
-            "interazioni che possano accentuare la divisione del lavoro",
-            "sviluppare competenze in linea con quelle globali",
-            "sviluppare competenze locali"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "nelle economie pre-cognitive il lavoro è essenzialmente",
-        "options": [
-            "energetico",
-            "cognitivo",
-            "tutte false",
-            "intellettuale"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "i sistemi knowledge based aumentano la crescita grazie a",
-        "options": [
-            "l'incidentalità della scoperta",
-            "tutte vere",
-            "la dilatazione del consumo immateriale",
-            "l'esistenza del moltiplicatore"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "la propagazione della conoscenza produce",
-        "options": [
-            "applicazioni mancate",
-            "eccedenze cognitive",
-            "carenze cognitive",
-            "applicazioni immediate"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "la conoscenza",
-        "options": [
-            "è prodotta sempre per l'autoconsumo",
-            "è una risorsa condivisa",
-            "è usata per svolgere un'attività di produzione individuale",
-            "è una risorsa che appartiene al singolo individuo"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "separare proprietà formale e forza produttiva",
-        "options": [
-            "consente di evidenziare la centralità dell'individuo",
-            "consente di evidenziare la centralità della società globale",
-            "tutte vere",
-            "consente di evidenziare l'importanza della conoscenza"
-        ],
-        "correctAnswer": 3
-    },
-    {
-        "question": "se il prezzo di utilizzo della conoscenza è molto elevato",
-        "options": [
-            "non fallisce il mercato della conoscenza",
-            "non si hanno più esternalità negative",
-            "la conoscenza non è un bene pubblico",
-            "non si realizza più l'ibridazione della conoscenza"
-        ],
-        "correctAnswer": 4
-    },
-    {
-        "question": "nella knowledge era è determinante",
-        "options": [
-            "la centralità del territorio",
-            "il distretto cognitivo",
-            "la filiera cognitiva",
-            "la globalizzazione"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "alla risorsa conoscenza si accede",
-        "options": [
-            "attraverso condivisione delle esperienze",
-            "attraverso l'allocazione privata delle risorse",
-            "attraverso le norme giuridiche",
-            "attraverso il mercato"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "nella produzione di conoscenza si massimizza il vantaggio",
-        "options": [
-            "attraverso l'interdipendenza",
-            "attraverso l'opposizione",
-            "attraverso un forte regime proprietario",
-            "attraverso la cooperazione"
-        ],
-        "correctAnswer": 4
-    },
-    {
-        "question": "la diffusione della conoscenza tramite i diritti di proprietà si affianca sempre più ad una diffusione informale a causa",
-        "options": [
-            "tutte false",
-            "del decadimento della conoscenza",
-            "del valore fisso della conoscenza",
-            "dell'invariabilità della conoscenza"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "il valore della conoscenza rimane invariato durante il ciclo di vita",
-        "options": [
-            "rimane invariato durante il ciclo di vita",
-            "raddoppia durante il ciclo di vita",
-            "si riduce durante il ciclo di vita",
-            "aumenta durante il ciclo di vita"
-        ],
-        "correctAnswer": 3
-    },
-    {
-        "question": "la conoscenza è dissipativa perché",
-        "options": [
-            "rimane valida all'infinito",
-            "ha necessità di adattamento e aggiornamento",
-            "non deve essere reinventata",
-            "ha necessità di isolamento"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "in rete si scambiano",
-        "options": [
-            "cooperazione e diritti di proprietà",
-            "relazioni e diritti di proprietà",
-            "cooperazione e relazioni",
-            "prestazioni e diritti di proprietà"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "la diffusione di conoscenza",
-        "options": [
-            "è un processo che segue ritmi costanti",
-            "è un processo senza accelerazioni",
-            "è un processo continuo",
-            "è un processo discontinuo"
-        ],
-        "correctAnswer": 4
-    },
-    {
-        "question": "Affinché un'esperienza accresca l'utilità è necessario",
-        "options": [
-            "essere diligenti, intelligenti e fiduciosi",
-            "essere intelligenti, fantasiosi e creativi",
-            "essere diligenti, disposti al sacrificio, tenaci",
-            "essere istruiti, fantasiosi, fiduciosi"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "nell'ottica quantitativa, l'economia della conoscenza può comportare",
-        "options": [
-            "carenza di forza lavoro",
-            "sottostima del bisogno lavorativo",
-            "salari minimi",
-            "disoccupazione"
-        ],
-        "correctAnswer": 4
-    },
-    {
-        "question": "per la conoscenza che circola nei distretti o nelle reti si può parlare",
-        "options": [
-            "conoscenza strutturata e non strutturata",
-            "conoscenza articolata e non articolata",
-            "tutte false",
-            "conoscenza semplice e complessa"
-        ],
-        "correctAnswer": 3
-    },
-    {
-        "question": "la conoscenza implicita emerge",
-        "options": [
-            "con l'apprendimento evolutivo",
-            "emerge con l'apprendimento razionale",
-            "emerge con l'apprendimento tradizionale",
-            "emerge con l'apprendimento logico"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "la conoscenza genera valore",
-        "options": [
-            "attraverso la propagazione moltiplicativa",
-            "attraverso tutti questi metodi",
-            "attraverso l'abbandono dei regimi proprietari",
-            "attraverso l'utilizzo della conoscenza in ambiti specifici"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "(v) rappresenta",
-        "options": [
-            "la capacità della conoscenza di interpretare i bisogni",
-            "la moltiplicazione degli usi",
-            "l'appropriazione delle rendite",
-            "i singoli impieghi della conoscenza"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "(n) rappresenta",
-        "options": [
-            "il numero dei nuovi impieghi",
-            "le esternalità della conoscenza",
-            "la dotazione di conoscenza",
-            "l'efficacia della conoscenza"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "(V) rappresenta",
-        "options": [
-            "l'appropriazione della rendita derivante dall'impiego di conoscenza",
-            "la capacità della conoscenza di interpretare i bisogni",
-            "la somma delle utilità generate dal riuso della conoscenza",
-            "la moltiplicazione degli usi"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "la rendita psicologica",
-        "options": [
-            "è un surplus derivante dalla notorietà in ambito accademico",
-            "è l'utilità derivante dall'impiego di conoscenza",
-            "l'appropriazione della rendita derivante dall'impiego di conoscenza",
-            "è un surplus derivante dall'esperienza cognitiva"
-        ],
-        "correctAnswer": 4
-    },
-    {
-        "question": "il valore di (v) deriva dalla somma di",
-        "options": [
-            "prezzo di mercato, valore del ri-uso, valore implicito",
-            "prezzo di mercato, surplus di conoscenza, valore intrinseco",
-            "prezzo monetario, rendita di efficienza, valore implicito",
-            "prezzo monetario, rendita psicologica, valore intrinseco"
-        ],
-        "correctAnswer": 4
-    },
-    {
-        "question": "per aumentare il valore di (n)",
-        "options": [
-            "tutte vere",
-            "sviluppare nuove applicazioni",
-            "è necessario aumentare la quantità dei prodotti",
-            "aumentare l'ampiezza spaziale"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "la riproduzione del sapere",
-        "options": [
-            "tutte false",
-            "è meno costosa della riproduzione di un bene",
-            "è più costosa della riproduzione di un bene",
-            "costa quanto la riproduzione di un bene"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "i processi cognitivi",
-        "options": [
-            "sono sempre suddivisibili in unità elementari",
-            "sono scomponibili",
-            "in alcuni casi sono scomponibili",
-            "non sono scomponibili"
-        ],
-        "correctAnswer": 4
-    },
-    {
-        "question": "la singola impresa della filiera",
-        "options": [
-            "produce valore",
-            "produce e diffonde valore",
-            "diffonde valore",
-            "acquista valore"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "si massimizza il valore sociale della conoscenza",
-        "options": [
-            "quando le esternalità cognitive non si manifestano",
-            "quando esiste una brevettazione ampia",
-            "quando le esternalità cognitive si diffondono liberamente",
-            "quando esiste un forte regime proprietario"
-        ],
-        "correctAnswer": 3
-    },
-    {
-        "question": "(p) è il coefficiente",
-        "options": [
-            "indica la velocità di replicazione della conoscenza",
-            "indica il prezzo monetario dell'unità di conoscenza",
-            "indica il contributo di ognuno nella filiera",
-            "tutte false"
-        ],
-        "correctAnswer": 3
-    },
-    {
-        "question": "il fornitore può esercitare un notevole potere contrattuale se",
-        "options": [
-            "il bacino di utenza è molto numeroso",
-            "il bacino di utenza è scarso",
-            "il bene ha molti sostituti",
-            "il bene è fornito da molte imprese"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "gli switching costs",
-        "options": [
-            "sono molto elevati in presenza di costi irrecuperabili",
-            "sono molto contenuti in caso di personalizzazioni del prodotto",
-            "sono molto elevati in assenza di costi irrecuperabili",
-            "sono quasi nulli in presenza di costi irrecuperabili"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "gli switching costs sono molto elevati",
-        "options": [
-            "quando non ci sono alternative",
-            "quando le alternative provengono da produttori compatibili con gli standard in uso",
-            "quando le alternative provengono da produttori con scarsa reputazione",
-            "quando le alternative provengono da produttori con alta reputazione"
-        ],
-        "correctAnswer": 3
-    },
-    {
-        "question": "nel caso di rendita psicologica molto elevata",
-        "options": [
-            "possono essere accettate remunerazioni contenute",
-            "si accettano solo remunerazioni molto elevate",
-            "non possono esserci remunerazioni monetarie",
-            "si rifiutano le remunerazioni monetarie"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "si può rappresentare l'insieme delle possibili combinazioni di v,n,p",
-        "options": [
-            "come un rettangolo che ai lati ha le forme di conoscenza",
-            "come un rettangolo che ai lati ha i rendimenti attesi",
-            "come un triangolo che ai vertici ha le forme di conoscenza",
-            "come un triangolo che ai vertici ha i tassi di rendimento"
-        ],
-        "correctAnswer": 3
-    },
-    {
-        "question": "quando la conoscenza è standard",
-        "options": [
-            "il valore generato tende a zero",
-            "il valore generato tende ad aumentare",
-            "il valore generato tende a infinito",
-            "il valore generato è sostenibile"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "quando si massimizza uno solo dei driver",
-        "options": [
-            "Ei assume valori molto bassi",
-            "Ei assume valori molto sostenibili",
-            "Ei assume valori molto elevati",
-            "Ei assume valori nulli"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "di norma, se aumenta la propagazione",
-        "options": [
-            "si avranno valori marginali decrescenti di (v)",
-            "v tende ad infinito",
-            "si avranno valori costanti di (v)",
-            "si avranno valori marginali crescenti di (v)"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "Ei=",
-        "options": [
-            "v*n",
-            "v*pi",
-            "npi",
-            "v*npi"
-        ],
-        "correctAnswer": 4
-    },
-    {
-        "question": "una filiera produttiva è efficace quando",
-        "options": [
-            "si minimizzano i costi, si massimizza il valore, si disincentiva l'investimento",
-            "si minimizzano i costi, si distribuisce in modo equo il valore, si incentiva l'investimento",
-            "si massimizza il valore, si minimizzano i costi, si riduce l'investimento",
-            "si massimizza il valore, lo si distribuisce, si alimenta l'investimento"
-        ],
-        "correctAnswer": 4
-    },
-    {
-        "question": "incrementare il valore di (n)",
-        "options": [
-            "è possibile allargando gli usi a contesti contigui a quello originario",
-            "è impossibile",
-            "riduce il valore di (v)",
-            "aumenta il valore di (v)"
-        ],
-        "correctAnswer": 3
-    },
-    {
-        "question": "si aumenta la moltiplicazione della conoscenza",
-        "options": [
-            "aumentando replicazione e condivisione",
-            "aumentando l'efficienza",
-            "aumentando la regolazione della proprietà intellettuale",
-            "riducendo replicazione e condivisione"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "i costi di diffusione della conoscenza sono",
-        "options": [
-            "nulli",
-            "completamente fissi",
-            "prevalentemente fissi",
-            "prevalentemente variabili"
-        ],
-        "correctAnswer": 4
-    },
-    {
-        "question": "il costo marginale di propagazione della conoscenza",
-        "options": [
-            "è crescente",
-            "ha un andamento a scalini",
-            "è decrescente",
-            "è costante"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "G=",
-        "options": [
-            "ricavi - costi marginali",
-            "ricavi - costi variabili",
-            "ricavi - costi totali",
-            "ricavi - costi fissi"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "R=",
-        "options": [
-            "ricavi - costi fissi",
-            "ricavi - costi totali",
-            "ricavi - costi marginali",
-            "ricavi - costi variabili"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "Πi (reddito estratto) =",
-        "options": [
-            "(Ei – CVi)=n (v* pi – ci*)",
-            "(Ei – Fi)=n (v* pi – ci*)",
-            "tutte false",
-            "Ei – CVi – Fi)=n (v* pi – ci*) - Fi"
-        ],
-        "correctAnswer": 4
-    },
-    {
-        "question": "i costi di diffusione comprendono",
-        "options": [
-            "costi di codificazione, riproduzione, trasferimento logistico e governance",
-            "costi di validazione, riproduzione, trasferimento logistico e governance",
-            "costi di validazione, innovazione, trasferimento logistico e governance",
-            "costi di validazione, codificazione, trasferimento cognitivo e governance"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "i costi di trasferimento logistico riguardano",
-        "options": [
-            "la replicazione del sapere",
-            "la gestione delle relazioni di condivisione",
-            "il trasferimento della conoscenza dal contesto originario",
-            "la verifica della conoscenza"
-        ],
-        "correctAnswer": 3
-    },
-    {
-        "question": "una propagazione senza rigenerazione",
-        "options": [
-            "aumenta l'effetto di moltiplicazione",
-            "blocca l'effetto di moltiplicazione",
-            "determina rendimenti maggiori delle attese",
-            "aumenta l'effetto di moltiplicazione e determina rendimenti maggiori delle attese"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "possiamo affermare",
-        "options": [
-            "che i costi di diffusione sono variabili",
-            "che i costi di diffusione variano in funzione di (n)",
-            "tutte vere",
-            "che i costi di diffusione non sono distribuiti in modo uniforme"
-        ],
-        "correctAnswer": 3
-    },
-    {
-        "question": "la conoscenza che diffondendosi diventa standard",
-        "options": [
-            "il valore estratto dai produttori si annulla",
-            "il valore estratto dai produttori viene completamente assorbito dai consumatori",
-            "tutte vere",
-            "il valore estratto dai produttori può crescere"
-        ],
-        "correctAnswer": 4
-    },
-    {
-        "question": "quando la conoscenza diventa matura",
-        "options": [
-            "tutte false",
-            "(n) diventa uguale a zero",
-            "(n) cresce in modo inerziale",
-            "(n) accelera la crescita"
-        ],
-        "correctAnswer": 3
-    },
-    {
-        "question": "allontanandosi dal contesto di origine",
-        "options": [
-            "l'utilità della conoscenza rimane invariata",
-            "l'utilità della conoscenza decresce",
-            "l'utilità della conoscenza aumenta",
-            "l'utilità della conoscenza tende a infinito"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "g(n)=",
-        "options": [
-            "v(n)+C(n)",
-            "v(n)*c(n)",
-            "v(n) - c(n)",
-            "v(n)/c(n)"
-        ],
-        "correctAnswer": 3
-    },
-    {
-        "question": "elevati valori di elasticità si rilevano",
-        "options": [
-            "quando si individuano soluzioni specifiche",
-            "con applicazioni ampie e diffuse",
-            "con applicazioni generali e soluzioni specifiche",
-            "con applicazioni di nicchia"
-        ],
-        "correctAnswer": 3
-    },
-    {
-        "question": "fino a quando g>0",
-        "options": [
-            "ogni nuovo uso riduce il valore netto di G",
-            "si espandono gli usi",
-            "ogni nuovo uso riduce il valore di V",
-            "si riducono gli usi"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "si hanno circuiti di auto-incentivazione quando",
-        "options": [
-            "i rendimenti sono crescenti",
-            "le imprese operano in contesti molto distanti tra loro",
-            "non ci sono scambi di conoscenze",
-            "il valore di (n) si riduce"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "il moltiplicatore potenziale della conoscenza è",
-        "options": [
-            "l'insieme di coloro che vorrebbero usare la conoscenza per fini specifici",
-            "l'insieme dei possibili produttori della conoscenza specifica",
-            "l'insieme dei possibili produttori di conoscenza",
-            "l'insieme dei possibili utilizzatori della conoscenza"
-        ],
-        "correctAnswer": 4
-    },
-    {
-        "question": "il tasso di profitto è",
-        "options": [
-            "il rapporto tra reddito estratto dal singolo operatore e gli investimenti effettuati da tutti gli operatori",
-            "il rapporto tra reddito generato dalla filiera e gli investimenti effettuati da tutti gli operatori",
-            "il rapporto tra reddito estratto ed investimento del singolo operatore",
-            "il rapporto tra reddito generato dalla filiera ed investimento del singolo operatore"
-        ],
-        "correctAnswer": 3
-    },
-    {
-        "question": "le quote attribuite ad ogni operatore della filiera dipendono",
-        "options": [
-            "dal reddito estratto e dalla capacità di interazione",
-            "dal reddito estratto e dal profitto di filiera",
-            "dal potere contrattuale e dal reddito estratto",
-            "dal potere contrattuale e dalla capacità di interazione"
-        ],
-        "correctAnswer": 4
-    },
-    {
-        "question": "r=",
-        "options": [
-            "(V-C-F)",
-            "(V-C)/F",
-            "(C-F)/F",
-            "(V-C-F)/F"
-        ],
-        "correctAnswer": 4
-    },
-    {
-        "question": "il valore assunto da gF* influenza",
-        "options": [
-            "la sensibilità di (r) alle variazioni di (n)",
-            "la sensibilità di (r)",
-            "la sensibilità di (n)",
-            "la sensibilità di (n) alle variazioni di (r)"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "il tasso di profitto individuale dipende dalla produttività aggregata, quindi",
-        "options": [
-            "gli operatori possono avere incentivo a ridurre la cooperazione",
-            "gli operatori possono avere incentivo ad aumentare i conflitti",
-            "gli operatori possono avere incentivo ad aumentare la competizione",
-            "gli operatori possono avere incentivo a cooperare"
-        ],
-        "correctAnswer": 4
-    },
-    {
-        "question": "la strategia moltiplicativa",
-        "options": [
-            "riduce il valore generato dalla filiera",
-            "aumenta il valore generato dalla filiera e quello estratto dal singolo operatore",
-            "aumenta il valore generato dalla filiera",
-            "aumenta il valore estratto dal singolo operatore della filiera"
-        ],
-        "correctAnswer": 3
-    },
-    {
-        "question": "i modelli logici sono esempi di",
-        "options": [
-            "mediatori istituzionali",
-            "mediatori interpretativi",
-            "mediatori collaborativi",
-            "mediatori moltiplicativi"
-        ],
-        "correctAnswer": 4
-    },
-    {
-        "question": "possiamo avere mediatori cognitivi",
-        "options": [
-            "codificabili, moltiplicabili, propagabili",
-            "interpretativi, assertivi, collaborativi",
-            "interpretativi, moltiplicativi, istituzionali",
-            "codificabili, moltiplicabili, estraibili"
-        ],
-        "correctAnswer": 3
-    },
-    {
-        "question": "il sistema scientifico tecnologico è un esempio",
-        "options": [
-            "di mediatore moltiplicativo",
-            "di mediatore istituzionale",
-            "tutte vere",
-            "di mediatore interpretativo"
-        ],
-        "correctAnswer": 4
-    },
-    {
-        "question": "i mediatori interpretativi agiscono prevalentemente su",
-        "options": [
-            "(v)",
-            "(n)",
-            "(v) e (n)",
-            "(p)"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "le knowledge company",
-        "options": [
-            "sono imprese snelle",
-            "sono imprese che investono ingenti capitali in attesa di rendimenti di medio e lungo termine",
-            "sono imprese organizzate in modo rigidamente gerarchico",
-            "sono le imprese dedite alla creazione di conoscenza"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "il knowledge management interviene",
-        "options": [
-            "sull'appropriazione delle conoscenze",
-            "tutte vere",
-            "sul ri-uso della conoscenza",
-            "sull'efficacia delle soluzioni elaborate"
-        ],
-        "correctAnswer": 0
-    },
-    {
-        "question": "le conoscenze contestuali",
-        "options": [
-            "sono accessibili solo mediante esperienza precedente",
-            "tutte vere",
-            "sono uniche",
-            "sono incorporate nel contesto"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "conoscenza effettivamente utilizzabile=",
-        "options": [
-            "conoscenze pregresse+nuovi contenuti-conoscenze non più utili",
-            "conoscenze pregresse-nuovi contenuti+conoscenze non più utili",
-            "conoscenze pregresse+nuovi contenuti+conoscenze non più utili",
-            "conoscenze pregresse-nuovi contenuti-conoscenze non più utili"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "con la socializzazione della conoscenza",
-        "options": [
-            "questa non è più rilevante",
-            "non si ha più vantaggio competitivo",
-            "questa scompare",
-            "questa diventa esclusiva"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "meta-conoscenze, conoscenze connettive e contestuali",
-        "options": [
-            "non determinano differenze di rendite ritraibili dalla conoscenza",
-            "non determinano differenze di produttività",
-            "determinano differenze di produttività",
-            "sono disponibili in modo simmetrico"
-        ],
-        "correctAnswer": 3
-    },
-    {
-        "question": "l'indivisibilità temporale dei processi cognitivi",
-        "options": [
-            "rende oggettiva l'attribuzione dei costi",
-            "rende oggettiva l'attribuzione dei ricavi",
-            "rende difficile l'attribuzione dei ricavi",
-            "rende impossibile l'attribuzione dei ricavi"
-        ],
-        "correctAnswer": 3
-    },
-    {
-        "question": "nella società aperta di Popper",
-        "options": [
-            "critica e accesso libero validano la conoscenza",
-            "i processi sono meno efficienti",
-            "critica e accesso libero inficiano il valore della conoscenza",
-            "i processi sono meno affidabili"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "una macchina è",
-        "options": [
-            "capitale che incorpora lavoro cognitivo",
-            "lavoro energetico puro",
-            "tutte false",
-            "lavoro cognitivo puro"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "la macchina è",
-        "options": [
-            "capitale che incorpora lavoro cognitivo",
-            "capitale fisico senza lavoro cognitivo",
-            "una sintesi del lavoro cognitivo",
-            "tutte false"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "si inizia a parlare di produzione di valore a mezzo trasformazione cognitiva",
-        "options": [
-            "dalla seconda metà del settecento",
-            "dal ventunesimo secolo",
-            "dalla seconda metà dell'ottocento",
-            "dal ventesimo secolo"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "la trasformazione energetica",
-        "options": [
-            "è di tipo innovativo",
-            "è di tipo incrementale",
-            "è di tipo conservativo",
-            "non è più presenti nei processi produttivi"
-        ],
-        "correctAnswer": 3
-    },
-    {
-        "question": "il prodotto del lavoro energetico",
-        "options": [
-            "evidenzia un valore di (n) molto elevato",
-            "è utilizzabile una sola volta",
-            "è moltiplicabile",
-            "evidenzia un valore di (n) nullo"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "la produttività marginal congiunta",
-        "options": [
-            "deriva dall'uso integrato della conoscenza",
-            "deriva dall'uso integrato della conoscenza e del lavoro energetico",
-            "non si può calcolare",
-            "deriva dall'uso integrato dei mezzi di produzione"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "il sistema meta-cognitivo",
-        "options": [
-            "genera solo costi",
-            "produce conoscenze frubili in modo molto ampio e generalista",
-            "produce conoscenze frubili in modo ridotto",
-            "non produce conoscenze fruibili"
-        ],
-        "correctAnswer": 3
-    },
-    {
-        "question": "il processo moltiplicativo che genera valore dalla conoscenza",
-        "options": [
-            "non è applicabile al lavoro cognitivo",
-            "è applicabile al lavoro cognitivo e al lavoro energetico",
-            "è applicabile solo al lavoro cognitivo",
-            "è applicabile solo al lavoro energetico"
-        ],
-        "correctAnswer": 3
-    },
-    {
-        "question": "l'effetto leva nell'economia della conoscenza si sviluppa grazie",
-        "options": [
-            "a (g) e (p)",
-            "a (n) e (p)",
-            "a (g) e (n)",
-            "a (n) e (g)"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "la maggior parte delle conoscenze impiegate nella produzione",
-        "options": [
-            "è frutto di processi endogeni di apprendimento",
-            "tutte false",
-            "è frutto di processi esogeni di apprendimento",
-            "è frutto di processi energetici"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "il processo di produzione del sapere",
-        "options": [
-            "è irreversibile",
-            "tutte false",
-            "è reversibile",
-            "è parzialmente reversibile"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "la scienza è codificata",
-        "options": [
-            "per garantirne la veridicità",
-            "per garantirne la replicabilità",
-            "per garantirne la trasferibilità",
-            "per garantirne la reversibilità"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "Romer ritiene",
-        "options": [
-            "la ricerca di base coincidente con il know-how tacito",
-            "la ricerca di base codificata",
-            "la ricerca di base altamente appropriabile",
-            "la ricerca applicata codificata"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "David e Foray definiscono l'informazione",
-        "options": [
-            "come combinazione fluida di esperienze e valori",
-            "come dati già elaborati",
-            "come elementi attivi",
-            "come un insieme strutturato di dati"
-        ],
-        "correctAnswer": 4
-    },
-    {
-        "question": "le comunità epistemiche",
-        "options": [
-            "tutte vere",
-            "si fondano sulle meta-conoscenze",
-            "si fondano sulle conoscenze applicate",
-            "si fondano sulle conoscenze di base"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "applicando le routine",
-        "options": [
-            "si moltiplica la conoscenza",
-            "si creano nuove conoscenze",
-            "tutte vere",
-            "si riutilizzano conoscenze sedimentate"
-        ],
-        "correctAnswer": 4
-    },
-    {
-        "question": "l'approccio connessionistico ritiene che",
-        "options": [
-            "le basi materiali sono sostituibili tra loro",
-            "la base materiale è alternativa al programma mentale",
-            "base materiale e programma mentale non si possano scindere",
-            "base materiale e programma mentale si possano scindere"
-        ],
-        "correctAnswer": 3
-    },
-    {
-        "question": "il computer connessionista",
-        "options": [
-            "si limita ad effettuare elaborazioni",
-            "impara",
-            "si limita ad eseguire calcoli in modo veloce",
-            "si limita ad eseguire istruzioni"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "con l'apprendimento logico-razionale",
-        "options": [
-            "tutte false",
-            "si individuano soluzioni uniche per ogni caso",
-            "si selezionano teorie specifiche per ogni caso",
-            "si procede per prova ed errore"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "con l'apprendimento evolutivo",
-        "options": [
-            "si genera un numero ristretto di mutazioni da sperimentare",
-            "si propagano tutte le mutazioni individuate",
-            "si utilizzano tutte le mutazioni individuate",
-            "si generano molte mutazioni da sperimentare"
-        ],
-        "correctAnswer": 4
-    },
-    {
-        "question": "l'apprendimento evolutivo",
-        "options": [
-            "genera un numero ristretto di mutazioni da sperimentare",
-            "procede per prova ed errore",
-            "utilizza tutte le possibili mutazioni individuate",
-            "prevede ricerca di base e ricerca applicata"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "l'apprendimento evolutivo",
-        "options": [
-            "è efficiente quando il percorso di miglioramento è graduale e continuo",
-            "non ha alcun difetto",
-            "è efficiente quando il percorso di miglioramento è estemporaneo",
-            "non è mai pienamente efficiente"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "nelle grandi imprese si è utilizzato prevalentemente",
-        "options": [
-            "apprendimento interattivo",
-            "apprendimento di base",
-            "apprendimento logico-razionale",
-            "apprendimento evolutivo"
-        ],
-        "correctAnswer": 3
-    },
-    {
-        "question": "per la conoscenza è opportuno immaginare",
-        "options": [
-            "forme di regolazione proprietaria fondate sul brevetto",
-            "forme di regolazione proprietaria fondate sul diritto di proprietà",
-            "forme di regolazione proprietaria fondate sul diritto di proprietà esclusivo",
-            "forme di regolazione proprietaria fondate su sistemi di relazione"
-        ],
-        "correctAnswer": 4
-    },
-    {
-        "question": "i CAS sono",
-        "options": [
-            "formati da agenti che sviluppano percorsi di co-evoluzione",
-            "formati da agenti che sviluppano percorsi di co-evoluzione",
-            "formati da soggetti che non si adattano, ma si integrano",
-            "formati da popolazioni di agenti che intraprendono percorsi indipendenti, centri autonomi scientifici"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "i sistemi creano",
-        "options": [
-            "legami forti",
-            "legami deboli",
-            "legami forti come le interdipendenze",
-            "l'assenza di un legame"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "le imprese sono",
-        "options": [
-            "sistemi che non rigenerano la propria identità",
-            "sistemi che non assorbono i cambiamenti, ma li arginano",
-            "tutte false",
-            "sistemi autoriferiti"
-        ],
-        "correctAnswer": 4
-    },
-    {
-        "question": "secondo Vicari",
-        "options": [
-            "l'impresa è un sistema cognitivo di tipo autopoietico",
-            "l'impresa è un sistema chiuso di tipo autopoietico",
-            "l'impresa è un sistema industriale di tipo autopoietico",
-            "l'impresa è un sistema cognitivo di tipo autopoietico"
-        ],
-        "correctAnswer": 4
-    },
-    {
-        "question": "la propagazione lineare",
-        "options": [
-            "ha un costo prossimo allo zero",
-            "è molto efficace",
-            "ha un costo elevatissimo",
-            "ha un costo elevatissimo ed è molto efficace"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "l'intelligenza è collettiva se",
-        "options": [
-            "se la conoscenza è modulare e additiva",
-            "se la conoscenza non è modulare e non è additiva",
-            "se la conoscenza è modulare e non è additiva",
-            "se la conoscenza non è modulare e è additiva"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "le eccedenze cognitive",
-        "options": [
-            "non sono impiegabili in modo efficace",
-            "rappresentano un costo irrecuperabile",
-            "non esistono",
-            "consentono di esplorare potenzialità future"
-        ],
-        "correctAnswer": 4
-    },
-    {
-        "question": "Kondratieff",
-        "options": [
-            "ritiene che i cicli possano durare 50/60 anni",
-            "tutte vere",
-            "ogni onda della storia economica è unica",
-            "ogni onda è caratterizzata da paradigmi tecnologici diversi"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "la seconda onda di Kondratieff",
-        "options": [
-            "coincide con la diffusione della macchina a vapore",
-            "coincide con la massiccia diffusione dell'acciaio",
-            "coincide con la prima rivoluzione industriale",
-            "si colloca tra la fine del diciannovesimo secolo e l'inizio del ventesimo"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "l'economia della conoscenza ottiene una ribalta",
-        "options": [
-            "durante la quinta onda di Kondratieff",
-            "durante la seconda onda di Kondratieff",
-            "durante la quarta onda di Kondratieff",
-            "durante la prima onda di Kondratieff"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "gli oneri connessi all'investimento in capitale umano riguardano",
-        "options": [
-            "mancati guadagni",
-            "oneri connessi alla difficoltà di apprendimento",
-            "tutte vere",
-            "spese dirette, come le tasse universitarie"
-        ],
-        "correctAnswer": 3
-    },
-    {
-        "question": "con la modellizzazione della conoscenza",
-        "options": [
-            "si individua un linguaggio per la codificazione",
-            "si fissa il sapere su un supporto materiale",
-            "si ricompone il sapere in moduli",
-            "si scompone il sapere e si procede alla codificazione"
-        ],
-        "correctAnswer": 4
-    },
-    {
-        "question": "Porter individua le seguenti modalità di apprendimento",
-        "options": [
-            "auditory learners, visual learners, passive learners",
-            "auditory learners, interactive learners, kinesthetic learners",
-            "auditory learners, visual learners, kinesthetic learners",
-            "auditory learners, web learners, kinesthetic learners"
-        ],
-        "correctAnswer": 3
-    },
-    {
-        "question": "nell'apprendimento online è molto carente",
-        "options": [
-            "la quantità dei contenuti conoscitivi",
-            "la validazione del sapere",
-            "l'interazione",
-            "la condivisione del sapere"
-        ],
-        "correctAnswer": 3
-    },
-    {
-        "question": "l'e-learning",
-        "options": [
-            "consente di realizzare economie di scala grazie alla possibilità di duplicare i contenuti",
-            "determina diseconomie di scala grazie alla possibilità di duplicare i contenuti",
-            "tutte false",
-            "consente di realizzare economie di scala grazie alla mancanza di interazione"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "l'educazione virtuale è una regola e non un'eccezione",
-        "options": [
-            "a Hong Kong",
-            "in Islanda",
-            "in Europa",
-            "in Corea del Sud"
-        ],
-        "correctAnswer": 4
-    },
-    {
-        "question": "con l'e-learning",
-        "options": [
-            "è molto difficile trasmettere conoscenza tacita",
-            "è molto difficile trasmettere conoscenza codificata",
-            "è molto semplice trasmettere conoscenza tacita",
-            "è molto facile trasmettere qualsiasi tipo di conoscenza"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "il modello open society",
-        "options": [
-            "prevede che l'apprendimento continuo si realizzi nei paesi democratici",
-            "prevede che lo sviluppo si ottenga attraverso l'uguaglianza di opportunità",
-            "è un modello in cui il life-long learning consente lo sviluppo di competenze per la crescita economica",
-            "tutte vere"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "il modello di life-long learning più appropriato per la società della conoscenza è",
-        "options": [
-            "il modello open society",
-            "il modello del capitale umano",
-            "il modello di giustizia sociale",
-            "il modello culturale"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "il life long learning",
-        "options": [
-            "si focalizza sull'apprendimento piuttosto che sull'educazione",
-            "tutte vere",
-            "riguarda l'apprendimento lungo il tutto il corso della vita",
-            "riguarda l'apprendimento in tutti i contesti"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "si parla di pregiudizio storico (Matthew effect)",
-        "options": [
-            "quando gli iniziali vantaggi di un soggetto si traducono in una riduzione dei rendimenti",
-            "quando gli iniziali svantaggi di un soggetto si traducono in una riduzione dei rendimenti",
-            "quando gli iniziali vantaggi di un soggetto si traducono in un aumento dei rendimenti",
-            "quando un paese, grazie alla tecnologia, riesce ad effettuare dei 'salti' nello sviluppo della conoscenza"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "si parla di digital divide con riferimento",
-        "options": [
-            "al divario tra chi possiede conoscenze/competenze e chi non le possiede",
-            "il divario tra paesi ricchi e paesi poveri",
-            "al divario tra chi possiede la tecnologia e chi non la possiede",
-            "il divario tra paesi avanzati e paesi in via di sviluppo"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "l'andamento del DESI mostra",
-        "options": [
-            "una posizione brillante dell'Italia in tema di digitalizzazione nel panorama internazionale",
-            "una posizione mediocre dell'Italia",
-            "un forte divario rispetto agli altri paesi europei",
-            "informazioni non sufficienti per una valutazione"
-        ],
-        "correctAnswer": 3
-    },
-    {
-        "question": "più dell'80% di coloro che non hanno mai navigato in rete",
-        "options": [
-            "ha piu' di 30 anni",
-            "ha piu' di 60 anni",
-            "ha piu' di 40 anni",
-            "ha piu' di 50 anni"
-        ],
-        "correctAnswer": 4
-    },
-    {
-        "question": "il divario globale riguarda",
-        "options": [
-            "differenze tra ricchi e poveri nell'alfabetizzazione digitale",
-            "differenze tra generazioni con gradi di alfabetizzazione digitale diversi",
-            "differenze tra paesi con gradi di sviluppo diversi",
-            "differenze di genere nell'alfabetizzazione digitale"
-        ],
-        "correctAnswer": 3
-    },
-    {
-        "question": "l'esperienza indica",
-        "options": [
-            "il tempo speso nell'apprendimento di un compito complesso",
-            "tutte false",
-            "il tempo speso nell'apprendimento della tecnologia",
-            "il tempo speso nella creazione di conoscenza"
-        ],
-        "correctAnswer": 3
-    },
-    {
-        "question": "l'ICI rappresenta",
-        "options": [
-            "indicatore di controllo dell'alfabetizzazione informatica in Europa",
-            "indicatore di controllo della qualità della connessione",
-            "indicatore di controllo dell'alfabetizzazione informatica in USA",
-            "indicatore di controllo delle divergenze di qualità della connessione"
-        ],
-        "correctAnswer": 4
-    },
-    {
-        "question": "l'apartheid digitale è",
-        "options": [
-            "la mancanza di infrastrutture e di competenze",
-            "l'esclusione di alcune classi sociali alla rete nell'economia USA",
-            "la mancanza di competenze informatiche in molte aree africane",
-            "la mancanza di infrastrutture tecnologiche in molte aree africane"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "per digital inequality si intende",
-        "options": [
-            "la scarsa capacità di utilizzo della tecnologia",
-            "la diseguale dotazione di infrastrutture",
-            "la scarsa capacità di utilizzo della tecnologia e l'ineguale dotazione di infrastrutture",
-            "il gap sociale che si crea tra coloro che utilizzano tecnologia e coloro che non la utilizzano"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "nel Global Competitiveness report",
-        "options": [
-            "l'italia occupa l'ottavo posto in Europa per avanzamento tecnologico",
-            "l'italia occupa l'ottavo posto nel mondo per avanzamento tecnologico",
-            "l'italia occupa l'ottavo in Europa per avanzamento tecnologico",
-            "l'italia occupa il decimo posto posto nel mondo per avanzamento tecnologico"
-        ],
-        "correctAnswer": 2
-    }
-]
+{
+    "questions": [
+        {
+            "question": "l'economia della conoscenza nasce",
+            "options": [
+                "con la rivoluzione francese",
+                "con la rivoluzione illuminista",
+                "con la rivoluzione industriale",
+                "nel dopoguerra"
+            ],
+            "correctAnswer": 3
+        },
+        {
+            "question": "la conoscenza produce valore attraverso",
+            "options": [
+                "la moltiplicazione degli usi",
+                "tutte vere",
+                "l'autoregolazione",
+                "l'endogenizzazione dei risultati"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "l'economia della conoscenza",
+            "options": [
+                "non coincide con l'economia dell'innovazione",
+                "coincide con l'economia dell'innovazione",
+                "coincide con l'economia neoclassica",
+                "non coincide con l'economia neoclassica"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "l'informazione è",
+            "options": [
+                "un dato strutturato originariamente attivo",
+                "un dato grezzo",
+                "un dato strutturato",
+                "un dato strutturato originariamente passivo"
+            ],
+            "correctAnswer": 4
+        },
+        {
+            "question": "il costo di replicazione dell'informazione",
+            "options": [
+                "è uguale al costo di riproduzione della conoscenza",
+                "è inferiore al costo di riproduzione della conoscenza",
+                "è superiore al costo di riproduzione della conoscenza",
+                "è diverso dal costo di riproduzione della conoscenza"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "la conoscenza si riproduce",
+            "options": [
+                "tramite apprendimento",
+                "tramite copia",
+                "tramite imitazione",
+                "tramite replicazione"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "la riproduzione della conoscenza richiede l'impiego",
+            "options": [
+                "di risorse immobilizzate",
+                "di risorse cognitive",
+                "tutte vere",
+                "di supporti digitali"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "sapere e conoscenza si distinguono per",
+            "options": [
+                "i costi di produzione",
+                "la possibilità di utilizzo industriale",
+                "l'esistenza di una certificazione",
+                "la possibilità di replicarsi"
+            ],
+            "correctAnswer": 3
+        },
+        {
+            "question": "la capacità di apprendimento è",
+            "options": [
+                "capacità di assorbimento della conoscenza",
+                "capacità di assorbimento dell'informazione",
+                "capacità di assorbiemento dei dati",
+                "capacità di assorbimento di una disciplina"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "l'invenzione",
+            "options": [
+                "risulta da un'attività che ha lo scopo di definirla",
+                "avviene in modo casuale",
+                "è il risultato di un'operazione di ricerca di qualcosa che già esiste",
+                "è il risultato di un'operazione di ricerca di qualcosa che non esiste"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "i costi marginali della conoscenza",
+            "options": [
+                "crescono all'aumentare della produzione",
+                "rimangono sempre costanti",
+                "decrescono all'aumentare della produzione",
+                "decrescono al diminuire della produzione"
+            ],
+            "correctAnswer": 3
+        },
+        {
+            "question": "la conoscenza è",
+            "options": [
+                "non escludibile",
+                "cumulativa",
+                "non rivale",
+                "tutte vere"
+            ],
+            "correctAnswer": 4
+        },
+        {
+            "question": "l'economia della conoscenza si caratterizza",
+            "options": [
+                "la rilevante quota di capitale tangibile e la diffusione della tecnologia",
+                "l'esigua quota di capitale intangibile e la diffusione della tecnologia",
+                "la diffusione della tecnologia",
+                "la rilevante quota di capitale intangibile e la diffusione della tecnologia"
+            ],
+            "correctAnswer": 4
+        },
+        {
+            "question": "il cambiamento tecnologico in atto",
+            "options": [
+                "ha migliorato la condizione dei lavoratori low skilled",
+                "ha peggiorato la condizione dei lavoratori low skilled",
+                "ha peggiorato la condizione di tutti i lavoratori",
+                "ha peggiorato la condizione dei lavoratori high skilled"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "si definiscono agenti di cambiamento",
+            "options": [
+                "tutte false",
+                "i lavoratori direttamente impiegati nella produzione",
+                "i lavoratori non direttamente impiegati nella produzione",
+                "i lavoratori che garantiscono il mantenimento dei modelli dominanti"
+            ],
+            "correctAnswer": 3
+        },
+        {
+            "question": "l'era del cambiamento permanente è determinata",
+            "options": [
+                "dal progresso tecnologico, dalla concorrenzialità dei mercati, dai diritti di proprietà",
+                "dalle tecnologie dell'informazione, dall'inefficienza dei mercati, dalla nascita della proprietà intellettuale",
+                "dalle tecnologie dell'informazione, dall'efficienza dei mercati, dalla crisi della proprietà intellettuale"
+            ],
+            "correctAnswer": 4
+        },
+        {
+            "question": "la ricerca di base",
+            "options": [
+                "crea conoscenza specifica",
+                "crea conoscenza pura",
+                "crea conoscenza tacita",
+                "crea conoscenza applicabile in ambiti circoscritti"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "l'apprendimento routinario",
+            "options": [
+                "avviene nei processi di ricerca organizzati",
+                "avviene ripetendo molte volte la medesima attività",
+                "avviene facendo esperienze che generano varietà di conoscenza",
+                "avviene imitando comportamenti altrui"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "la trasmissione della conoscenza tacita avviene",
+            "options": [
+                "solo in rari casi",
+                "con il trasferimento degli individui",
+                "tramite supporti digitali",
+                "solo in contesti specifici"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "attraverso la codificazione",
+            "options": [
+                "tutte false",
+                "aumentano i costi di memorizzazione e conservazione della conoscenza",
+                "si riducono i costi di memorizzazione e conservazione della conoscenza",
+                "si riduce la fruibilità della conoscenza"
+            ],
+            "correctAnswer": 3
+        },
+        {
+            "question": "la conoscenza codificata",
+            "options": [
+                "si può riprodurre poche volte",
+                "non si può riprodurre",
+                "è meno costosa della conoscenza tacita",
+                "si può riprodurre molte volte"
+            ],
+            "correctAnswer": 4
+        },
+        {
+            "question": "il processo di codificazione consente",
+            "options": [
+                "una riproduzione solo della conoscenza informale",
+                "la riproduzione solo parziale della conoscenza",
+                "una riproduzione solo della conoscenza formale",
+                "la riproduzione totale della conoscenza"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "per codificare la conoscenza è necessario",
+            "options": [
+                "definire il supporto",
+                "tutte vere",
+                "modellizzare la conoscenza tacita",
+                "sviluppare un linguaggio di codificazione"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "la codificazione implica",
+            "options": [
+                "la traduzione del sapere",
+                "la scomposizione del sapere",
+                "la ricomposizione del sapere",
+                "scomposizione e ricomposizione del sapere"
+            ],
+            "correctAnswer": 4
+        },
+        {
+            "question": "ingenti perdite di conoscenza possono aversi",
+            "options": [
+                "tutte vere",
+                "quando non ci sono cambiamenti tecnologici",
+                "quando esiste un rilevante turnover del personale",
+                "quando esiste un ridotto turnover del personale"
+            ],
+            "correctAnswer": 3
+        },
+        {
+            "question": "con le tecnologie dell'informazione si immagazzinano",
+            "options": [
+                "serie di istruzioni",
+                "conoscenza",
+                "documenti",
+                "serie di dati"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "in presenza di esternalità di conoscenza",
+            "options": [
+                "si ha un incentivo più che ottimale alla produzione",
+                "si ha un incentivo sub-ottimale alla produzione",
+                "si ha un danno per la società",
+                "tutte false"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "non escludibilità e cumulatività della conoscenza",
+            "options": [
+                "diminuiscono l'impatto delle esternalità",
+                "trasformano le esternalità negative in esternalità positive",
+                "aumentano l'impatto delle esternalità",
+                "la definiscono come un bene pubblico"
+            ],
+            "correctAnswer": 3
+        },
+        {
+            "question": "la non escludibilità implica",
+            "options": [
+                "che si possa interdire la fruizione a chi non paga un prezzo",
+                "che la conoscenza è un bene pubblico",
+                "che il consumo da parte di un soggetto riduca la possibilità di utilizzo da parte di altri",
+                "che non si possa interdire la fruizione a nessuno"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "in presenza di esternalità di conoscenza",
+            "options": [
+                "il produttore di un bene si appropria completamente dei rendimenti",
+                "la società subisce un danno",
+                "il produttore di un bene non riesce ad appropriarsi di tutti i vantaggi che ne derivano",
+                "si ha un gap di informazioni tra soggetti"
+            ],
+            "correctAnswer": 3
+        },
+        {
+            "question": "il costo marginale di uso della conoscenza è",
+            "options": [
+                "infinito",
+                "molto elevato",
+                "non esiste",
+                "quasi nullo"
+            ],
+            "correctAnswer": 4
+        },
+        {
+            "question": "la non rivalità della conoscenza implica che",
+            "options": [
+                "non si possa interdire la fruizione a nessuno",
+                "un'infinità di agenti possono usare la medesima conoscenza",
+                "la conoscenza è un bene pubblico",
+                "solo alcuni agenti possono usare la conoscenza"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "l'attribuzione di un brevetto determina la nascita di una posizione",
+            "options": [
+                "tutte false",
+                "di monopolio",
+                "di oligopolio",
+                "di concorrenza perfetta"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "per il bene conoscenza emerge un trade-off tra",
+            "options": [
+                "escludibilità e cumulabilità",
+                "efficiente utilizzo e giusto incentivo",
+                "efficiente produzione e giusto incentivo",
+                "rivalità e escludibilità"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "se i costi di codificazione/trasmissione della conoscenza sono elevati",
+            "options": [
+                "questa non è cumulabile",
+                "questa è non un bene pubblico",
+                "la cumulatività è molto alta",
+                "la cumulatività è ridotta"
+            ],
+            "correctAnswer": 4
+        },
+        {
+            "question": "con il diffondersi delle nuove tecnologie la non rivalità",
+            "options": [
+                "perde di importanza",
+                "tende ad essere eliminata",
+                "diventa un problema molto grave",
+                "cessa di essere un carattere del bene conoscenza"
+            ],
+            "correctAnswer": 3
+        },
+        {
+            "question": "attraverso il riconoscimento del diritto di autore",
+            "options": [
+                "si ripristina la non rivalità della conoscenza",
+                "si ripristina l'escludibilità della conoscenza",
+                "si ripristina l'escludibilità della conoscenza",
+                "si annulla la non rivalità della conoscenza"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "il settore pubblico si occupa di ricerca quando",
+            "options": [
+                "il rendimento sociale atteso è elevato",
+                "il rendimento privato è elevato",
+                "il rendimento sociale atteso è ridotto",
+                "non c'è rendimento privato"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "si parla di sapere aperto",
+            "options": [
+                "tutte false",
+                "con riferimento alla conoscenza codificata",
+                "con riferimento alla conoscenza di base",
+                "con riferimento alla conoscenza tacita"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "il diritto d'autore tutela",
+            "options": [
+                "la proprietà industriale",
+                "le opere letterarie",
+                "solo alcune invenzioni industriali",
+                "sia la proprietà industriale, sia le opere letterarie"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "la regola di priorità",
+            "options": [
+                "agisce solo in casi estremi",
+                "è un forte incentivo alla diffusione del sapere",
+                "è un forte incentivo al mantenimento della segretezza",
+                "è un forte incentivo alla brevettazione"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "il sapere aperto è diffuso",
+            "options": [
+                "attraverso le reti neurali",
+                "attraverso le pubblicazioni scientifiche",
+                "tutte false",
+                "attraverso le relazioni personali"
+            ],
+            "correctAnswer": 3
+        },
+        {
+            "question": "identificare e catalogare conoscenza consente",
+            "options": [
+                "di identificare la qualità dei processi di apprendimento",
+                "di identificare la qualità della conoscenza",
+                "di evitare sprechi di risorse e duplicazione di sforzi",
+                "di abbattere i costi di produzione della conoscenza"
+            ],
+            "correctAnswer": 3
+        },
+        {
+            "question": "il mantenimento della conoscenza è più agevole",
+            "options": [
+                "con l'esternalizzazione dei servizi di codificazione",
+                "con un ridotto turn over dei collaboratori",
+                "con l'esternalizzazione della produzione di conoscenza",
+                "con un elevato turnover dei lavoratori"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "nella gestione della conoscenza",
+            "options": [
+                "le imprese di grandi dimensioni sono avvantaggiate per la stabilità dei rapporti",
+                "le imprese di piccole dimensioni sono avvantaggiate per la stabilità dei rapporti",
+                "le imprese di grandi dimensioni sono svantaggiate dal lento turnover",
+                "le imprese di piccole dimensioni sono avvantaggiate per l'elevata velocità del turnover"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "il mercato della conoscenza",
+            "options": [
+                "è inefficiente a causa delle esternalità negative",
+                "è efficiente a causa delle esternalità negative",
+                "è inefficiente a causa delle esternalità positive",
+                "è efficiente a causa delle esternalità positive"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "due essenziali strategie di gestione della conoscenza sono",
+            "options": [
+                "tutte false",
+                "tutte vere",
+                "codificazione della conoscenza",
+                "condivisione della conoscenza tacita attraverso rapporti interpersonali"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "la codificazione della conoscenza fa emergere",
+            "options": [
+                "fallimenti del mercato",
+                "esternalità negative",
+                "aggravio di costi",
+                "economie di scala"
+            ],
+            "correctAnswer": 4
+        },
+        {
+            "question": "si ha privatizzazione della conoscenza",
+            "options": [
+                "nei mercati perfettamente concorrenziali",
+                "in presenza di brevetti molto contenuti",
+                "in assenza di brevetti",
+                "in presenza di brevetti molto estesi"
+            ],
+            "correctAnswer": 4
+        },
+        {
+            "question": "un brevetto troppo esteso",
+            "options": [
+                "è un ostacolo alla cumulabilità della conoscenza",
+                "aumenta la cumulabilità della conoscenza",
+                "origina fallimenti del mercato",
+                "è un incentivo alla cumulabilità della conoscenza"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "nell'ambito biotecnologico si parla spesso di",
+            "options": [
+                "esternalità di prossimità",
+                "tragedia dei commons",
+                "tragedia degli anti-commons",
+                "asimmetrie informative"
+            ],
+            "correctAnswer": 3
+        },
+        {
+            "question": "gli accordi esclusivi tra Università e impresa",
+            "options": [
+                "incentivano la cumulabilità della conoscenza",
+                "restringono l'ampiezza del sapere aperto",
+                "tutte false",
+                "ampliano l'ampiezza del sapere aperto"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "con le RJV",
+            "options": [
+                "tutte vere",
+                "si condividono le conoscenze",
+                "si abbattono i costi di ricerca",
+                "si riducono i rendimenti unitari della ricerca"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "si ha frammentazione della conoscenza nel caso di",
+            "options": [
+                "eccessivo turnover",
+                "brevettazione troppo estesa",
+                "eccessiva divisione del lavoro",
+                "ricerca condotta a livello di singola impresa"
+            ],
+            "correctAnswer": 3
+        },
+        {
+            "question": "l'educazione tradizionale",
+            "options": [
+                "consente un efficiente utilizzo delle risorse",
+                "impone la ridondanza nell'apprendimento",
+                "utilizza molto le nuove tecnologie",
+                "elimina la ridondanza nell'apprendimento"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "la moltiplicazione cognitiva si attiva attraverso",
+            "options": [
+                "la specializzazione",
+                "attraverso la condivisione",
+                "attraverso il mantenimento del segreto industriale",
+                "attraverso la brev"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "la divisione dell'apprendimento comporta",
+            "options": [
+                "esternalità di scopo",
+                "conoscenza sociale più ampia",
+                "conoscenza sociale più ristretta",
+                "conoscenza sociale nulla"
+            ],
+            "correctAnswer": 3
+        },
+        {
+            "question": "la conoscenza sociale è rischiosa perché",
+            "options": [
+                "ogni soggetto è autonomo",
+                "ogni soggetto ha un'ampia conoscenza generale",
+                "ogni soggetto dipende dal sapere altrui",
+                "ha un costo molto elevato"
+            ],
+            "correctAnswer": 3
+        },
+        {
+            "question": "per mantenere efficiente il sistema di produzione e diffusione della conoscenza è necessario",
+            "options": [
+                "il ri-uso deve essere impedito",
+                "il ri-uso deve essere senza spese",
+                "il ri-uso deve essere pagato",
+                "il ri-uso non deve esistere"
+            ],
+            "correctAnswer": 3
+        },
+        {
+            "question": "la conoscenza è",
+            "options": [
+                "una risorsa naturalmente scarsa",
+                "una risorsa artificialmente abbondante",
+                "una risorsa artificialmente scarsa",
+                "una risorsa artificialmente non rivale"
+            ],
+            "correctAnswer": 3
+        },
+        {
+            "question": "nel capitalismo cognitivo",
+            "options": [
+                "non si genera valore",
+                "si genera valore trasformando le capacità intellettive",
+                "si scambia la conoscenza",
+                "si genera valore trasformando una risorsa scarsa"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "il posizionamento competitivo nella knowledge era",
+            "options": [
+                "tutte vere",
+                "dipende dalle possibilità di accesso alle reti",
+                "dipende dai processi di apprendimento attivati",
+                "dipende dalla capacità di diffondere la conoscenza"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "la conoscenza sociale a livello di distretto industriale",
+            "options": [
+                "ha un costo molto elevato e origina dalle esternalità",
+                "ha un prezzo molto elevato",
+                "ha un prezzo molto contenuto",
+                "ha un costo quasi nullo e origina dalle esternalità"
+            ],
+            "correctAnswer": 4
+        },
+        {
+            "question": "nei modelli di crescita neoclassici la conoscenza",
+            "options": [
+                "è al centro del processo di crescita",
+                "è una variabile endogena",
+                "non viene considerata",
+                "è una variabile esogena"
+            ],
+            "correctAnswer": 4
+        },
+        {
+            "question": "l'imprenditore schumpeteriano è",
+            "options": [
+                "un'innovatore",
+                "un soggetto che stimola la crescita attraverso l'impiego di macchine avanzate",
+                "un soggetto con molti capitali da investire",
+                "un soggetto a razionalità limitata"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "la conoscenza codificata",
+            "options": [
+                "aumenta gradualmente valore per il produttore",
+                "perde gradualmente valore per il produttore",
+                "genera esternalità negative",
+                "perde gradualmente valore colui che la utilizza"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "si parla di pregiudizio storico con riferimento",
+            "options": [
+                "all'identificazione tra knowledge economy e settori knowledge intensive",
+                "all'identificazione tra conoscenza e informazione",
+                "alla focalizzazione su alcuni settori ad alta intensità di conoscenza",
+                "all'economia industriale ritenuta a basso contenuto di conoscenza"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "si parla di conoscenza che produce valore",
+            "options": [
+                "con riferimento alla conoscenza codificata",
+                "con riferimento alla conoscenza tacita",
+                "con riferimento alla conoscenza di base",
+                "con riferimento alla conoscenza tacita e codificata"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "si parla di pregiudizio settoriale con riferimento",
+            "options": [
+                "all'identificazione tra knowledge economy e settori knowledge intensive",
+                "alla conoscenza vista come elemento accessorio della crescita",
+                "all'identificazione tra conoscenza e informazione",
+                "tutte false"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "la seguente affermazione è corretta",
+            "options": [
+                "attualmente tutti i settori sono knowledge intensive",
+                "attualmente sono knowledge intensive solo i settori dell'high tech",
+                "attualmente nessun settore può definirsi knowledge intensive",
+                "attualmente solo i settori in cui è formalizzata un'attività di ricerca e sviluppo sono knowledge intensive"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "il lavoro cognitivo",
+            "options": [
+                "dell'utilizzatore è più importante di quello dello scienziato",
+                "dello scienziato è più importante di quello dell'utilizzatore",
+                "dello scienziato è importante come quello dell'utilizzatore",
+                "dello scienziato è l'unico che produce valore"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "per Schumpeter l'innovazione è",
+            "options": [
+                "il risultato di un'attività di ricerca e sviluppo",
+                "un'invenzione che può essere sfruttata a livello industriale",
+                "un atto che modifica il processo economico aumentando il profitto",
+                "è frutto del lavoro del ricercatore"
+            ],
+            "correctAnswer": 3
+        },
+        {
+            "question": "l'economia dell'innovazione",
+            "options": [
+                "si occupa della trasformazione delle esternalità in profitto",
+                "comprende l'economia della conoscenza",
+                "si occupa della trasformazione del potenziale cognitivo in valore economico",
+                "è un diverso modo di intendere l'economia della conoscenza"
+            ],
+            "correctAnswer": 3
+        },
+        {
+            "question": "l'economia della conoscenza",
+            "options": [
+                "è un fenomeno recente",
+                "è presente in ogni fase della storia moderna",
+                "coincide con l'economia dell'innovazione",
+                "è presente solo in alcune fasi della storia moderna"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "il pregiudizio competitivo",
+            "options": [
+                "assegna un vantaggio a coloro che fanno parte di una rete cognitiva",
+                "assegna un vantaggio all'utilizzatore di conoscenza",
+                "tutte vere",
+                "assegna un vantaggio al produttore di conoscenza"
+            ],
+            "correctAnswer": 4
+        },
+        {
+            "question": "la conoscenza deve essere diffusa perché",
+            "options": [
+                "solo così si attivano nuovi processi cognitivi",
+                "solo così produce valore",
+                "tutte vere",
+                "solo così si esplorano nuovi percorsi"
+            ],
+            "correctAnswer": 3
+        },
+        {
+            "question": "l'economia della conoscenza dal punto di vista sociale",
+            "options": [
+                "ci propone una società che si sviluppa sulla base della proprietà del capitale",
+                "ci propone una società che si sviluppa sulla partecipazione ai processi di apprendimento",
+                "ci propone una società che si sviluppa sulla creazione di conoscenza",
+                "ci propone una società che si sviluppa sulla proprietà dell'informazione"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "la politica sociale nell'era della conoscenza ha lo scopo di far funzionare",
+            "options": [
+                "diritti di proprietà e mercati",
+                "i mercati",
+                "i diritti di proprietà",
+                "i canali di accesso alla conoscenza"
+            ],
+            "correctAnswer": 4
+        },
+        {
+            "question": "nel distretto industriale si sfruttano",
+            "options": [
+                "le economie di scala a livello di grande impresa",
+                "le economie di scala a livello di territorio",
+                "le economie di scala su base aziendale",
+                "le economie di scala a livello di rete"
+            ],
+            "correctAnswer": 4
+        },
+        {
+            "question": "alla fine degli anni novanta le imprese italiane",
+            "options": [
+                "spendevano in ricerca il doppio delle imprese europee",
+                "spendevano in ricerca 1/10 delle imprese europee",
+                "spendevano in ricerca 1/2 di quelle europee",
+                "spendevano in ricerca 1/3 di quelle europee"
+            ],
+            "correctAnswer": 4
+        },
+        {
+            "question": "l'Italia è carente",
+            "options": [
+                "il learning by doing",
+                "l'investimento in apprendimento formale",
+                "il learning by interacting",
+                "l'investimento in apprendimento formale"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "In Italia è necessario creare",
+            "options": [
+                "interazioni che possano mitigare la divisione del lavoro",
+                "interazioni che possano accentuare la divisione del lavoro",
+                "sviluppare competenze in linea con quelle globali",
+                "sviluppare competenze locali"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "nelle economie pre-cognitive il lavoro è essenzialmente",
+            "options": [
+                "energetico",
+                "cognitivo",
+                "tutte false",
+                "intellettuale"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "i sistemi knowledge based aumentano la crescita grazie a",
+            "options": [
+                "l'incidentalità della scoperta",
+                "tutte vere",
+                "la dilatazione del consumo immateriale",
+                "l'esistenza del moltiplicatore"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "la propagazione della conoscenza produce",
+            "options": [
+                "applicazioni mancate",
+                "eccedenze cognitive",
+                "carenze cognitive",
+                "applicazioni immediate"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "la conoscenza",
+            "options": [
+                "è prodotta sempre per l'autoconsumo",
+                "è una risorsa condivisa",
+                "è usata per svolgere un'attività di produzione individuale",
+                "è una risorsa che appartiene al singolo individuo"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "separare proprietà formale e forza produttiva",
+            "options": [
+                "consente di evidenziare la centralità dell'individuo",
+                "consente di evidenziare la centralità della società globale",
+                "tutte vere",
+                "consente di evidenziare l'importanza della conoscenza"
+            ],
+            "correctAnswer": 3
+        },
+        {
+            "question": "se il prezzo di utilizzo della conoscenza è molto elevato",
+            "options": [
+                "non fallisce il mercato della conoscenza",
+                "non si hanno più esternalità negative",
+                "la conoscenza non è un bene pubblico",
+                "non si realizza più l'ibridazione della conoscenza"
+            ],
+            "correctAnswer": 4
+        },
+        {
+            "question": "nella knowledge era è determinante",
+            "options": [
+                "la centralità del territorio",
+                "il distretto cognitivo",
+                "la filiera cognitiva",
+                "la globalizzazione"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "alla risorsa conoscenza si accede",
+            "options": [
+                "attraverso condivisione delle esperienze",
+                "attraverso l'allocazione privata delle risorse",
+                "attraverso le norme giuridiche",
+                "attraverso il mercato"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "nella produzione di conoscenza si massimizza il vantaggio",
+            "options": [
+                "attraverso l'interdipendenza",
+                "attraverso l'opposizione",
+                "attraverso un forte regime proprietario",
+                "attraverso la cooperazione"
+            ],
+            "correctAnswer": 4
+        },
+        {
+            "question": "la diffusione della conoscenza tramite i diritti di proprietà si affianca sempre più ad una diffusione informale a causa",
+            "options": [
+                "tutte false",
+                "del decadimento della conoscenza",
+                "del valore fisso della conoscenza",
+                "dell'invariabilità della conoscenza"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "il valore della conoscenza rimane invariato durante il ciclo di vita",
+            "options": [
+                "rimane invariato durante il ciclo di vita",
+                "raddoppia durante il ciclo di vita",
+                "si riduce durante il ciclo di vita",
+                "aumenta durante il ciclo di vita"
+            ],
+            "correctAnswer": 3
+        },
+        {
+            "question": "la conoscenza è dissipativa perché",
+            "options": [
+                "rimane valida all'infinito",
+                "ha necessità di adattamento e aggiornamento",
+                "non deve essere reinventata",
+                "ha necessità di isolamento"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "in rete si scambiano",
+            "options": [
+                "cooperazione e diritti di proprietà",
+                "relazioni e diritti di proprietà",
+                "cooperazione e relazioni",
+                "prestazioni e diritti di proprietà"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "la diffusione di conoscenza",
+            "options": [
+                "è un processo che segue ritmi costanti",
+                "è un processo senza accelerazioni",
+                "è un processo continuo",
+                "è un processo discontinuo"
+            ],
+            "correctAnswer": 4
+        },
+        {
+            "question": "Affinché un'esperienza accresca l'utilità è necessario",
+            "options": [
+                "essere diligenti, intelligenti e fiduciosi",
+                "essere intelligenti, fantasiosi e creativi",
+                "essere diligenti, disposti al sacrificio, tenaci",
+                "essere istruiti, fantasiosi, fiduciosi"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "nell'ottica quantitativa, l'economia della conoscenza può comportare",
+            "options": [
+                "carenza di forza lavoro",
+                "sottostima del bisogno lavorativo",
+                "salari minimi",
+                "disoccupazione"
+            ],
+            "correctAnswer": 4
+        },
+        {
+            "question": "per la conoscenza che circola nei distretti o nelle reti si può parlare",
+            "options": [
+                "conoscenza strutturata e non strutturata",
+                "conoscenza articolata e non articolata",
+                "tutte false",
+                "conoscenza semplice e complessa"
+            ],
+            "correctAnswer": 3
+        },
+        {
+            "question": "la conoscenza implicita emerge",
+            "options": [
+                "con l'apprendimento evolutivo",
+                "emerge con l'apprendimento razionale",
+                "emerge con l'apprendimento tradizionale",
+                "emerge con l'apprendimento logico"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "la conoscenza genera valore",
+            "options": [
+                "attraverso la propagazione moltiplicativa",
+                "attraverso tutti questi metodi",
+                "attraverso l'abbandono dei regimi proprietari",
+                "attraverso l'utilizzo della conoscenza in ambiti specifici"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "(v) rappresenta",
+            "options": [
+                "la capacità della conoscenza di interpretare i bisogni",
+                "la moltiplicazione degli usi",
+                "l'appropriazione delle rendite",
+                "i singoli impieghi della conoscenza"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "(n) rappresenta",
+            "options": [
+                "il numero dei nuovi impieghi",
+                "le esternalità della conoscenza",
+                "la dotazione di conoscenza",
+                "l'efficacia della conoscenza"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "(V) rappresenta",
+            "options": [
+                "l'appropriazione della rendita derivante dall'impiego di conoscenza",
+                "la capacità della conoscenza di interpretare i bisogni",
+                "la somma delle utilità generate dal riuso della conoscenza",
+                "la moltiplicazione degli usi"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "la rendita psicologica",
+            "options": [
+                "è un surplus derivante dalla notorietà in ambito accademico",
+                "è l'utilità derivante dall'impiego di conoscenza",
+                "l'appropriazione della rendita derivante dall'impiego di conoscenza",
+                "è un surplus derivante dall'esperienza cognitiva"
+            ],
+            "correctAnswer": 4
+        },
+        {
+            "question": "il valore di (v) deriva dalla somma di",
+            "options": [
+                "prezzo di mercato, valore del ri-uso, valore implicito",
+                "prezzo di mercato, surplus di conoscenza, valore intrinseco",
+                "prezzo monetario, rendita di efficienza, valore implicito",
+                "prezzo monetario, rendita psicologica, valore intrinseco"
+            ],
+            "correctAnswer": 4
+        },
+        {
+            "question": "per aumentare il valore di (n)",
+            "options": [
+                "tutte vere",
+                "sviluppare nuove applicazioni",
+                "è necessario aumentare la quantità dei prodotti",
+                "aumentare l'ampiezza spaziale"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "la riproduzione del sapere",
+            "options": [
+                "tutte false",
+                "è meno costosa della riproduzione di un bene",
+                "è più costosa della riproduzione di un bene",
+                "costa quanto la riproduzione di un bene"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "i processi cognitivi",
+            "options": [
+                "sono sempre suddivisibili in unità elementari",
+                "sono scomponibili",
+                "in alcuni casi sono scomponibili",
+                "non sono scomponibili"
+            ],
+            "correctAnswer": 4
+        },
+        {
+            "question": "la singola impresa della filiera",
+            "options": [
+                "produce valore",
+                "produce e diffonde valore",
+                "diffonde valore",
+                "acquista valore"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "si massimizza il valore sociale della conoscenza",
+            "options": [
+                "quando le esternalità cognitive non si manifestano",
+                "quando esiste una brevettazione ampia",
+                "quando le esternalità cognitive si diffondono liberamente",
+                "quando esiste un forte regime proprietario"
+            ],
+            "correctAnswer": 3
+        },
+        {
+            "question": "(p) è il coefficiente",
+            "options": [
+                "indica la velocità di replicazione della conoscenza",
+                "indica il prezzo monetario dell'unità di conoscenza",
+                "indica il contributo di ognuno nella filiera",
+                "tutte false"
+            ],
+            "correctAnswer": 3
+        },
+        {
+            "question": "il fornitore può esercitare un notevole potere contrattuale se",
+            "options": [
+                "il bacino di utenza è molto numeroso",
+                "il bacino di utenza è scarso",
+                "il bene ha molti sostituti",
+                "il bene è fornito da molte imprese"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "gli switching costs",
+            "options": [
+                "sono molto elevati in presenza di costi irrecuperabili",
+                "sono molto contenuti in caso di personalizzazioni del prodotto",
+                "sono molto elevati in assenza di costi irrecuperabili",
+                "sono quasi nulli in presenza di costi irrecuperabili"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "gli switching costs sono molto elevati",
+            "options": [
+                "quando non ci sono alternative",
+                "quando le alternative provengono da produttori compatibili con gli standard in uso",
+                "quando le alternative provengono da produttori con scarsa reputazione",
+                "quando le alternative provengono da produttori con alta reputazione"
+            ],
+            "correctAnswer": 3
+        },
+        {
+            "question": "nel caso di rendita psicologica molto elevata",
+            "options": [
+                "possono essere accettate remunerazioni contenute",
+                "si accettano solo remunerazioni molto elevate",
+                "non possono esserci remunerazioni monetarie",
+                "si rifiutano le remunerazioni monetarie"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "si può rappresentare l'insieme delle possibili combinazioni di v,n,p",
+            "options": [
+                "come un rettangolo che ai lati ha le forme di conoscenza",
+                "come un rettangolo che ai lati ha i rendimenti attesi",
+                "come un triangolo che ai vertici ha le forme di conoscenza",
+                "come un triangolo che ai vertici ha i tassi di rendimento"
+            ],
+            "correctAnswer": 3
+        },
+        {
+            "question": "quando la conoscenza è standard",
+            "options": [
+                "il valore generato tende a zero",
+                "il valore generato tende ad aumentare",
+                "il valore generato tende a infinito",
+                "il valore generato è sostenibile"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "quando si massimizza uno solo dei driver",
+            "options": [
+                "Ei assume valori molto bassi",
+                "Ei assume valori molto sostenibili",
+                "Ei assume valori molto elevati",
+                "Ei assume valori nulli"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "di norma, se aumenta la propagazione",
+            "options": [
+                "si avranno valori marginali decrescenti di (v)",
+                "v tende ad infinito",
+                "si avranno valori costanti di (v)",
+                "si avranno valori marginali crescenti di (v)"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "Ei=",
+            "options": [
+                "v*n",
+                "v*pi",
+                "npi",
+                "v*npi"
+            ],
+            "correctAnswer": 4
+        },
+        {
+            "question": "una filiera produttiva è efficace quando",
+            "options": [
+                "si minimizzano i costi, si massimizza il valore, si disincentiva l'investimento",
+                "si minimizzano i costi, si distribuisce in modo equo il valore, si incentiva l'investimento",
+                "si massimizza il valore, si minimizzano i costi, si riduce l'investimento",
+                "si massimizza il valore, lo si distribuisce, si alimenta l'investimento"
+            ],
+            "correctAnswer": 4
+        },
+        {
+            "question": "incrementare il valore di (n)",
+            "options": [
+                "è possibile allargando gli usi a contesti contigui a quello originario",
+                "è impossibile",
+                "riduce il valore di (v)",
+                "aumenta il valore di (v)"
+            ],
+            "correctAnswer": 3
+        },
+        {
+            "question": "si aumenta la moltiplicazione della conoscenza",
+            "options": [
+                "aumentando replicazione e condivisione",
+                "aumentando l'efficienza",
+                "aumentando la regolazione della proprietà intellettuale",
+                "riducendo replicazione e condivisione"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "i costi di diffusione della conoscenza sono",
+            "options": [
+                "nulli",
+                "completamente fissi",
+                "prevalentemente fissi",
+                "prevalentemente variabili"
+            ],
+            "correctAnswer": 4
+        },
+        {
+            "question": "il costo marginale di propagazione della conoscenza",
+            "options": [
+                "è crescente",
+                "ha un andamento a scalini",
+                "è decrescente",
+                "è costante"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "G=",
+            "options": [
+                "ricavi - costi marginali",
+                "ricavi - costi variabili",
+                "ricavi - costi totali",
+                "ricavi - costi fissi"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "R=",
+            "options": [
+                "ricavi - costi fissi",
+                "ricavi - costi totali",
+                "ricavi - costi marginali",
+                "ricavi - costi variabili"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "Πi (reddito estratto) =",
+            "options": [
+                "(Ei – CVi)=n (v* pi – ci*)",
+                "(Ei – Fi)=n (v* pi – ci*)",
+                "tutte false",
+                "Ei – CVi – Fi)=n (v* pi – ci*) - Fi"
+            ],
+            "correctAnswer": 4
+        },
+        {
+            "question": "i costi di diffusione comprendono",
+            "options": [
+                "costi di codificazione, riproduzione, trasferimento logistico e governance",
+                "costi di validazione, riproduzione, trasferimento logistico e governance",
+                "costi di validazione, innovazione, trasferimento logistico e governance",
+                "costi di validazione, codificazione, trasferimento cognitivo e governance"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "i costi di trasferimento logistico riguardano",
+            "options": [
+                "la replicazione del sapere",
+                "la gestione delle relazioni di condivisione",
+                "il trasferimento della conoscenza dal contesto originario",
+                "la verifica della conoscenza"
+            ],
+            "correctAnswer": 3
+        },
+        {
+            "question": "una propagazione senza rigenerazione",
+            "options": [
+                "aumenta l'effetto di moltiplicazione",
+                "blocca l'effetto di moltiplicazione",
+                "determina rendimenti maggiori delle attese",
+                "aumenta l'effetto di moltiplicazione e determina rendimenti maggiori delle attese"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "possiamo affermare",
+            "options": [
+                "che i costi di diffusione sono variabili",
+                "che i costi di diffusione variano in funzione di (n)",
+                "tutte vere",
+                "che i costi di diffusione non sono distribuiti in modo uniforme"
+            ],
+            "correctAnswer": 3
+        },
+        {
+            "question": "la conoscenza che diffondendosi diventa standard",
+            "options": [
+                "il valore estratto dai produttori si annulla",
+                "il valore estratto dai produttori viene completamente assorbito dai consumatori",
+                "tutte vere",
+                "il valore estratto dai produttori può crescere"
+            ],
+            "correctAnswer": 4
+        },
+        {
+            "question": "quando la conoscenza diventa matura",
+            "options": [
+                "tutte false",
+                "(n) diventa uguale a zero",
+                "(n) cresce in modo inerziale",
+                "(n) accelera la crescita"
+            ],
+            "correctAnswer": 3
+        },
+        {
+            "question": "allontanandosi dal contesto di origine",
+            "options": [
+                "l'utilità della conoscenza rimane invariata",
+                "l'utilità della conoscenza decresce",
+                "l'utilità della conoscenza aumenta",
+                "l'utilità della conoscenza tende a infinito"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "g(n)=",
+            "options": [
+                "v(n)+C(n)",
+                "v(n)*c(n)",
+                "v(n) - c(n)",
+                "v(n)/c(n)"
+            ],
+            "correctAnswer": 3
+        },
+        {
+            "question": "elevati valori di elasticità si rilevano",
+            "options": [
+                "quando si individuano soluzioni specifiche",
+                "con applicazioni ampie e diffuse",
+                "con applicazioni generali e soluzioni specifiche",
+                "con applicazioni di nicchia"
+            ],
+            "correctAnswer": 3
+        },
+        {
+            "question": "fino a quando g>0",
+            "options": [
+                "ogni nuovo uso riduce il valore netto di G",
+                "si espandono gli usi",
+                "ogni nuovo uso riduce il valore di V",
+                "si riducono gli usi"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "si hanno circuiti di auto-incentivazione quando",
+            "options": [
+                "i rendimenti sono crescenti",
+                "le imprese operano in contesti molto distanti tra loro",
+                "non ci sono scambi di conoscenze",
+                "il valore di (n) si riduce"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "il moltiplicatore potenziale della conoscenza è",
+            "options": [
+                "l'insieme di coloro che vorrebbero usare la conoscenza per fini specifici",
+                "l'insieme dei possibili produttori della conoscenza specifica",
+                "l'insieme dei possibili produttori di conoscenza",
+                "l'insieme dei possibili utilizzatori della conoscenza"
+            ],
+            "correctAnswer": 4
+        },
+        {
+            "question": "il tasso di profitto è",
+            "options": [
+                "il rapporto tra reddito estratto dal singolo operatore e gli investimenti effettuati da tutti gli operatori",
+                "il rapporto tra reddito generato dalla filiera e gli investimenti effettuati da tutti gli operatori",
+                "il rapporto tra reddito estratto ed investimento del singolo operatore",
+                "il rapporto tra reddito generato dalla filiera ed investimento del singolo operatore"
+            ],
+            "correctAnswer": 3
+        },
+        {
+            "question": "le quote attribuite ad ogni operatore della filiera dipendono",
+            "options": [
+                "dal reddito estratto e dalla capacità di interazione",
+                "dal reddito estratto e dal profitto di filiera",
+                "dal potere contrattuale e dal reddito estratto",
+                "dal potere contrattuale e dalla capacità di interazione"
+            ],
+            "correctAnswer": 4
+        },
+        {
+            "question": "r=",
+            "options": [
+                "(V-C-F)",
+                "(V-C)/F",
+                "(C-F)/F",
+                "(V-C-F)/F"
+            ],
+            "correctAnswer": 4
+        },
+        {
+            "question": "il valore assunto da gF* influenza",
+            "options": [
+                "la sensibilità di (r) alle variazioni di (n)",
+                "la sensibilità di (r)",
+                "la sensibilità di (n)",
+                "la sensibilità di (n) alle variazioni di (r)"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "il tasso di profitto individuale dipende dalla produttività aggregata, quindi",
+            "options": [
+                "gli operatori possono avere incentivo a ridurre la cooperazione",
+                "gli operatori possono avere incentivo ad aumentare i conflitti",
+                "gli operatori possono avere incentivo ad aumentare la competizione",
+                "gli operatori possono avere incentivo a cooperare"
+            ],
+            "correctAnswer": 4
+        },
+        {
+            "question": "la strategia moltiplicativa",
+            "options": [
+                "riduce il valore generato dalla filiera",
+                "aumenta il valore generato dalla filiera e quello estratto dal singolo operatore",
+                "aumenta il valore generato dalla filiera",
+                "aumenta il valore estratto dal singolo operatore della filiera"
+            ],
+            "correctAnswer": 3
+        },
+        {
+            "question": "i modelli logici sono esempi di",
+            "options": [
+                "mediatori istituzionali",
+                "mediatori interpretativi",
+                "mediatori collaborativi",
+                "mediatori moltiplicativi"
+            ],
+            "correctAnswer": 4
+        },
+        {
+            "question": "possiamo avere mediatori cognitivi",
+            "options": [
+                "codificabili, moltiplicabili, propagabili",
+                "interpretativi, assertivi, collaborativi",
+                "interpretativi, moltiplicativi, istituzionali",
+                "codificabili, moltiplicabili, estraibili"
+            ],
+            "correctAnswer": 3
+        },
+        {
+            "question": "il sistema scientifico tecnologico è un esempio",
+            "options": [
+                "di mediatore moltiplicativo",
+                "di mediatore istituzionale",
+                "tutte vere",
+                "di mediatore interpretativo"
+            ],
+            "correctAnswer": 4
+        },
+        {
+            "question": "i mediatori interpretativi agiscono prevalentemente su",
+            "options": [
+                "(v)",
+                "(n)",
+                "(v) e (n)",
+                "(p)"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "le knowledge company",
+            "options": [
+                "sono imprese snelle",
+                "sono imprese che investono ingenti capitali in attesa di rendimenti di medio e lungo termine",
+                "sono imprese organizzate in modo rigidamente gerarchico",
+                "sono le imprese dedite alla creazione di conoscenza"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "il knowledge management interviene",
+            "options": [
+                "sull'appropriazione delle conoscenze",
+                "tutte vere",
+                "sul ri-uso della conoscenza",
+                "sull'efficacia delle soluzioni elaborate"
+            ],
+            "correctAnswer": 0
+        },
+        {
+            "question": "le conoscenze contestuali",
+            "options": [
+                "sono accessibili solo mediante esperienza precedente",
+                "tutte vere",
+                "sono uniche",
+                "sono incorporate nel contesto"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "conoscenza effettivamente utilizzabile=",
+            "options": [
+                "conoscenze pregresse+nuovi contenuti-conoscenze non più utili",
+                "conoscenze pregresse-nuovi contenuti+conoscenze non più utili",
+                "conoscenze pregresse+nuovi contenuti+conoscenze non più utili",
+                "conoscenze pregresse-nuovi contenuti-conoscenze non più utili"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "con la socializzazione della conoscenza",
+            "options": [
+                "questa non è più rilevante",
+                "non si ha più vantaggio competitivo",
+                "questa scompare",
+                "questa diventa esclusiva"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "meta-conoscenze, conoscenze connettive e contestuali",
+            "options": [
+                "non determinano differenze di rendite ritraibili dalla conoscenza",
+                "non determinano differenze di produttività",
+                "determinano differenze di produttività",
+                "sono disponibili in modo simmetrico"
+            ],
+            "correctAnswer": 3
+        },
+        {
+            "question": "l'indivisibilità temporale dei processi cognitivi",
+            "options": [
+                "rende oggettiva l'attribuzione dei costi",
+                "rende oggettiva l'attribuzione dei ricavi",
+                "rende difficile l'attribuzione dei ricavi",
+                "rende impossibile l'attribuzione dei ricavi"
+            ],
+            "correctAnswer": 3
+        },
+        {
+            "question": "nella società aperta di Popper",
+            "options": [
+                "critica e accesso libero validano la conoscenza",
+                "i processi sono meno efficienti",
+                "critica e accesso libero inficiano il valore della conoscenza",
+                "i processi sono meno affidabili"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "una macchina è",
+            "options": [
+                "capitale che incorpora lavoro cognitivo",
+                "lavoro energetico puro",
+                "tutte false",
+                "lavoro cognitivo puro"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "la macchina è",
+            "options": [
+                "capitale che incorpora lavoro cognitivo",
+                "capitale fisico senza lavoro cognitivo",
+                "una sintesi del lavoro cognitivo",
+                "tutte false"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "si inizia a parlare di produzione di valore a mezzo trasformazione cognitiva",
+            "options": [
+                "dalla seconda metà del settecento",
+                "dal ventunesimo secolo",
+                "dalla seconda metà dell'ottocento",
+                "dal ventesimo secolo"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "la trasformazione energetica",
+            "options": [
+                "è di tipo innovativo",
+                "è di tipo incrementale",
+                "è di tipo conservativo",
+                "non è più presenti nei processi produttivi"
+            ],
+            "correctAnswer": 3
+        },
+        {
+            "question": "il prodotto del lavoro energetico",
+            "options": [
+                "evidenzia un valore di (n) molto elevato",
+                "è utilizzabile una sola volta",
+                "è moltiplicabile",
+                "evidenzia un valore di (n) nullo"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "la produttività marginal congiunta",
+            "options": [
+                "deriva dall'uso integrato della conoscenza",
+                "deriva dall'uso integrato della conoscenza e del lavoro energetico",
+                "non si può calcolare",
+                "deriva dall'uso integrato dei mezzi di produzione"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "il sistema meta-cognitivo",
+            "options": [
+                "genera solo costi",
+                "produce conoscenze frubili in modo molto ampio e generalista",
+                "produce conoscenze frubili in modo ridotto",
+                "non produce conoscenze fruibili"
+            ],
+            "correctAnswer": 3
+        },
+        {
+            "question": "il processo moltiplicativo che genera valore dalla conoscenza",
+            "options": [
+                "non è applicabile al lavoro cognitivo",
+                "è applicabile al lavoro cognitivo e al lavoro energetico",
+                "è applicabile solo al lavoro cognitivo",
+                "è applicabile solo al lavoro energetico"
+            ],
+            "correctAnswer": 3
+        },
+        {
+            "question": "l'effetto leva nell'economia della conoscenza si sviluppa grazie",
+            "options": [
+                "a (g) e (p)",
+                "a (n) e (p)",
+                "a (g) e (n)",
+                "a (n) e (g)"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "la maggior parte delle conoscenze impiegate nella produzione",
+            "options": [
+                "è frutto di processi endogeni di apprendimento",
+                "tutte false",
+                "è frutto di processi esogeni di apprendimento",
+                "è frutto di processi energetici"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "il processo di produzione del sapere",
+            "options": [
+                "è irreversibile",
+                "tutte false",
+                "è reversibile",
+                "è parzialmente reversibile"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "la scienza è codificata",
+            "options": [
+                "per garantirne la veridicità",
+                "per garantirne la replicabilità",
+                "per garantirne la trasferibilità",
+                "per garantirne la reversibilità"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "Romer ritiene",
+            "options": [
+                "la ricerca di base coincidente con il know-how tacito",
+                "la ricerca di base codificata",
+                "la ricerca di base altamente appropriabile",
+                "la ricerca applicata codificata"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "David e Foray definiscono l'informazione",
+            "options": [
+                "come combinazione fluida di esperienze e valori",
+                "come dati già elaborati",
+                "come elementi attivi",
+                "come un insieme strutturato di dati"
+            ],
+            "correctAnswer": 4
+        },
+        {
+            "question": "le comunità epistemiche",
+            "options": [
+                "tutte vere",
+                "si fondano sulle meta-conoscenze",
+                "si fondano sulle conoscenze applicate",
+                "si fondano sulle conoscenze di base"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "applicando le routine",
+            "options": [
+                "si moltiplica la conoscenza",
+                "si creano nuove conoscenze",
+                "tutte vere",
+                "si riutilizzano conoscenze sedimentate"
+            ],
+            "correctAnswer": 4
+        },
+        {
+            "question": "l'approccio connessionistico ritiene che",
+            "options": [
+                "le basi materiali sono sostituibili tra loro",
+                "la base materiale è alternativa al programma mentale",
+                "base materiale e programma mentale non si possano scindere",
+                "base materiale e programma mentale si possano scindere"
+            ],
+            "correctAnswer": 3
+        },
+        {
+            "question": "il computer connessionista",
+            "options": [
+                "si limita ad effettuare elaborazioni",
+                "impara",
+                "si limita ad eseguire calcoli in modo veloce",
+                "si limita ad eseguire istruzioni"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "con l'apprendimento logico-razionale",
+            "options": [
+                "tutte false",
+                "si individuano soluzioni uniche per ogni caso",
+                "si selezionano teorie specifiche per ogni caso",
+                "si procede per prova ed errore"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "con l'apprendimento evolutivo",
+            "options": [
+                "si genera un numero ristretto di mutazioni da sperimentare",
+                "si propagano tutte le mutazioni individuate",
+                "si utilizzano tutte le mutazioni individuate",
+                "si generano molte mutazioni da sperimentare"
+            ],
+            "correctAnswer": 4
+        },
+        {
+            "question": "l'apprendimento evolutivo",
+            "options": [
+                "genera un numero ristretto di mutazioni da sperimentare",
+                "procede per prova ed errore",
+                "utilizza tutte le possibili mutazioni individuate",
+                "prevede ricerca di base e ricerca applicata"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "l'apprendimento evolutivo",
+            "options": [
+                "è efficiente quando il percorso di miglioramento è graduale e continuo",
+                "non ha alcun difetto",
+                "è efficiente quando il percorso di miglioramento è estemporaneo",
+                "non è mai pienamente efficiente"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "nelle grandi imprese si è utilizzato prevalentemente",
+            "options": [
+                "apprendimento interattivo",
+                "apprendimento di base",
+                "apprendimento logico-razionale",
+                "apprendimento evolutivo"
+            ],
+            "correctAnswer": 3
+        },
+        {
+            "question": "per la conoscenza è opportuno immaginare",
+            "options": [
+                "forme di regolazione proprietaria fondate sul brevetto",
+                "forme di regolazione proprietaria fondate sul diritto di proprietà",
+                "forme di regolazione proprietaria fondate sul diritto di proprietà esclusivo",
+                "forme di regolazione proprietaria fondate su sistemi di relazione"
+            ],
+            "correctAnswer": 4
+        },
+        {
+            "question": "i CAS sono",
+            "options": [
+                "formati da agenti che sviluppano percorsi di co-evoluzione",
+                "formati da agenti che sviluppano percorsi di co-evoluzione",
+                "formati da soggetti che non si adattano, ma si integrano",
+                "formati da popolazioni di agenti che intraprendono percorsi indipendenti, centri autonomi scientifici"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "i sistemi creano",
+            "options": [
+                "legami forti",
+                "legami deboli",
+                "legami forti come le interdipendenze",
+                "l'assenza di un legame"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "le imprese sono",
+            "options": [
+                "sistemi che non rigenerano la propria identità",
+                "sistemi che non assorbono i cambiamenti, ma li arginano",
+                "tutte false",
+                "sistemi autoriferiti"
+            ],
+            "correctAnswer": 4
+        },
+        {
+            "question": "secondo Vicari",
+            "options": [
+                "l'impresa è un sistema cognitivo di tipo autopoietico",
+                "l'impresa è un sistema chiuso di tipo autopoietico",
+                "l'impresa è un sistema industriale di tipo autopoietico",
+                "l'impresa è un sistema cognitivo di tipo autopoietico"
+            ],
+            "correctAnswer": 4
+        },
+        {
+            "question": "la propagazione lineare",
+            "options": [
+                "ha un costo prossimo allo zero",
+                "è molto efficace",
+                "ha un costo elevatissimo",
+                "ha un costo elevatissimo ed è molto efficace"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "l'intelligenza è collettiva se",
+            "options": [
+                "se la conoscenza è modulare e additiva",
+                "se la conoscenza non è modulare e non è additiva",
+                "se la conoscenza è modulare e non è additiva",
+                "se la conoscenza non è modulare e è additiva"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "le eccedenze cognitive",
+            "options": [
+                "non sono impiegabili in modo efficace",
+                "rappresentano un costo irrecuperabile",
+                "non esistono",
+                "consentono di esplorare potenzialità future"
+            ],
+            "correctAnswer": 4
+        },
+        {
+            "question": "Kondratieff",
+            "options": [
+                "ritiene che i cicli possano durare 50/60 anni",
+                "tutte vere",
+                "ogni onda della storia economica è unica",
+                "ogni onda è caratterizzata da paradigmi tecnologici diversi"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "la seconda onda di Kondratieff",
+            "options": [
+                "coincide con la diffusione della macchina a vapore",
+                "coincide con la massiccia diffusione dell'acciaio",
+                "coincide con la prima rivoluzione industriale",
+                "si colloca tra la fine del diciannovesimo secolo e l'inizio del ventesimo"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "l'economia della conoscenza ottiene una ribalta",
+            "options": [
+                "durante la quinta onda di Kondratieff",
+                "durante la seconda onda di Kondratieff",
+                "durante la quarta onda di Kondratieff",
+                "durante la prima onda di Kondratieff"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "gli oneri connessi all'investimento in capitale umano riguardano",
+            "options": [
+                "mancati guadagni",
+                "oneri connessi alla difficoltà di apprendimento",
+                "tutte vere",
+                "spese dirette, come le tasse universitarie"
+            ],
+            "correctAnswer": 3
+        },
+        {
+            "question": "con la modellizzazione della conoscenza",
+            "options": [
+                "si individua un linguaggio per la codificazione",
+                "si fissa il sapere su un supporto materiale",
+                "si ricompone il sapere in moduli",
+                "si scompone il sapere e si procede alla codificazione"
+            ],
+            "correctAnswer": 4
+        },
+        {
+            "question": "Porter individua le seguenti modalità di apprendimento",
+            "options": [
+                "auditory learners, visual learners, passive learners",
+                "auditory learners, interactive learners, kinesthetic learners",
+                "auditory learners, visual learners, kinesthetic learners",
+                "auditory learners, web learners, kinesthetic learners"
+            ],
+            "correctAnswer": 3
+        },
+        {
+            "question": "nell'apprendimento online è molto carente",
+            "options": [
+                "la quantità dei contenuti conoscitivi",
+                "la validazione del sapere",
+                "l'interazione",
+                "la condivisione del sapere"
+            ],
+            "correctAnswer": 3
+        },
+        {
+            "question": "l'e-learning",
+            "options": [
+                "consente di realizzare economie di scala grazie alla possibilità di duplicare i contenuti",
+                "determina diseconomie di scala grazie alla possibilità di duplicare i contenuti",
+                "tutte false",
+                "consente di realizzare economie di scala grazie alla mancanza di interazione"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "l'educazione virtuale è una regola e non un'eccezione",
+            "options": [
+                "a Hong Kong",
+                "in Islanda",
+                "in Europa",
+                "in Corea del Sud"
+            ],
+            "correctAnswer": 4
+        },
+        {
+            "question": "con l'e-learning",
+            "options": [
+                "è molto difficile trasmettere conoscenza tacita",
+                "è molto difficile trasmettere conoscenza codificata",
+                "è molto semplice trasmettere conoscenza tacita",
+                "è molto facile trasmettere qualsiasi tipo di conoscenza"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "il modello open society",
+            "options": [
+                "prevede che l'apprendimento continuo si realizzi nei paesi democratici",
+                "prevede che lo sviluppo si ottenga attraverso l'uguaglianza di opportunità",
+                "è un modello in cui il life-long learning consente lo sviluppo di competenze per la crescita economica",
+                "tutte vere"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "il modello di life-long learning più appropriato per la società della conoscenza è",
+            "options": [
+                "il modello open society",
+                "il modello del capitale umano",
+                "il modello di giustizia sociale",
+                "il modello culturale"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "il life long learning",
+            "options": [
+                "si focalizza sull'apprendimento piuttosto che sull'educazione",
+                "tutte vere",
+                "riguarda l'apprendimento lungo il tutto il corso della vita",
+                "riguarda l'apprendimento in tutti i contesti"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "si parla di pregiudizio storico (Matthew effect)",
+            "options": [
+                "quando gli iniziali vantaggi di un soggetto si traducono in una riduzione dei rendimenti",
+                "quando gli iniziali svantaggi di un soggetto si traducono in una riduzione dei rendimenti",
+                "quando gli iniziali vantaggi di un soggetto si traducono in un aumento dei rendimenti",
+                "quando un paese, grazie alla tecnologia, riesce ad effettuare dei 'salti' nello sviluppo della conoscenza"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "si parla di digital divide con riferimento",
+            "options": [
+                "al divario tra chi possiede conoscenze/competenze e chi non le possiede",
+                "il divario tra paesi ricchi e paesi poveri",
+                "al divario tra chi possiede la tecnologia e chi non la possiede",
+                "il divario tra paesi avanzati e paesi in via di sviluppo"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "l'andamento del DESI mostra",
+            "options": [
+                "una posizione brillante dell'Italia in tema di digitalizzazione nel panorama internazionale",
+                "una posizione mediocre dell'Italia",
+                "un forte divario rispetto agli altri paesi europei",
+                "informazioni non sufficienti per una valutazione"
+            ],
+            "correctAnswer": 3
+        },
+        {
+            "question": "più dell'80% di coloro che non hanno mai navigato in rete",
+            "options": [
+                "ha piu' di 30 anni",
+                "ha piu' di 60 anni",
+                "ha piu' di 40 anni",
+                "ha piu' di 50 anni"
+            ],
+            "correctAnswer": 4
+        },
+        {
+            "question": "il divario globale riguarda",
+            "options": [
+                "differenze tra ricchi e poveri nell'alfabetizzazione digitale",
+                "differenze tra generazioni con gradi di alfabetizzazione digitale diversi",
+                "differenze tra paesi con gradi di sviluppo diversi",
+                "differenze di genere nell'alfabetizzazione digitale"
+            ],
+            "correctAnswer": 3
+        },
+        {
+            "question": "l'esperienza indica",
+            "options": [
+                "il tempo speso nell'apprendimento di un compito complesso",
+                "tutte false",
+                "il tempo speso nell'apprendimento della tecnologia",
+                "il tempo speso nella creazione di conoscenza"
+            ],
+            "correctAnswer": 3
+        },
+        {
+            "question": "l'ICI rappresenta",
+            "options": [
+                "indicatore di controllo dell'alfabetizzazione informatica in Europa",
+                "indicatore di controllo della qualità della connessione",
+                "indicatore di controllo dell'alfabetizzazione informatica in USA",
+                "indicatore di controllo delle divergenze di qualità della connessione"
+            ],
+            "correctAnswer": 4
+        },
+        {
+            "question": "l'apartheid digitale è",
+            "options": [
+                "la mancanza di infrastrutture e di competenze",
+                "l'esclusione di alcune classi sociali alla rete nell'economia USA",
+                "la mancanza di competenze informatiche in molte aree africane",
+                "la mancanza di infrastrutture tecnologiche in molte aree africane"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "per digital inequality si intende",
+            "options": [
+                "la scarsa capacità di utilizzo della tecnologia",
+                "la diseguale dotazione di infrastrutture",
+                "la scarsa capacità di utilizzo della tecnologia e l'ineguale dotazione di infrastrutture",
+                "il gap sociale che si crea tra coloro che utilizzano tecnologia e coloro che non la utilizzano"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "nel Global Competitiveness report",
+            "options": [
+                "l'italia occupa l'ottavo posto in Europa per avanzamento tecnologico",
+                "l'italia occupa l'ottavo posto nel mondo per avanzamento tecnologico",
+                "l'italia occupa l'ottavo in Europa per avanzamento tecnologico",
+                "l'italia occupa il decimo posto posto nel mondo per avanzamento tecnologico"
+            ],
+            "correctAnswer": 2
+        }
+    ]
+}
