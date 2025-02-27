@@ -68,7 +68,7 @@
                 "tutte vere",
                 "di supporti digitali"
             ],
-            "correctAnswer": 1
+            "correctAnswer": 2
         },
         {
             "question": "sapere e conoscenza si distinguono per",
@@ -155,9 +155,10 @@
             "options": [
                 "dal progresso tecnologico, dalla concorrenzialità dei mercati, dai diritti di proprietà",
                 "dalle tecnologie dell'informazione, dall'inefficienza dei mercati, dalla nascita della proprietà intellettuale",
-                "dalle tecnologie dell'informazione, dall'efficienza dei mercati, dalla crisi della proprietà intellettuale"
+                "dalle tecnologie dell'informazione, dall'efficienza dei mercati, dalla crisi della proprietà intellettuale",
+                "dall'inefficienza dei mercati, dalla crisi della proprietà intellettuale"
             ],
-            "correctAnswer": 4
+            "correctAnswer": 3
         },
         {
             "question": "la ricerca di base",
